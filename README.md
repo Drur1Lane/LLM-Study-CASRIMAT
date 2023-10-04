@@ -1,4 +1,4 @@
-# FinGPT-CASRIMAT
+# LLMStudyer-CASRIMAT
 A resource-set about LLM for CASRIMAT.
 ## GitHub上有关大模型的资源
 ### 开源大模型
@@ -14,12 +14,12 @@ A resource-set about LLM for CASRIMAT.
 2. 
 
 ### 数据
-1. 【中文预料：GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说、古书资源】
+1. 【中文预料：GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说、古书资源】https://github.com/PlexPt/chatgpt-corpus
 2. 
 
 ### 论文
-1. 【LLM综述——by人大人工智能实验室】
-2. 【LLM指南（综述）——by Amazon & 德州农工大学 & 莱斯大学】
+1. 【LLM综述——by人大人工智能实验室】https://github.com/RUCAIBox/LLMSurvey
+2. 【LLM指南（综述）——by Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
 3. 
 
 ### 其他资源
