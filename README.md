@@ -8,6 +8,7 @@ A resource-set about LLM for CASRIMAT.
 4. 【ChatGLM】https://github.com/THUDM/ChatGLM-6B/
 5. 【ChatGLM2】https://github.com/THUDM/ChatGLM2-6B
 6. 【Llama】https://github.com/facebookresearch/llama
+7. 
 
 ### 微调大模型
 1. 【医疗领域大模型】https://github.com/shibing624/MedicalGPT
@@ -32,6 +33,7 @@ A resource-set about LLM for CASRIMAT.
 1. 【ChatGLM2-6B微调】https://www.zhihu.com/question/596950521
 2. 【ChatGLM2-6B微调】https://zhuanlan.zhihu.com/p/641047705
 3. 【微调经验总结（无代码）】https://zhuanlan.zhihu.com/p/635710004
+4. 
 
 ## 微信
 1. 【公众号“专知”整理——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
@@ -39,6 +41,7 @@ A resource-set about LLM for CASRIMAT.
 
 ## 电子书
 1. 【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/
+2. 
 
 ## 其他
 1. 【Paper Digest（一个文献集中网站）上检索的ChatGPT文章集合】https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/
