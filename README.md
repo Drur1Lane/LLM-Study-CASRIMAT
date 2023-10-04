@@ -11,8 +11,9 @@ A resource-set about LLM for CASRIMAT.
 7. 
 
 ### 微调大模型
-1. 【医疗领域大模型】https://github.com/shibing624/MedicalGPT
-2. 
+1. 【医疗大模型】https://github.com/shibing624/MedicalGPT
+2. 【法律大模型】https://github.com/PKU-YuanGroup/ChatLaw
+3. 
 
 ### 数据
 1. 【中文预料：GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说、古书资源】https://github.com/PlexPt/chatgpt-corpus
