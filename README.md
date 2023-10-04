@@ -3,11 +3,11 @@ A resource-set about LLM for CASRIMAT.
 ## GitHub上有关大模型的资源
 ### 开源大模型
 1. 【Baichuan-7B】https://github.com/baichuan-inc/Baichuan-7B
-2. 【Baichuan-13B】
-3. 【Baichuan2】
-4. 【ChatGLM】
-5. 【ChatGLM2】
-6. 【Llama】
+2. 【Baichuan-13B】https://github.com/baichuan-inc/Baichuan-13B
+3. 【Baichuan2】https://github.com/baichuan-inc/Baichuan2
+4. 【ChatGLM】https://github.com/THUDM/ChatGLM-6B/
+5. 【ChatGLM2】https://github.com/THUDM/ChatGLM2-6B
+6. 【Llama】https://github.com/facebookresearch/llama
 
 ### 微调大模型
 1. 【医疗领域大模型】
