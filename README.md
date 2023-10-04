@@ -10,7 +10,7 @@ A resource-set about LLM for CASRIMAT.
 6. 【Llama】https://github.com/facebookresearch/llama
 
 ### 微调大模型
-1. 【医疗领域大模型】
+1. 【医疗领域大模型】https://github.com/shibing624/MedicalGPT
 2. 
 
 ### 数据
