@@ -2,14 +2,14 @@
 A resource-set about LLM for CASRIMAT.
 ## GitHub上有关大模型的资源
 ### 开源大模型
-1. 【Baichuan-7B】
+1. 【Baichuan-7B】https://github.com/baichuan-inc/Baichuan-7B
 2. 【Baichuan-13B】
 3. 【Baichuan2】
 4. 【ChatGLM】
 5. 【ChatGLM2】
 6. 【Llama】
 
-### 微调大模型（可以借鉴于FinGPT）
+### 微调大模型
 1. 【医疗领域大模型】
 2. 
 
@@ -27,3 +27,13 @@ A resource-set about LLM for CASRIMAT.
 2. 【ChatGPT的中文提示词】
 3. 【学术ChatGPT】
 4. 
+
+## 知乎上有关大模型的资源
+1. 【ChatGLM2-6B微调】
+2. 【ChatGLM2-6B微调】
+3. 【微调经验总结，没有代码】【万字长文】
+
+## 微信上有关大模型的资源
+
+
+## 有关ChatGPT的其他网络资源
