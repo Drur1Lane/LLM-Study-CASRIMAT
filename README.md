@@ -37,7 +37,8 @@ A resource-set about LLM for CASRIMAT.
 1. 【ChatGLM2-6B微调】https://www.zhihu.com/question/596950521
 2. 【ChatGLM2-6B微调】https://zhuanlan.zhihu.com/p/641047705
 3. 【微调经验总结（无代码）】https://zhuanlan.zhihu.com/p/635710004
-4. 
+4. 【大模型学术研究方向的讨论】https://www.zhihu.com/question/595298808
+5. 
 
 ## 微信
 1. 【公众号“专知”整理——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
