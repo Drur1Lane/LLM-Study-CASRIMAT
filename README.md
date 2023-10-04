@@ -1,4 +1,4 @@
-# LLMStudyer-CASRIMAT
+# Study-LLM-CASRIMAT
 A resource-set about LLM for CASRIMAT.
 ## GitHub上有关大模型的资源
 ### 开源大模型
