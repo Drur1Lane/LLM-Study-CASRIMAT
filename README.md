@@ -1,4 +1,4 @@
-# Study-LLM-CASRIMAT
+# LLM-Study-CASRIMAT
 A resource-set about LLM for CASRIMAT.
 ## GitHub上有关大模型的资源
 ### 开源大模型
@@ -23,17 +23,20 @@ A resource-set about LLM for CASRIMAT.
 3. 
 
 ### 其他资源
-1. 【ChatGPT的英文提示词】
-2. 【ChatGPT的中文提示词】
-3. 【学术ChatGPT】
+1. 【ChatGPT的英文提示词】https://github.com/f/awesome-chatgpt-prompts
+2. 【ChatGPT的中文提示词】https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+3. 【学术ChatGPT】https://github.com/binary-husky/gpt_academic
 4. 
 
 ## 知乎上有关大模型的资源
-1. 【ChatGLM2-6B微调】
-2. 【ChatGLM2-6B微调】
-3. 【微调经验总结，没有代码】
+1. 【ChatGLM2-6B微调】https://www.zhihu.com/question/596950521
+2. 【ChatGLM2-6B微调】https://zhuanlan.zhihu.com/p/641047705
+3. 【微调经验总结（无代码）】https://zhuanlan.zhihu.com/p/635710004
 
 ## 微信上有关大模型的资源
-
+1. 【公众号“专知”整理——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
+2. 
 
 ## 有关ChatGPT的其他网络资源
+1. 【Paper Digest（一个文献集中网站）上检索的ChatGPT文章集合】https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/
+2. 
