@@ -27,7 +27,8 @@ A resource-set about LLM for CASRIMAT.
 1. 【ChatGPT的英文提示词】https://github.com/f/awesome-chatgpt-prompts
 2. 【ChatGPT的中文提示词】https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 3. 【学术ChatGPT】https://github.com/binary-husky/gpt_academic
-4. 
+4. 【资源整合】https://github.com/Hannibal046/Awesome-LLM
+5. 
 
 ## 知乎
 1. 【ChatGLM2-6B微调】https://www.zhihu.com/question/596950521
