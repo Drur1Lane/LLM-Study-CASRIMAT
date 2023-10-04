@@ -1,6 +1,6 @@
 # LLM-Study-CASRIMAT
 A resource-set about LLM for CASRIMAT.
-## GitHub上有关大模型的资源
+## GitHub
 ### 开源大模型
 1. 【Baichuan-7B】https://github.com/baichuan-inc/Baichuan-7B
 2. 【Baichuan-13B】https://github.com/baichuan-inc/Baichuan-13B
@@ -28,15 +28,18 @@ A resource-set about LLM for CASRIMAT.
 3. 【学术ChatGPT】https://github.com/binary-husky/gpt_academic
 4. 
 
-## 知乎上有关大模型的资源
+## 知乎
 1. 【ChatGLM2-6B微调】https://www.zhihu.com/question/596950521
 2. 【ChatGLM2-6B微调】https://zhuanlan.zhihu.com/p/641047705
 3. 【微调经验总结（无代码）】https://zhuanlan.zhihu.com/p/635710004
 
-## 微信上有关大模型的资源
+## 微信
 1. 【公众号“专知”整理——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
 2. 
 
-## 有关ChatGPT的其他网络资源
+## 电子书
+1. 【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/
+
+## 其他
 1. 【Paper Digest（一个文献集中网站）上检索的ChatGPT文章集合】https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/
 2. 
