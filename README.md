@@ -31,7 +31,7 @@ A resource-set about LLM for CASRIMAT.
 ## 知乎上有关大模型的资源
 1. 【ChatGLM2-6B微调】
 2. 【ChatGLM2-6B微调】
-3. 【微调经验总结，没有代码】【万字长文】
+3. 【微调经验总结，没有代码】
 
 ## 微信上有关大模型的资源
 
