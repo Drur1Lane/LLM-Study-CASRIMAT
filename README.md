@@ -13,7 +13,7 @@ A resource-set about LLM for CASRIMAT.
 ### 微调大模型
 1. 【医疗大模型】https://github.com/shibing624/MedicalGPT
 2. 【法律大模型】https://github.com/PKU-YuanGroup/ChatLaw
-3. 【金融大模型——度小满】https://github.com/Duxiaoman-DI/XuanYuan
+3. $$【金融大模型——度小满】https://github.com/Duxiaoman-DI/XuanYuan$$
 4. 【金融大模型——中科院成都计算机应用研究所】https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese
 5. 
 
