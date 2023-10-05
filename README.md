@@ -33,7 +33,8 @@ A resource-set about LLM for CASRIMAT.
 1. 【LLM综述——by人大人工智能实验室】https://github.com/RUCAIBox/LLMSurvey
 2. 【LLM指南（综述）——by Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
 3. 【金融风险大模型——On arXiv】https://arxiv.org/abs/2308.00065
-4. 
+4. 【FinBERT——On Contemporary Accounting Research（CAR）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832
+5. 
 
 ## 知乎
 1. 【ChatGLM2-6B微调】https://www.zhihu.com/question/596950521
