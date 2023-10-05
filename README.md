@@ -13,8 +13,8 @@ A resource-set about LLM for CASRIMAT.
 ### 微调大模型
 1. 【医疗大模型】https://github.com/shibing624/MedicalGPT
 2. 【法律大模型】https://github.com/PKU-YuanGroup/ChatLaw
-3. $$【金融大模型——度小满】https://github.com/Duxiaoman-DI/XuanYuan$$
-4. 【金融大模型——中科院成都计算机应用研究所】https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese
+3. **【金融大模型——度小满】https://github.com/Duxiaoman-DI/XuanYuan**
+4. **【金融大模型——中科院成都计算机应用研究所】https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese**
 5. 
 
 ### 数据
@@ -32,8 +32,8 @@ A resource-set about LLM for CASRIMAT.
 ## 论文
 1. 【LLM综述——by人大人工智能实验室】https://github.com/RUCAIBox/LLMSurvey
 2. 【LLM指南（综述）——by Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
-3. 【金融风险大模型——On arXiv】https://arxiv.org/abs/2308.00065
-4. 【FinBERT——On Contemporary Accounting Research（CAR）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832
+3. **【金融风险大模型——On arXiv】https://arxiv.org/abs/2308.00065**
+4. **【FinBERT——On Contemporary Accounting Research（CAR）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
 5. 
 
 ## 知乎
