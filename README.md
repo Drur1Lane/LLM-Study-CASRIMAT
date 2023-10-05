@@ -21,17 +21,18 @@ A resource-set about LLM for CASRIMAT.
 1. 【中文预料：GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说、古书资源】https://github.com/PlexPt/chatgpt-corpus
 2. 
 
-### 论文
-1. 【LLM综述——by人大人工智能实验室】https://github.com/RUCAIBox/LLMSurvey
-2. 【LLM指南（综述）——by Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
-3. 
-
 ### 其他资源
 1. 【ChatGPT的英文提示词】https://github.com/f/awesome-chatgpt-prompts
 2. 【ChatGPT的中文提示词】https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 3. 【学术ChatGPT】https://github.com/binary-husky/gpt_academic
 4. 【资源整合】https://github.com/Hannibal046/Awesome-LLM
 5. 
+
+
+## 论文
+1. 【LLM综述——by人大人工智能实验室】https://github.com/RUCAIBox/LLMSurvey
+2. 【LLM指南（综述）——by Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
+3. 
 
 ## 知乎
 1. 【ChatGLM2-6B微调】https://www.zhihu.com/question/596950521
