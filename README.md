@@ -38,12 +38,13 @@ A resource-set about LLM for CASRIMAT.
 6. 
 
 ## 知乎
-1. 【ChatGLM2-6B微调】https://www.zhihu.com/question/596950521
-2. 【ChatGLM2-6B微调】https://zhuanlan.zhihu.com/p/641047705
-3. 【微调经验总结（无代码）】https://zhuanlan.zhihu.com/p/635710004
-4. 【大模型学术研究方向的讨论】https://www.zhihu.com/question/595298808
-5. 【大模型的微调一般训练多少epoch不会过拟合？】https://www.zhihu.com/question/607397171
-6. 
+1. 【Transformer的细节到底是怎么样的？】https://www.zhihu.com/question/362131975/answer/2182682685
+2. 【ChatGLM2-6B微调】https://www.zhihu.com/question/596950521
+3. 【ChatGLM2-6B微调】https://zhuanlan.zhihu.com/p/641047705
+4. 【微调经验总结（无代码）】https://zhuanlan.zhihu.com/p/635710004
+5. 【大模型学术研究方向的讨论】https://www.zhihu.com/question/595298808
+6. 【大模型的微调一般训练多少epoch不会过拟合？】https://www.zhihu.com/question/607397171
+7. 
 
 ## 微信
 1. 【公众号“专知”整理——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
