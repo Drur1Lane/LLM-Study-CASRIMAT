@@ -9,9 +9,9 @@ A resource-set about LLM for CASRIMAT.
 6. **【金融大模型——度小满轩辕】https://arxiv.org/abs/2305.12002**
 7. 
 
-## GitHub
+## GitHub / Hugging Face
 ### 开源大模型
-1. 【Baichuan-7B】https://github.com/baichuan-inc/Baichuan-7B
+1. 【Baichuan-7B】https://github.com/baichuan-inc/Baichuan-7B https://huggingface.co/baichuan-inc/Baichuan-7B
 2. 【Baichuan-13B】https://github.com/baichuan-inc/Baichuan-13B
 3. 【Baichuan2】https://github.com/baichuan-inc/Baichuan2
 4. 【ChatGLM】https://github.com/THUDM/ChatGLM-6B/
