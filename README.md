@@ -35,7 +35,8 @@ A resource-set about LLM for CASRIMAT.
 3. **【金融风险大模型——On arXiv】https://arxiv.org/abs/2308.00065**
 4. **【FinBERT——On Contemporary Accounting Research（CAR，ABS 4）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
 5. **【金融大模型——BloombergGPT】https://arxiv.org/abs/2303.17564**
-6. 
+6. **【金融大模型——度小满轩辕】https://arxiv.org/abs/2305.12002**
+7. 
 
 ## 知乎
 1. 【Transformer的细节到底是怎么样的？】https://www.zhihu.com/question/362131975/answer/2182682685
