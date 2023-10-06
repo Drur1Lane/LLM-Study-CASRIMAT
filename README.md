@@ -1,5 +1,14 @@
 # LLM-Study-CASRIMAT
 A resource-set about LLM for CASRIMAT.
+## 论文
+1. 【LLM综述——人大】https://github.com/RUCAIBox/LLMSurvey
+2. 【LLM指南（综述）——Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
+3. **【金融风险大模型——港大 & 达摩院】https://arxiv.org/abs/2308.00065**
+4. **【FinBERT——Contemporary Accounting Research（CAR，ABS 4）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
+5. **【金融大模型——BloombergGPT】https://arxiv.org/abs/2303.17564**
+6. **【金融大模型——度小满轩辕】https://arxiv.org/abs/2305.12002**
+7. 
+
 ## GitHub
 ### 开源大模型
 1. 【Baichuan-7B】https://github.com/baichuan-inc/Baichuan-7B
@@ -27,16 +36,6 @@ A resource-set about LLM for CASRIMAT.
 3. 【学术ChatGPT】https://github.com/binary-husky/gpt_academic
 4. 【资源整合】https://github.com/Hannibal046/Awesome-LLM
 5. 
-
-
-## 论文
-1. 【LLM综述——人大】https://github.com/RUCAIBox/LLMSurvey
-2. 【LLM指南（综述）——Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
-3. **【金融风险大模型——港大 & 达摩院】https://arxiv.org/abs/2308.00065**
-4. **【FinBERT——Contemporary Accounting Research（CAR，ABS 4）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
-5. **【金融大模型——BloombergGPT】https://arxiv.org/abs/2303.17564**
-6. **【金融大模型——度小满轩辕】https://arxiv.org/abs/2305.12002**
-7. 
 
 ## 知乎
 1. 【Transformer的细节到底是怎么样的？】https://www.zhihu.com/question/362131975/answer/2182682685
