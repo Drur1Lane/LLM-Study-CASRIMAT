@@ -30,10 +30,10 @@ A resource-set about LLM for CASRIMAT.
 
 
 ## 论文
-1. 【LLM综述——by人大人工智能实验室】https://github.com/RUCAIBox/LLMSurvey
-2. 【LLM指南（综述）——by Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
-3. **【金融风险大模型——On arXiv】https://arxiv.org/abs/2308.00065**
-4. **【FinBERT——On Contemporary Accounting Research（CAR，ABS 4）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
+1. 【LLM综述——人大】https://github.com/RUCAIBox/LLMSurvey
+2. 【LLM指南（综述）——Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
+3. **【金融风险大模型——港大 & 达摩院】https://arxiv.org/abs/2308.00065**
+4. **【FinBERT——Contemporary Accounting Research（CAR，ABS 4）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
 5. **【金融大模型——BloombergGPT】https://arxiv.org/abs/2303.17564**
 6. **【金融大模型——度小满轩辕】https://arxiv.org/abs/2305.12002**
 7. 
