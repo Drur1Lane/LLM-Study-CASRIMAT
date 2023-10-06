@@ -20,11 +20,13 @@ A resource-set about LLM for CASRIMAT.
 7. 
 
 ### 微调大模型
-1. 【医疗大模型】https://github.com/shibing624/MedicalGPT
-2. 【法律大模型——北大】https://github.com/PKU-YuanGroup/ChatLaw
+1. **【金融风险大模型——港大 & 达摩院】https://github.com/YuweiYin/FinPT**
+2. **【FinBERT——Contemporary Accounting Research（CAR，ABS 4）】https://github.com/yya518/FinBERT**
 3. **【金融大模型——度小满轩辕】https://github.com/Duxiaoman-DI/XuanYuan**
-4. **【金融大模型——中科院成都计算机应用研究所】https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese**
-5. ****
+4. 【医疗大模型】https://github.com/shibing624/MedicalGPT
+5. 【法律大模型——北大】https://github.com/PKU-YuanGroup/ChatLaw
+6. **【金融大模型——中科院成都计算机应用研究所】https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese**
+7.  
 
 ### 数据
 1. 【中文预料：GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说、古书资源】https://github.com/PlexPt/chatgpt-corpus
