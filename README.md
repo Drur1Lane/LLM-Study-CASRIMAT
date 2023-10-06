@@ -28,6 +28,13 @@ A resource-set about LLM for CASRIMAT.
 6. **【金融大模型——中科院成都计算机应用研究所】https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese**
 7.  
 
+### 练手小大模型
+1. 【baby-llama2-chinese】https://github.com/DLLXW/baby-llama2-chinese
+2. 【nanoGPT】https://github.com/karpathy/nanoGPT
+3. 【Standford——alpaca】https://github.com/tatsu-lab/stanford_alpaca
+4. 【alpaca-lora】https://github.com/tloen/alpaca-lora
+5. 
+
 ### 数据
 1. 【中文预料：GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说、古书资源】https://github.com/PlexPt/chatgpt-corpus
 2. 
@@ -37,16 +44,22 @@ A resource-set about LLM for CASRIMAT.
 2. 【ChatGPT的中文提示词】https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 3. 【学术ChatGPT】https://github.com/binary-husky/gpt_academic
 4. 【资源整合】https://github.com/Hannibal046/Awesome-LLM
-5. 
+5. **【LLMs九层妖塔——另一位同仁的学习笔记】https://github.com/km1994/LLMsNineStoryDemonTower**
+6. **【LLM-Action——一个资源集合】https://github.com/liguodongiot/llm-action**
+7. **【跟李沐学AI】https://github.com/mli/paper-reading**
+8. 【打造本地的私人GPT】https://github.com/eosphoros-ai/DB-GPT
+9. 【AIGC Progress——又一个资源集合】https://github.com/kinghuin/AIGC-progress
+10. 
 
 ## 知乎
 1. 【Transformer的细节到底是怎么样的？】https://www.zhihu.com/question/362131975/answer/2182682685
 2. 【ChatGLM2-6B微调】https://www.zhihu.com/question/596950521
 3. 【ChatGLM2-6B微调】https://zhuanlan.zhihu.com/p/641047705
 4. 【微调经验总结（无代码）】https://zhuanlan.zhihu.com/p/635710004
-5. 【大模型学术研究方向的讨论】https://www.zhihu.com/question/595298808
+5. **【大模型学术研究方向的讨论】https://www.zhihu.com/question/595298808**
 6. 【大模型的微调一般训练多少epoch不会过拟合？】https://www.zhihu.com/question/607397171
-7. 
+7. **【导师让我搞gpt方向，我该怎么去学？】https://www.zhihu.com/question/604134581**
+8. 
 
 ## 微信
 1. 【公众号“专知”整理——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
@@ -54,7 +67,8 @@ A resource-set about LLM for CASRIMAT.
 
 ## 电子书
 1. 【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/
-2. 
+2. 【（代码部分）刘聪NLP《ChatGPT原理与实战：大型语言模型的算法、技术和私有化》】https://github.com/liucongg/ChatGPTBook
+3. 
 
 ## 其他
 1. 【Paper Digest（一个文献集中网站）上检索的ChatGPT文章集合】https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/
