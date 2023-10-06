@@ -51,7 +51,8 @@ A resource-set about LLM for CASRIMAT.
 7. **【跟李沐学AI】https://github.com/mli/paper-reading**
 8. 【打造本地的私人GPT】https://github.com/eosphoros-ai/DB-GPT
 9. 【AIGC Progress——又一个资源集合】https://github.com/kinghuin/AIGC-progress
-10. 
+10. 【OpenAI的tokenize方式】https://github.com/openai/tiktoken
+11. 
 
 ## 知乎
 1. 【Transformer的细节到底是怎么样的？】https://www.zhihu.com/question/362131975/answer/2182682685
