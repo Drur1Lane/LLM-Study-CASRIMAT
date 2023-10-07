@@ -1,13 +1,18 @@
 # LLM-Study-CASRIMAT
 A resource-set about LLM for CASRIMAT.
 ## 论文
-1. 【LLM综述——人大】https://github.com/RUCAIBox/LLMSurvey
-2. 【LLM指南（综述）——Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
-3. **【金融风险大模型——港大 & 达摩院】https://arxiv.org/abs/2308.00065**
-4. **【FinBERT——Contemporary Accounting Research（CAR，ABS 4）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
-5. **【金融大模型——BloombergGPT】https://arxiv.org/abs/2303.17564**
-6. **【金融大模型——度小满轩辕】https://arxiv.org/abs/2305.12002**
-7. 
+1. 【Transformer】https://arxiv.org/abs/1706.03762
+2. 【GPT-1】https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
+3. 【BERT】https://arxiv.org/abs/1810.04805
+4. 【GPT-2】https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+5. 【GPT-3】https://arxiv.org/abs/2005.14165
+6. 【LLM综述——人大】https://github.com/RUCAIBox/LLMSurvey
+7. 【LLM指南（综述）——Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
+8. **【金融风险大模型——港大 & 达摩院】https://arxiv.org/abs/2308.00065**
+9. **【FinBERT——Contemporary Accounting Research（CAR，ABS 4）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
+10. **【金融大模型——BloombergGPT】https://arxiv.org/abs/2303.17564**
+11. **【金融大模型——度小满轩辕】https://arxiv.org/abs/2305.12002**
+12. 
 
 ## GitHub / Hugging Face
 ### 开源大模型
