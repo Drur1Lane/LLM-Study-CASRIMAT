@@ -33,11 +33,11 @@ A resource-set about LLM for CASRIMAT.
 ### 练手小大模型
 1. 【baby-llama2-chinese】https://github.com/DLLXW/baby-llama2-chinese
 2. 【nanoGPT】https://github.com/karpathy/nanoGPT
-  3. 【nanoGPT配套代码】https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing#scrollTo=wJpXpmjEYC_T
-  4. 【nanoGPT配套代码配套视频】https://www.youtube.com/watch?v=kCc8FmEb1nY
-5. 【Standford——alpaca】https://github.com/tatsu-lab/stanford_alpaca
-6. 【alpaca-lora】https://github.com/tloen/alpaca-lora
-7. 
+   【nanoGPT配套代码】https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing#scrollTo=wJpXpmjEYC_T
+   【nanoGPT配套代码配套视频】https://www.youtube.com/watch?v=kCc8FmEb1nY
+3. 【Standford——alpaca】https://github.com/tatsu-lab/stanford_alpaca
+4. 【alpaca-lora】https://github.com/tloen/alpaca-lora
+5. 
 
 ### 数据
 1. 【中文预料：GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说、古书资源】https://github.com/PlexPt/chatgpt-corpus
