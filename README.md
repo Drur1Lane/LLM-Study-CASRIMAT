@@ -29,6 +29,7 @@ A resource-set about LLM for CASRIMAT.
 5. 【法律大模型——北大】https://github.com/PKU-YuanGroup/ChatLaw
 6. **【金融大模型——中科院成都计算机应用研究所】https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese**
 7.  【医疗大模型“华驼”】https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
+8.  
 
 ### 练手小大模型
 1. 【baby-llama2-chinese】https://github.com/DLLXW/baby-llama2-chinese
