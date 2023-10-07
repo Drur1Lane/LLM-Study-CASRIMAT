@@ -12,18 +12,25 @@ A resource-set about LLM for CASRIMAT.
 9. **【FinBERT——Contemporary Accounting Research（CAR，ABS 4）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
 10. **【金融大模型——BloombergGPT】https://arxiv.org/abs/2303.17564**
 11. **【金融大模型——度小满轩辕】https://arxiv.org/abs/2305.12002**
-12. 
+12. 【法律大模型——北大Chatlaw】http://arxiv.org/abs/2306.16092
+13. **【金融大模型Instruct-FinGPT——哥大刘小洋】http://arxiv.org/abs/2306.12659**
+14. **【金融大模型FinGPT——哥大刘小洋】https://arxiv.org/abs/2306.06031**
+15. **【金融大模型FinGPT——哥大刘小洋】https://arxiv.org/abs/2307.10485**
+16. **【中文金融情感分析数据集】https://arxiv.org/abs/2306.14096**
+17. **【金融大模型FinVisGPT（多模态）——哈工深】https://arxiv.org/abs/2308.01430**
+18. **【金融指令调优数据集——哈工深】https://arxiv.org/abs/2308.01415**
+19. 
 
 ## GitHub / Hugging Face
 ### 开源大模型
 1. 【Baichuan-7B】https://github.com/baichuan-inc/Baichuan-7B https://huggingface.co/baichuan-inc/Baichuan-7B
 2. 【Baichuan-13B】https://github.com/baichuan-inc/Baichuan-13B
-3. 【Baichuan2】https://github.com/baichuan-inc/Baichuan2
+3. **【Baichuan2】https://github.com/baichuan-inc/Baichuan2**
 4. 【ChatGLM】https://github.com/THUDM/ChatGLM-6B/
-5. 【ChatGLM2】https://github.com/THUDM/ChatGLM2-6B
+5. **【ChatGLM2】https://github.com/THUDM/ChatGLM2-6B**
 6. 【Llama】https://github.com/facebookresearch/llama
-7. 【中文llama2 & Alpaca——科大讯飞】https://github.com/ymcui/Chinese-LLaMA-Alpaca
-8. 【中文llama2 & Alpaca 2——科大讯飞】https://github.com/ymcui/Chinese-LLaMA-Alpaca-2
+7. **【中文llama2 & Alpaca——科大讯飞】https://github.com/ymcui/Chinese-LLaMA-Alpaca**
+8. **【中文llama2 & Alpaca 2——科大讯飞】https://github.com/ymcui/Chinese-LLaMA-Alpaca-2**
 9. 
 
 ### 微调大模型
@@ -31,10 +38,12 @@ A resource-set about LLM for CASRIMAT.
 2. **【FinBERT——Contemporary Accounting Research（CAR，ABS 4）】https://github.com/yya518/FinBERT**
 3. **【金融大模型——度小满轩辕】https://github.com/Duxiaoman-DI/XuanYuan**
 4. 【医疗大模型】https://github.com/shibing624/MedicalGPT
-5. 【法律大模型——北大】https://github.com/PKU-YuanGroup/ChatLaw
+5. 【法律大模型——北大Chatlaw】https://github.com/PKU-YuanGroup/ChatLaw
 6. **【金融大模型——中科院成都计算机应用研究所】https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese**
 7.  【医疗大模型“华驼”】https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
-8.  
+8. **【金融大模型FinGPT——哥大刘小洋】https://github.com/AI4Finance-Foundation/FinGPT**
+9. **【金融大模型FinVisGPT（多模态）——哈工深】https://github.com/wwwadx/FinVis-GPT**
+10. 
 
 ### 练手小大模型
 1. 【baby-llama2-chinese】https://github.com/DLLXW/baby-llama2-chinese
@@ -47,7 +56,8 @@ A resource-set about LLM for CASRIMAT.
 
 ### 数据
 1. 【中文预料：GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说、古书资源】https://github.com/PlexPt/chatgpt-corpus
-2. 
+2. **【中文金融情感分析数据集】https://github.com/YerayL/FinChina-SA**
+3. 【金融指令调优数据集——哈工深】
 
 ### 其他资源
 1. 【ChatGPT的英文提示词】https://github.com/f/awesome-chatgpt-prompts
@@ -60,7 +70,8 @@ A resource-set about LLM for CASRIMAT.
 8. 【打造本地的私人GPT】https://github.com/eosphoros-ai/DB-GPT
 9. 【AIGC Progress——又一个资源集合】https://github.com/kinghuin/AIGC-progress
 10. 【OpenAI的tokenize方式】https://github.com/openai/tiktoken
-11. 
+11. 【FinNLP——哥大刘小洋】https://github.com/AI4Finance-Foundation/FinNLP
+12. 
 
 ## 知乎
 1. 【Transformer的细节到底是怎么样的？】https://www.zhihu.com/question/362131975/answer/2182682685
