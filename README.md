@@ -95,7 +95,9 @@ A resource-set about LLM for CASRIMAT.
 ## 其他
 1. 【Paper Digest（一个文献集中网站）上检索的ChatGPT文章集合】https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/
 2. 【大语言模型对于世界的理解：Language Models Represent Space and Time】https://arxiv.org/abs/2310.02207
-3. 
+3. 【动手学深度学习】https://github.com/d2l-ai/d2l-zh
+4. 【知乎——小王同学在积累的Github学习资料】https://github.com/AccumulateMore/CV
+5. 
 
 ## Something Interesting Beside FinLLM
 1. 【复旦自然语言处理实验室——入组第一课】https://github.com/FudanNLP/nlp-beginner
