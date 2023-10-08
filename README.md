@@ -98,7 +98,7 @@ A resource-set about LLM for CASRIMAT.
 3. 【DocsGPT——读论文】https://github.com/arc53/DocsGPT
 4. 
 
-## Something Interesting Beside LLM
+## Something Interesting Beside FinLLM
 1. 【复旦自然语言处理实验室——入组第一课】https://github.com/FudanNLP/nlp-beginner
 2. 【nlp研究生不会自己写代码怎么办？】https://www.zhihu.com/question/615441114
 3. 
