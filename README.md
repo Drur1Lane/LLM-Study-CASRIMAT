@@ -8,7 +8,7 @@ A resource-set about LLM for CASRIMAT.
 5. 【GPT-3】https://arxiv.org/abs/2005.14165
 6. 【LLM综述——人大】https://github.com/RUCAIBox/LLMSurvey
 7. 【LLM指南（综述）——Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
-8. **【金融风险大模型——港大 & 达摩院】https://arxiv.org/abs/2308.00065**
+8. **【金融风险大模型FinPT——港大 & 达摩院】https://arxiv.org/abs/2308.00065**
 9. **【FinBERT——Contemporary Accounting Research（CAR，ABS 4）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
 10. **【金融大模型——BloombergGPT】https://arxiv.org/abs/2303.17564**
 11. **【金融大模型——度小满轩辕】https://arxiv.org/abs/2305.12002**
