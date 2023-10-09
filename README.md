@@ -81,7 +81,8 @@ A resource-set about LLM for CASRIMAT.
 5. **【大模型学术研究方向的讨论】https://www.zhihu.com/question/595298808**
 6. 【大模型的微调一般训练多少epoch不会过拟合？】https://www.zhihu.com/question/607397171
 7. **【导师让我搞gpt方向，我该怎么去学？】https://www.zhihu.com/question/604134581**
-8. 
+8. 【为什么现在的LLM都是Decoder only的架构？】https://www.zhihu.com/question/588325646
+9. 
 
 ## 微信
 1. 【公众号“专知”整理——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
