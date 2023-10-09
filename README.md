@@ -19,7 +19,9 @@ A resource-set about LLM for CASRIMAT.
 16. **【中文金融情感分析数据集】https://arxiv.org/abs/2306.14096**
 17. **【金融大模型FinVisGPT（多模态）——哈工深】https://arxiv.org/abs/2308.01430**
 18. **【金融指令调优数据集——哈工深】https://arxiv.org/abs/2308.01415**
-19. 
+19. **【金融大模型CFGPT——同济 & 上海AI实验室】https://arxiv.org/abs/2309.10654**
+20. 
+
 
 ## GitHub / Hugging Face
 ### 开源大模型
