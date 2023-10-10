@@ -91,7 +91,9 @@ A resource-set about LLM for CASRIMAT.
 ## 微信
 1. 【专知——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
 2. 【扬奇智能社区——2023.9值得关注的大模型相关研究】https://mp.weixin.qq.com/s/MA36pVL0bSCgsF6EDH8jVw
-3. 
+3. 【老刘说NLP——再谈大模型行业问答落地中的文档智能技术：现有多模态预训练模型及相关数据集汇总】https://mp.weixin.qq.com/s/GnGwllYjecinZxh3yybqtw
+4. 【老刘说NLP——再看业界大模型行业问答的困难及若干业界实践：兼看智能客服常用路线及多场景prompt】https://mp.weixin.qq.com/s/dQ35J5eg5Cq7rY7zaa6wrw
+5. 
 
 ## 电子书
 1. 【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/
