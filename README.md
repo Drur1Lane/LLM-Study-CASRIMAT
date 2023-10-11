@@ -87,7 +87,7 @@ A resource-set about LLM for CASRIMAT.
 2. 【ChatGLM2-6B微调】https://www.zhihu.com/question/596950521
 3. 【ChatGLM2-6B微调】https://zhuanlan.zhihu.com/p/641047705
 4. 【微调经验总结（无代码）】https://zhuanlan.zhihu.com/p/635710004
-5. **【大模型学术研究方向的讨论】https://www.zhihu.com/question/595298808**
+5. **【大模型LLM领域，有哪些可以作为学术研究方向？】https://www.zhihu.com/question/595298808**
 6. 【大模型的微调一般训练多少epoch不会过拟合？】https://www.zhihu.com/question/607397171
 7. **【导师让我搞gpt方向，我该怎么去学？】https://www.zhihu.com/question/604134581**
 8. 【为什么现在的LLM都是Decoder only的架构？】https://www.zhihu.com/question/588325646
