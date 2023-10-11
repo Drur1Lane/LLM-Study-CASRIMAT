@@ -21,9 +21,14 @@ A resource-set about LLM for CASRIMAT.
 18. **【金融指令调优数据集——哈工深】https://arxiv.org/abs/2308.01415**
 19. **【金融大模型CFGPT——同济 & 上海AI实验室】https://arxiv.org/abs/2309.10654**
 20. 【大模型与知识图谱】https://arxiv.org/abs/2307.07697
-21. 
+21. **【StructGPT：面向结构化数据的大模型推理框架——人大】https://arxiv.org/abs/2305.09645**
+22. 
 
 ## GitHub / Hugging Face
+### 框架
+1. **【StructGPT：面向结构化数据的大模型推理框架——人大】https://github.com/RUCAIBox/StructGPT**
+2. 
+
 ### 开源大模型
 1. 【Baichuan-7B】https://github.com/baichuan-inc/Baichuan-7B https://huggingface.co/baichuan-inc/Baichuan-7B
 2. 【Baichuan-13B】https://github.com/baichuan-inc/Baichuan-13B
