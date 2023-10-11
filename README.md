@@ -10,8 +10,8 @@ A resource-set about LLM for CASRIMAT.
 7. 【LLM指南（综述）——Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
 8. **【金融风险大模型FinPT——港大 & 达摩院】https://arxiv.org/abs/2308.00065**
 9. **【FinBERT——Contemporary Accounting Research（CAR，ABS 4）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
-10. **【金融大模型——BloombergGPT】https://arxiv.org/abs/2303.17564**
-11. **【金融大模型——度小满轩辕】https://arxiv.org/abs/2305.12002**
+10. **【金融大模型BloombergGPT——彭博社】https://arxiv.org/abs/2303.17564**
+11. **【金融大模型“轩辕”——度小满】https://arxiv.org/abs/2305.12002**
 12. 【法律大模型——北大Chatlaw】http://arxiv.org/abs/2306.16092
 13. **【金融大模型Instruct-FinGPT——哥大刘小洋】http://arxiv.org/abs/2306.12659**
 14. **【金融大模型FinGPT——哥大刘小洋】https://arxiv.org/abs/2306.06031**
@@ -41,12 +41,12 @@ A resource-set about LLM for CASRIMAT.
 9. 
 
 ### 微调大模型
-1. **【金融风险大模型——港大 & 达摩院】https://github.com/YuweiYin/FinPT**
+1. **【金融风险大模型FinPT——港大 & 达摩院】https://github.com/YuweiYin/FinPT**
 2. **【FinBERT——Contemporary Accounting Research（CAR，ABS 4）】https://github.com/yya518/FinBERT**
-3. **【金融大模型——度小满轩辕】https://github.com/Duxiaoman-DI/XuanYuan**
+3. **【金融大模型“轩辕”——度小满】https://github.com/Duxiaoman-DI/XuanYuan**
 4. 【医疗大模型】https://github.com/shibing624/MedicalGPT
 5. 【法律大模型——北大Chatlaw】https://github.com/PKU-YuanGroup/ChatLaw
-6. **【金融大模型——中科院成都计算机应用研究所】https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese**
+6. **【金融大模型“聚宝盆”——中科院成都计算机应用研究所】https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese**
 7.  【医疗大模型“华驼”】https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
 8. **【金融大模型FinGPT——哥大刘小洋】https://github.com/AI4Finance-Foundation/FinGPT**
 9. **【金融大模型FinVisGPT（多模态）——哈工深】https://github.com/wwwadx/FinVis-GPT**
