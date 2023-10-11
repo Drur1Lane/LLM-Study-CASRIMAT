@@ -91,7 +91,10 @@ A resource-set about LLM for CASRIMAT.
 8. 【为什么现在的LLM都是Decoder only的架构？】https://www.zhihu.com/question/588325646
 9. 【无数据不智能——大模型训练之微调篇】https://zhuanlan.zhihu.com/p/625896377
 10. 【无数据不智能——大模型训练之模型篇】https://zhuanlan.zhihu.com/p/625894818
-11. 
+11. 【人大AI Box——GPT-4之高考评测】https://zhuanlan.zhihu.com/p/614863362
+12. 【人大AI Box——Huge and Efficient! 一文了解大规模预训练模型高效训练技术】https://zhuanlan.zhihu.com/p/579629065
+13. 【人大AI Box——训练你的大模型！低资源下的模型轻量化】https://zhuanlan.zhihu.com/p/626701575
+14. 
 
 ## 微信
 1. 【专知——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
