@@ -80,7 +80,9 @@ A resource-set about LLM for CASRIMAT.
 10. 【OpenAI的tokenize方式】https://github.com/openai/tiktoken
 11. 【FinNLP——哥大刘小洋】https://github.com/AI4Finance-Foundation/FinNLP
 12. 【刘聪NLP——ChatGLM微调实践】https://github.com/liucongg/ChatGLM-Finetuning
-13. 
+13. 【Google的tokenizer——sentencepiece】https://github.com/google/sentencepiece
+14. 【OpenAI的tokenizer——tiktoken】https://github.com/openai/tiktoken
+15. 
 
 ## 知乎
 1. 【Transformer的细节到底是怎么样的？】https://www.zhihu.com/question/362131975/answer/2182682685
