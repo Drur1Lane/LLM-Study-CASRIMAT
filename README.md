@@ -107,7 +107,8 @@ A resource-set about LLM for CASRIMAT.
 20. 【微软包包算法笔记——大模型微调样本构造trick】https://www.zhihu.com/people/bao-bao-12-67
 21. 【腾讯——大模型微调（finetune）方法总结】https://zhuanlan.zhihu.com/p/644122818
 22. 【大模型高效微调综述下： DiffPruning、BitFit、LoRa、AdaLoRA、MAM Adapters、UniPELT】https://zhuanlan.zhihu.com/p/639068809
-23. 
+23. 【马东什么——Tokenizers小结】https://zhuanlan.zhihu.com/p/360290118
+24. 
 
 ## 微信
 1. 【专知——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
