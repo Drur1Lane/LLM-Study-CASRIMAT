@@ -108,7 +108,8 @@ A resource-set about LLM for CASRIMAT.
 21. 【腾讯——大模型微调（finetune）方法总结】https://zhuanlan.zhihu.com/p/644122818
 22. 【大模型高效微调综述下： DiffPruning、BitFit、LoRa、AdaLoRA、MAM Adapters、UniPELT】https://zhuanlan.zhihu.com/p/639068809
 23. 【马东什么——Tokenizers小结】https://zhuanlan.zhihu.com/p/360290118
-24. 
+24. 【想学习大语言模型(LLM)，应该从哪个开源模型开始？】https://www.zhihu.com/question/608820310
+25. 
 
 ## 微信
 1. 【专知——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
