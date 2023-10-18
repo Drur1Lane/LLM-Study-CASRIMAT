@@ -134,4 +134,5 @@ A resource-set about LLM for CASRIMAT.
 3. 【DocsGPT——读论文】https://github.com/arc53/DocsGPT
 4. 【动手学深度学习】https://github.com/d2l-ai/d2l-zh
 5. 【知乎——小王同学在积累的Github学习资料】https://github.com/AccumulateMore/CV
-6. 
+6. 【CSDN——SHAP：解释模型预测的通用方法】https://blog.csdn.net/qq_40943760/article/details/123938209
+7. 
