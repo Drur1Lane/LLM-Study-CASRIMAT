@@ -22,7 +22,8 @@ A resource-set about LLM for CASRIMAT.
 19. **【金融大模型CFGPT——同济 & 上海AI实验室】https://arxiv.org/abs/2309.10654**
 20. 【大模型与知识图谱】https://arxiv.org/abs/2307.07697
 21. **【StructGPT：面向结构化数据的大模型推理框架——人大】https://arxiv.org/abs/2305.09645**
-22. 
+22. 【ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models】https://arxiv.org/abs/2310.10505
+23. 
 
 ## GitHub / Hugging Face
 ### 框架
