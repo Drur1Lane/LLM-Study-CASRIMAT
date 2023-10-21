@@ -52,7 +52,7 @@ A resource-set about LLM for CASRIMAT.
 8. **【金融大模型FinGPT——哥大刘小洋】https://github.com/AI4Finance-Foundation/FinGPT**
 9. **【金融大模型FinVisGPT（多模态）——哈工深】https://github.com/wwwadx/FinVis-GPT**
 10. **【金融大模型FinTuo——华中师范大学陈启源】https://github.com/qiyuan-chen/FinTuo-Chinese-Finance-LLM**
-11. 
+11. 【骆驼项目：大模型集合——商汤科技+华中师范大学】https://github.com/LC1332/Luotuo-Chinese-LLM
 
 ### 练手小大模型
 1. 【baby-llama2-chinese】https://github.com/DLLXW/baby-llama2-chinese
