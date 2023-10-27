@@ -83,7 +83,8 @@ A resource-set about LLM for CASRIMAT.
 12. 【刘聪NLP——ChatGLM微调实践】https://github.com/liucongg/ChatGLM-Finetuning
 13. 【Google的tokenizer——sentencepiece】https://github.com/google/sentencepiece
 14. 【OpenAI的tokenizer——tiktoken】https://github.com/openai/tiktoken
-15. 
+15. 【ChatGPT插件】https://github.com/xcanwin/KeepChatGPT
+16. 
 
 ## 知乎
 1. 【Transformer的细节到底是怎么样的？】https://www.zhihu.com/question/362131975/answer/2182682685
