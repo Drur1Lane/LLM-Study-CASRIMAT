@@ -23,7 +23,9 @@ A resource-set about LLM for CASRIMAT.
 20. 【大模型与知识图谱】https://arxiv.org/abs/2307.07697
 21. **【StructGPT：面向结构化数据的大模型推理框架——人大】https://arxiv.org/abs/2305.09645**
 22. 【ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models】https://arxiv.org/abs/2310.10505
-23. 
+23. **【金融资讯大模型DISC-FinLLM——复旦大学】https://arxiv.org/abs/2310.15205**
+24. **【金融大模型PIXIU——武汉大学、中山大学等】https://arxiv.org/abs/2306.05443**
+25. 
 
 ## GitHub / Hugging Face
 ### 框架
@@ -47,12 +49,15 @@ A resource-set about LLM for CASRIMAT.
 3. **【金融大模型“轩辕”——度小满】https://github.com/Duxiaoman-DI/XuanYuan**
 4. 【医疗大模型】https://github.com/shibing624/MedicalGPT
 5. 【法律大模型——北大Chatlaw】https://github.com/PKU-YuanGroup/ChatLaw
-6. **【金融大模型“聚宝盆”——中科院成都计算机应用研究所】https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese**
+6. **【金融大模型“聚宝盆Cornucopia”——中科院成都计算机应用研究所】https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese**
 7.  【医疗大模型“华驼”】https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
 8. **【金融大模型FinGPT——哥大刘小洋】https://github.com/AI4Finance-Foundation/FinGPT**
 9. **【金融大模型FinVisGPT（多模态）——哈工深】https://github.com/wwwadx/FinVis-GPT**
 10. **【金融大模型FinTuo——华中师范大学陈启源】https://github.com/qiyuan-chen/FinTuo-Chinese-Finance-LLM**
 11. 【骆驼项目：大模型集合——商汤科技+华中师范大学】https://github.com/LC1332/Luotuo-Chinese-LLM
+12. **【金融大模型PIXIU——武汉大学、中山大学等】https://github.com/chancefocus/PIXIU**
+13. **【金融资讯大模型DISC-FinLLM——复旦大学】https://github.com/FudanDISC/DISC-FinLLM**
+14. 
 
 ### 练手小大模型
 1. 【baby-llama2-chinese】https://github.com/DLLXW/baby-llama2-chinese
