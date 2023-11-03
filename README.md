@@ -129,7 +129,9 @@ A resource-set about LLM for CASRIMAT.
 5. 【何枝——从零详细地梳理一个完整的 LLM 训练流程】https://mp.weixin.qq.com/s/Et2NAwAzg2iHrpjDgsx-Hg
 6. 【人工智能前沿讲习——LangChain】https://mp.weixin.qq.com/s/r5w69f_2jYAkBqCRG-RVpA
 7. 【人工智能前沿讲习——思维链】https://mp.weixin.qq.com/s/BMv_FVJ3j6q71LqA4fUYUA
-8. 
+8. 【AINLPer——Prompt方式总结】https://mp.weixin.qq.com/s/lTRp02t-4-2WFTu9RpuzLw
+9. 【AINLPer——Prompt方式总结】https://mp.weixin.qq.com/s/RMtb0NopdzjrEsEZN-b1bA
+10. 
 
 ## 电子书
 1. 【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/
