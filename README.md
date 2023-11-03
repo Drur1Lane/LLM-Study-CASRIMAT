@@ -140,7 +140,8 @@ A resource-set about LLM for CASRIMAT.
 10. 【运筹OR帷幄——机器学习模型可解释性综述】https://mp.weixin.qq.com/s/Jmm84eYrtlfFLuQaWcAZCA
 11. 【老刘说NLP——大模型微调数据质量评价】https://mp.weixin.qq.com/s/ZEzc1VaXFaR7M0zXNRWfwQ
 12. 【PaerWeekly——微调经验】https://mp.weixin.qq.com/s/Aa8jYs4xgcI4clwie-wO1g
-13. 
+13. 【机器之心——李航：LLM思考】https://mp.weixin.qq.com/s/0I-y1dGM08n8KF1Kwv2diw
+14. 
 
 ## 电子书
 1. 【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/
