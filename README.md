@@ -100,7 +100,8 @@ A resource-set about LLM for CASRIMAT.
 16. 【LoRA】https://github.com/microsoft/LoRA
 17. 【QLoRA】https://github.com/artidoro/qlora
 18. 【生成prompt】https://github.com/bigscience-workshop/promptsource
-19. 
+19. 【国科大论文模板】https://github.com/mohuangrui/ucasthesis
+20. 
 
 ## 知乎
 1. 【Transformer的细节到底是怎么样的？】https://www.zhihu.com/question/362131975/answer/2182682685
