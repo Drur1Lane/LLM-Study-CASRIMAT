@@ -25,7 +25,9 @@ A resource-set about LLM for CASRIMAT.
 22. 【ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models】https://arxiv.org/abs/2310.10505
 23. **【金融资讯大模型DISC-FinLLM——复旦大学】https://arxiv.org/abs/2310.15205**
 24. **【金融大模型PIXIU——武汉大学、中山大学等】https://arxiv.org/abs/2306.05443**
-25. 
+25. **【大模型评价方法综述——天津大学】https://arxiv.org/abs/2310.19736**
+26. 【大语言模型的应用和挑战】https://arxiv.org/abs/2307.10169
+27. 
 
 ## GitHub / Hugging Face
 ### 框架
@@ -41,7 +43,8 @@ A resource-set about LLM for CASRIMAT.
 6. 【Llama】https://github.com/facebookresearch/llama
 7. **【中文llama2 & Alpaca——科大讯飞】https://github.com/ymcui/Chinese-LLaMA-Alpaca**
 8. **【中文llama2 & Alpaca 2——科大讯飞】https://github.com/ymcui/Chinese-LLaMA-Alpaca-2**
-9. 
+9. **【Mistral-7B】https://huggingface.co/mistralai/Mistral-7B-v0.1**
+10. 
 
 ### 微调大模型
 1. **【金融风险大模型FinPT——港大 & 达摩院】https://github.com/YuweiYin/FinPT**
@@ -124,7 +127,9 @@ A resource-set about LLM for CASRIMAT.
 3. 【老刘说NLP——再谈大模型行业问答落地中的文档智能技术：现有多模态预训练模型及相关数据集汇总】https://mp.weixin.qq.com/s/GnGwllYjecinZxh3yybqtw
 4. 【老刘说NLP——再看业界大模型行业问答的困难及若干业界实践：兼看智能客服常用路线及多场景prompt】https://mp.weixin.qq.com/s/dQ35J5eg5Cq7rY7zaa6wrw
 5. 【何枝——从零详细地梳理一个完整的 LLM 训练流程】https://mp.weixin.qq.com/s/Et2NAwAzg2iHrpjDgsx-Hg
-6. 
+6. 【人工智能前沿讲习——LangChain】https://mp.weixin.qq.com/s/r5w69f_2jYAkBqCRG-RVpA
+7. 【人工智能前沿讲习——思维链】https://mp.weixin.qq.com/s/BMv_FVJ3j6q71LqA4fUYUA
+8. 
 
 ## 电子书
 1. 【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/
