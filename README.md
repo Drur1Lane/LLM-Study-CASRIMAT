@@ -77,7 +77,9 @@ A resource-set about LLM for CASRIMAT.
 ### 数据
 1. 【中文预料：GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说、古书资源】https://github.com/PlexPt/chatgpt-corpus
 2. **【中文金融情感分析数据集】https://github.com/YerayL/FinChina-SA**
-3. 【金融指令调优数据集——哈工深】
+3. 【金融知识评测数据集——度小满】https://github.com/Duxiaoman-DI/XuanYuan/tree/main/FinanceIQ
+4. 【上市公司公告、金融新闻、金融试题——度小满】https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus
+5. 
 
 ### 其他资源
 1. 【ChatGPT的英文提示词】https://github.com/f/awesome-chatgpt-prompts
