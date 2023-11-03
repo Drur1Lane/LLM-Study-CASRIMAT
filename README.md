@@ -27,7 +27,10 @@ A resource-set about LLM for CASRIMAT.
 24. **【金融大模型PIXIU——武汉大学、中山大学等】https://arxiv.org/abs/2306.05443**
 25. **【大模型评价方法综述——天津大学】https://arxiv.org/abs/2310.19736**
 26. 【大语言模型的应用和挑战】https://arxiv.org/abs/2307.10169
-27. 
+27. 【大模型微调方法：LLM-Adapters】https://arxiv.org/abs/2304.01933
+28. 【小模型思维链】https://arxiv.org/abs/2306.14050
+29. 【思维链综述——哈工大】https://arxiv.org/abs/2309.15402
+30. 
 
 ## GitHub / Hugging Face
 ### 框架
@@ -92,7 +95,10 @@ A resource-set about LLM for CASRIMAT.
 13. 【Google的tokenizer——sentencepiece】https://github.com/google/sentencepiece
 14. 【OpenAI的tokenizer——tiktoken】https://github.com/openai/tiktoken
 15. 【ChatGPT插件】https://github.com/xcanwin/KeepChatGPT
-16. 
+16. 【LoRA】https://github.com/microsoft/LoRA
+17. 【QLoRA】https://github.com/artidoro/qlora
+18. 【生成prompt】https://github.com/bigscience-workshop/promptsource
+19. 
 
 ## 知乎
 1. 【Transformer的细节到底是怎么样的？】https://www.zhihu.com/question/362131975/answer/2182682685
@@ -131,7 +137,10 @@ A resource-set about LLM for CASRIMAT.
 7. 【人工智能前沿讲习——思维链】https://mp.weixin.qq.com/s/BMv_FVJ3j6q71LqA4fUYUA
 8. 【AINLPer——Prompt方式总结】https://mp.weixin.qq.com/s/lTRp02t-4-2WFTu9RpuzLw
 9. 【AINLPer——Prompt方式总结】https://mp.weixin.qq.com/s/RMtb0NopdzjrEsEZN-b1bA
-10. 
+10. 【运筹OR帷幄——机器学习模型可解释性综述】https://mp.weixin.qq.com/s/Jmm84eYrtlfFLuQaWcAZCA
+11. 【老刘说NLP——大模型微调数据质量评价】https://mp.weixin.qq.com/s/ZEzc1VaXFaR7M0zXNRWfwQ
+12. 【PaerWeekly——微调经验】https://mp.weixin.qq.com/s/Aa8jYs4xgcI4clwie-wO1g
+13. 
 
 ## 电子书
 1. 【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/
