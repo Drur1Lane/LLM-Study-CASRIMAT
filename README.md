@@ -47,7 +47,8 @@ A resource-set about LLM for CASRIMAT.
 7. **【中文llama2 & Alpaca——科大讯飞】https://github.com/ymcui/Chinese-LLaMA-Alpaca**
 8. **【中文llama2 & Alpaca 2——科大讯飞】https://github.com/ymcui/Chinese-LLaMA-Alpaca-2**
 9. **【Mistral-7B】https://huggingface.co/mistralai/Mistral-7B-v0.1**
-10. 
+10. 【Yi——李开复零一万物】https://github.com/01-ai/Yi
+11. 
 
 ### 微调大模型
 1. **【金融风险大模型FinPT——港大 & 达摩院】https://github.com/YuweiYin/FinPT**
