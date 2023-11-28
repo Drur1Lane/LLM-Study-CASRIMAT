@@ -44,13 +44,14 @@ A resource-set about LLM for CASRIMAT.
 4. 【ChatGLM】https://github.com/THUDM/ChatGLM-6B/
 5. 【ChatGLM2】https://github.com/THUDM/ChatGLM2-6B
 6. **【ChatGLM3】https://github.com/THUDM/ChatGLM3**
-7. 【Llama】https://github.com/facebookresearch/llama
-8. **【中文llama2 & Alpaca——科大讯飞】https://github.com/ymcui/Chinese-LLaMA-Alpaca**
-9. **【中文llama2 & Alpaca 2——科大讯飞】https://github.com/ymcui/Chinese-LLaMA-Alpaca-2**
-10. **【Mistral-7B】https://huggingface.co/mistralai/Mistral-7B-v0.1**
-11. 【Yi——李开复零一万物】https://github.com/01-ai/Yi
-12. **【Bloomz系列】https://huggingface.co/bigscience/bloomz-560m**
-13. 
+7. 【LLaMA】https://github.com/facebookresearch/llama
+8. **【LLaMA2】https://huggingface.co/daryl149/llama-2-7b-chat-hf**
+9. **【中文llama2 & Alpaca——科大讯飞】https://github.com/ymcui/Chinese-LLaMA-Alpaca**
+10. **【中文llama2 & Alpaca 2——科大讯飞】https://github.com/ymcui/Chinese-LLaMA-Alpaca-2**
+11. **【Mistral-7B】https://huggingface.co/mistralai/Mistral-7B-v0.1**
+12. 【Yi——李开复零一万物】https://github.com/01-ai/Yi
+13. **【Bloomz系列】https://huggingface.co/bigscience/bloomz-560m**
+14. 
 
 ### 微调大模型
 1. **【金融风险大模型FinPT——港大 & 达摩院】https://github.com/YuweiYin/FinPT**
