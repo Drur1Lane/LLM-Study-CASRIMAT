@@ -122,7 +122,7 @@ A resource-set about LLM for CASRIMAT.
 11. 【人大AI Box——GPT-4之高考评测】https://zhuanlan.zhihu.com/p/614863362
 12. 【人大AI Box——Huge and Efficient! 一文了解大规模预训练模型高效训练技术】https://zhuanlan.zhihu.com/p/579629065
 13. 【人大AI Box——训练你的大模型！低资源下的模型轻量化】https://zhuanlan.zhihu.com/p/626701575
-14. 【奇虎——大模型微调总结】https://zhuanlan.zhihu.com/p/627642632
+14. 【绝密伏击（奇虎）——大模型微调总结】https://zhuanlan.zhihu.com/p/627642632
 15. 【刘聪NLP——大模型LLM-微调经验分享&总结】https://zhuanlan.zhihu.com/p/620885226
 16. 【腾讯——大模型微调（finetune）方法总结-LoRA,Adapter,Prefix-tuning，P-tuning，Prompt-tuning】https://zhuanlan.zhihu.com/p/636481171
 17. 【通俗解读大模型主流微调方法：从Prefix Tuning、P-Tuning V1/V2到LoRA、QLoRA】https://zhuanlan.zhihu.com/p/660721012
@@ -134,7 +134,9 @@ A resource-set about LLM for CASRIMAT.
 23. 【大模型高效微调综述下： DiffPruning、BitFit、LoRa、AdaLoRA、MAM Adapters、UniPELT】https://zhuanlan.zhihu.com/p/639068809
 24. 【马东什么——Tokenizers小结】https://zhuanlan.zhihu.com/p/360290118
 25. 【想学习大语言模型(LLM)，应该从哪个开源模型开始？】https://www.zhihu.com/question/608820310
-26. 
+26. 【绝密伏击（奇虎）——大模型思维链（Chain-of-Thought）技术原理】https://zhuanlan.zhihu.com/p/629087587
+27. 【Timothyxxx——思维链（Chain-of-thoughts）作为提示】https://zhuanlan.zhihu.com/p/493533589
+28. 
 
 ## 微信
 1. 【专知——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
