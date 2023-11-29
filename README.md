@@ -70,8 +70,8 @@ A resource-set about LLM for CASRIMAT.
 14. 
 
 ### 练手小大模型
-1. 【baby-llama2-chinese】https://github.com/DLLXW/baby-llama2-chinese
-2. 【nanoGPT】https://github.com/karpathy/nanoGPT
+1. **【baby-llama2-chinese】https://github.com/DLLXW/baby-llama2-chinese**
+2. **【nanoGPT】https://github.com/karpathy/nanoGPT**
    【nanoGPT配套代码】https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing#scrollTo=wJpXpmjEYC_T
    【nanoGPT配套代码配套视频】https://www.youtube.com/watch?v=kCc8FmEb1nY
 3. 【Standford——alpaca】https://github.com/tatsu-lab/stanford_alpaca
