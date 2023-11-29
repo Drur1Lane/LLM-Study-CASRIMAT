@@ -128,12 +128,13 @@ A resource-set about LLM for CASRIMAT.
 17. 【通俗解读大模型主流微调方法：从Prefix Tuning、P-Tuning V1/V2到LoRA、QLoRA】https://zhuanlan.zhihu.com/p/660721012
 18. 【NLP煎饼摊——大模型微调项目 / 数据集调研汇总】https://zhuanlan.zhihu.com/p/624079704
 19. 【字节何枝——【LLM】从零开始训练大模型】https://zhuanlan.zhihu.com/p/636270877
-20. 【微软包包算法笔记——大模型微调样本构造trick】https://www.zhihu.com/people/bao-bao-12-67
-21. 【腾讯——大模型微调（finetune）方法总结】https://zhuanlan.zhihu.com/p/644122818
-22. 【大模型高效微调综述下： DiffPruning、BitFit、LoRa、AdaLoRA、MAM Adapters、UniPELT】https://zhuanlan.zhihu.com/p/639068809
-23. 【马东什么——Tokenizers小结】https://zhuanlan.zhihu.com/p/360290118
-24. 【想学习大语言模型(LLM)，应该从哪个开源模型开始？】https://www.zhihu.com/question/608820310
-25. 
+20. 【微软包包算法笔记——大模型微调样本构造trick】https://zhuanlan.zhihu.com/p/641562439
+21. 【微软包包算法笔记——大模型训练的一些坑点和判断】https://zhuanlan.zhihu.com/p/500333225
+22. 【腾讯——大模型微调（finetune）方法总结】https://zhuanlan.zhihu.com/p/644122818
+23. 【大模型高效微调综述下： DiffPruning、BitFit、LoRa、AdaLoRA、MAM Adapters、UniPELT】https://zhuanlan.zhihu.com/p/639068809
+24. 【马东什么——Tokenizers小结】https://zhuanlan.zhihu.com/p/360290118
+25. 【想学习大语言模型(LLM)，应该从哪个开源模型开始？】https://www.zhihu.com/question/608820310
+26. 
 
 ## 微信
 1. 【专知——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
