@@ -29,7 +29,7 @@ A resource-set about LLM for CASRIMAT.
 26. 【大语言模型的应用和挑战】https://arxiv.org/abs/2307.10169
 27. 【大模型微调方法：LLM-Adapters】https://arxiv.org/abs/2304.01933
 28. 【小模型思维链】https://arxiv.org/abs/2306.14050
-29. 【思维链综述——哈工大】https://arxiv.org/abs/2309.15402
+29. **【思维链综述——哈工大】https://arxiv.org/abs/2309.15402**
 30. 
 
 ## GitHub / Hugging Face
