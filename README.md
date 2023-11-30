@@ -152,7 +152,9 @@ A resource-set about LLM for CASRIMAT.
 11. 【老刘说NLP——大模型微调数据质量评价】https://mp.weixin.qq.com/s/ZEzc1VaXFaR7M0zXNRWfwQ
 12. 【PaerWeekly——微调经验】https://mp.weixin.qq.com/s/Aa8jYs4xgcI4clwie-wO1g
 13. 【机器之心——李航：LLM思考】https://mp.weixin.qq.com/s/0I-y1dGM08n8KF1Kwv2diw
-14. 
+14. 【量化投资与机器学习——金融文本情感分析，有了ChatGPT，还需要其他模型吗？】https://mp.weixin.qq.com/s/WaPqsPI4sCdEZoeID0cdew
+15. 【银融时代——ChatGPT+金融：国外八大应用案例】https://mp.weixin.qq.com/s/v2HLfBCreHqPYJW47VNZaQ
+16. 
 
 ## 电子书
 1. 【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/
