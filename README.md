@@ -166,8 +166,8 @@ A resource-set about LLM for CASRIMAT.
 ## 其他
 1. 【Paper Digest（一个文献集中网站）上检索的ChatGPT文章集合】https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/
 2. 【大语言模型对于世界的理解：Language Models Represent Space and Time】https://arxiv.org/abs/2310.02207
-3. **【（含思维链）Man Group——Investigating whether ChatGPT’s financial sentiment analysis capabilities are advanced enough to replace baseline methods】https://www.man.com/maninstitute/can-chatgpt-beat-word-counting-humans
-【中文解释】https://mp.weixin.qq.com/s/WaPqsPI4sCdEZoeID0cdew**
+3. **【（含思维链）Man Group——Investigating whether ChatGPT’s financial sentiment analysis capabilities are advanced enough to replace baseline methods】https://www.man.com/maninstitute/can-chatgpt-beat-word-counting-humans**
+    【中文解释】https://mp.weixin.qq.com/s/WaPqsPI4sCdEZoeID0cdew
 4. 
 
 ## Something Interesting Beside FinLLM
