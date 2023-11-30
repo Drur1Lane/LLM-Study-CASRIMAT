@@ -30,7 +30,8 @@ A resource-set about LLM for CASRIMAT.
 27. 【大模型微调方法：LLM-Adapters】https://arxiv.org/abs/2304.01933
 28. 【小模型思维链】https://arxiv.org/abs/2306.14050
 29. **【思维链综述——哈工大】https://arxiv.org/abs/2309.15402**
-30. 
+30. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等】https://arxiv.org/abs/2309.01029**
+31. 
 
 ## GitHub / Hugging Face
 ### 框架
@@ -106,7 +107,8 @@ A resource-set about LLM for CASRIMAT.
 17. 【QLoRA】https://github.com/artidoro/qlora
 18. 【生成prompt】https://github.com/bigscience-workshop/promptsource
 19. 【国科大论文模板】https://github.com/mohuangrui/ucasthesis
-20. 
+20. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等】https://github.com/hy-zhao23/Explainability-for-Large-Language-Models#improving-llms**
+21. 
 
 ## 知乎
 1. 【Transformer的细节到底是怎么样的？】https://www.zhihu.com/question/362131975/answer/2182682685
