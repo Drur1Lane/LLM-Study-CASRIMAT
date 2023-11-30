@@ -153,9 +153,8 @@ A resource-set about LLM for CASRIMAT.
 11. 【老刘说NLP——大模型微调数据质量评价】https://mp.weixin.qq.com/s/ZEzc1VaXFaR7M0zXNRWfwQ
 12. 【PaerWeekly——微调经验】https://mp.weixin.qq.com/s/Aa8jYs4xgcI4clwie-wO1g
 13. 【机器之心——李航：LLM思考】https://mp.weixin.qq.com/s/0I-y1dGM08n8KF1Kwv2diw
-14. **【（含思维链）量化投资与机器学习——金融文本情感分析，有了ChatGPT，还需要其他模型吗？】https://mp.weixin.qq.com/s/WaPqsPI4sCdEZoeID0cdew**
-15. 【银融时代——ChatGPT+金融：国外八大应用案例】https://mp.weixin.qq.com/s/v2HLfBCreHqPYJW47VNZaQ
-16. 
+14. 【银融时代——ChatGPT+金融：国外八大应用案例】https://mp.weixin.qq.com/s/v2HLfBCreHqPYJW47VNZaQ
+15. 
 
 ## 电子书
 1. 【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/
@@ -165,7 +164,8 @@ A resource-set about LLM for CASRIMAT.
 ## 其他
 1. 【Paper Digest（一个文献集中网站）上检索的ChatGPT文章集合】https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/
 2. 【大语言模型对于世界的理解：Language Models Represent Space and Time】https://arxiv.org/abs/2310.02207
-3. 
+3. **【（含思维链）Man Group——Investigating whether ChatGPT’s financial sentiment analysis capabilities are advanced enough to replace baseline methods】https://www.man.com/maninstitute/can-chatgpt-beat-word-counting-humans【中文解释】https://mp.weixin.qq.com/s/WaPqsPI4sCdEZoeID0cdew**
+4. 
 
 ## Something Interesting Beside FinLLM
 1. 【复旦自然语言处理实验室——入组第一课】https://github.com/FudanNLP/nlp-beginner
