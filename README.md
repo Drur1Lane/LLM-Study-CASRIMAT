@@ -31,7 +31,8 @@ A resource-set about LLM for CASRIMAT.
 28. 【小模型思维链】https://arxiv.org/abs/2306.14050
 29. **【思维链综述——哈工大】https://arxiv.org/abs/2309.15402**
 30. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等】https://arxiv.org/abs/2309.01029**
-31. 
+31. **【Instruction Tuning综述】https://arxiv.org/abs/2303.10475**
+32. 
 
 ## GitHub / Hugging Face
 ### 框架
