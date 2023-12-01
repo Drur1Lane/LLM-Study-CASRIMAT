@@ -169,7 +169,8 @@ A resource-set about LLM for CASRIMAT.
 2. 【大语言模型对于世界的理解：Language Models Represent Space and Time】https://arxiv.org/abs/2310.02207
 3. **【（含思维链）Man Group——Investigating whether ChatGPT’s financial sentiment analysis capabilities are advanced enough to replace baseline methods】https://www.man.com/maninstitute/can-chatgpt-beat-word-counting-humans**
     【中文解释】https://mp.weixin.qq.com/s/WaPqsPI4sCdEZoeID0cdew
-4. 
+4. **【徐明老师——NLP大模型微调答疑】https://blog.csdn.net/mingzai624/article/details/130735366?spm=1001.2014.3001.5502**
+5. 
 
 ## Something Interesting Beside FinLLM
 1. 【复旦自然语言处理实验室——入组第一课】https://github.com/FudanNLP/nlp-beginner
