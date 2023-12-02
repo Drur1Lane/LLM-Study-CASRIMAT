@@ -32,7 +32,11 @@ A resource-set about LLM for CASRIMAT.
 29. **【思维链综述——哈工大】https://arxiv.org/abs/2309.15402**
 30. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等】https://arxiv.org/abs/2309.01029**
 31. **【Instruction Tuning综述】https://arxiv.org/abs/2303.10475**
-32. 
+32. **【CoT开山之作：Chain-of-Thought Prompting Elicits Reasoning in Large Language Models】https://arxiv.org/abs/2201.11903**
+33. 【CoT的早期发展：Self-Consistency Improves Chain of Thought Reasoning in Language Models】https://arxiv.org/abs/2203.11171
+34. 【CoT的又一发展：Least-to-Most Prompting Enables Complex Reasoning in Large Language Models】https://arxiv.org/abs/2205.10625
+35. **【利用大模型的CoT能力帮助小模型进行推理：Large Language Models Are Reasoning Teachers】**
+36. 
 
 ## GitHub / Hugging Face
 ### 框架
