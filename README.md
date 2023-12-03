@@ -33,13 +33,14 @@ A resource-set about LLM for CASRIMAT.
 30. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等：Explainability for Large Language Models: A Survey】https://arxiv.org/abs/2309.01029**
 31. **【Instruction Tuning综述：Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning】https://arxiv.org/abs/2303.10475**
 32. **【CoT开山之作：Chain-of-Thought Prompting Elicits Reasoning in Large Language Models】https://arxiv.org/abs/2201.11903**
-33. 【CoT的早期发展：Self-Consistency Improves Chain of Thought Reasoning in Language Models】https://arxiv.org/abs/2203.11171
-34. 【CoT的又一发展：Least-to-Most Prompting Enables Complex Reasoning in Large Language Models】https://arxiv.org/abs/2205.10625
-35. **【利用大模型的CoT能力帮助小模型进行推理：Large Language Models Are Reasoning Teachers】**
-36. 【大模型幻觉综述：A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions】https://arxiv.org/abs/2311.05232
-37. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
-38. 【白盒Transformer：White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?】https://arxiv.org/abs/2311.13110
-39. 
+33. **【Let's think step by step：Large Language Models are Zero-Shot Reasoners】http://arxiv.org/abs/2205.11916**
+34. 【CoT的早期发展：Self-Consistency Improves Chain of Thought Reasoning in Language Models】https://arxiv.org/abs/2203.11171
+35. 【CoT的又一发展：Least-to-Most Prompting Enables Complex Reasoning in Large Language Models】https://arxiv.org/abs/2205.10625
+36. **【利用大模型的CoT能力帮助小模型进行推理：Large Language Models Are Reasoning Teachers】**
+37. 【大模型幻觉综述：A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions】https://arxiv.org/abs/2311.05232
+38. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
+39. 【白盒Transformer：White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?】https://arxiv.org/abs/2311.13110
+40. 
 
 ## GitHub / Hugging Face
 ### 框架
