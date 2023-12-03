@@ -36,8 +36,9 @@ A resource-set about LLM for CASRIMAT.
 33. 【CoT的早期发展：Self-Consistency Improves Chain of Thought Reasoning in Language Models】https://arxiv.org/abs/2203.11171
 34. 【CoT的又一发展：Least-to-Most Prompting Enables Complex Reasoning in Large Language Models】https://arxiv.org/abs/2205.10625
 35. **【利用大模型的CoT能力帮助小模型进行推理：Large Language Models Are Reasoning Teachers】**
-36. 【大模型幻觉综述：A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions】
-37. 
+36. 【大模型幻觉综述：A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions】https://arxiv.org/abs/2311.05232
+37. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
+38. 
 
 ## GitHub / Hugging Face
 ### 框架
