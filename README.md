@@ -38,7 +38,8 @@ A resource-set about LLM for CASRIMAT.
 35. **【利用大模型的CoT能力帮助小模型进行推理：Large Language Models Are Reasoning Teachers】**
 36. 【大模型幻觉综述：A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions】https://arxiv.org/abs/2311.05232
 37. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
-38. 
+38. 【白盒Transformer：White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?】https://arxiv.org/abs/2311.13110
+39. 
 
 ## GitHub / Hugging Face
 ### 框架
@@ -147,7 +148,8 @@ A resource-set about LLM for CASRIMAT.
 27. 【Timothyxxx——思维链（Chain-of-thoughts）作为提示】https://zhuanlan.zhihu.com/p/493533589
 28. 【手把手教会你如何通过ChatGPT API实现上下文对话】https://zhuanlan.zhihu.com/p/618911413?eqid=9aa5d1410000e72a000000046475c1b0
 29. 【机器学习中的“可解释性”该作何解释？】https://www.zhihu.com/question/505153525/answer/3257841592
-30. 
+30. 【范浩强：完蛋！我被大模型包围了】https://zhuanlan.zhihu.com/p/665393240
+31. 
 
 ## 微信
 1. 【专知——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
@@ -164,7 +166,11 @@ A resource-set about LLM for CASRIMAT.
 12. 【PaerWeekly——微调经验】https://mp.weixin.qq.com/s/Aa8jYs4xgcI4clwie-wO1g
 13. 【机器之心——李航：LLM思考】https://mp.weixin.qq.com/s/0I-y1dGM08n8KF1Kwv2diw
 14. 【银融时代——ChatGPT+金融：国外八大应用案例】https://mp.weixin.qq.com/s/v2HLfBCreHqPYJW47VNZaQ
-15. 
+15. 【周鸿祎：“垂直化”是大模型未来发展趋势】https://mp.weixin.qq.com/s/Ktcu7AS5bKAmRUG5P29Y7g
+16. 【有关垂直和通用大模型最近被问比较多的几个问题】https://mp.weixin.qq.com/s/xhuaPWIpzzNWGIm8yshA8g
+17. 【老刘说NLP：PromptSource等代表性NLP开源Prompt数据集】https://mp.weixin.qq.com/s/eWEjVhXfySppOQk_y6mduw
+18. 【老刘说NLP：垂域微调大模型非最全汇总：12大领域、57个领域微调模型概述及对垂直行业问答的一些讨论】https://mp.weixin.qq.com/s/ur47_5Zx9IQUUduciEO3jQ
+19. 
 
 ## 电子书
 1. 【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/
