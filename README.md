@@ -35,7 +35,7 @@ A resource-set about LLM for CASRIMAT.
 32. **【CoT开山之作：Chain-of-Thought Prompting Elicits Reasoning in Large Language Models】https://arxiv.org/abs/2201.11903**
 33. **【Let's think step by step：Large Language Models are Zero-Shot Reasoners】http://arxiv.org/abs/2205.11916**
 34. 【CoT的早期发展：Self-Consistency Improves Chain of Thought Reasoning in Language Models】https://arxiv.org/abs/2203.11171
-35. 【CoT的又一发展：Least-to-Most Prompting Enables Complex Reasoning in Large Language Models】https://arxiv.org/abs/2205.10625
+35. 【CoT的又一发展（复杂任务分解）：Least-to-Most Prompting Enables Complex Reasoning in Large Language Models】https://arxiv.org/abs/2205.10625
 36. **【利用大模型的CoT能力帮助小模型进行推理：Large Language Models Are Reasoning Teachers】**
 37. **【利用大模型的CoT能力帮助小模型进行推理2号：Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step】https://arxiv.org/abs/2306.14050**
 38. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
