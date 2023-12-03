@@ -28,7 +28,7 @@ A resource-set about LLM for CASRIMAT.
 25. **【大模型评价方法综述——天津大学】https://arxiv.org/abs/2310.19736**
 26. 【大语言模型的应用和挑战】https://arxiv.org/abs/2307.10169
 27. 【大模型微调方法：LLM-Adapters】https://arxiv.org/abs/2304.01933
-28. **【小模型思维链：Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step】https://arxiv.org/abs/2306.14050**
+28. 【大模型幻觉综述：A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions】https://arxiv.org/abs/2311.05232
 29. **【思维链综述——哈工大：A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future】https://arxiv.org/abs/2309.15402**
 30. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等：Explainability for Large Language Models: A Survey】https://arxiv.org/abs/2309.01029**
 31. **【Instruction Tuning综述：Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning】https://arxiv.org/abs/2303.10475**
@@ -37,7 +37,7 @@ A resource-set about LLM for CASRIMAT.
 34. 【CoT的早期发展：Self-Consistency Improves Chain of Thought Reasoning in Language Models】https://arxiv.org/abs/2203.11171
 35. 【CoT的又一发展：Least-to-Most Prompting Enables Complex Reasoning in Large Language Models】https://arxiv.org/abs/2205.10625
 36. **【利用大模型的CoT能力帮助小模型进行推理：Large Language Models Are Reasoning Teachers】**
-37. 【大模型幻觉综述：A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions】https://arxiv.org/abs/2311.05232
+37. **【利用大模型的CoT能力帮助小模型进行推理2号：Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step】https://arxiv.org/abs/2306.14050**
 38. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
 39. 【白盒Transformer：White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?】https://arxiv.org/abs/2311.13110
 40. 
