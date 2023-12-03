@@ -145,7 +145,8 @@ A resource-set about LLM for CASRIMAT.
 26. 【绝密伏击（奇虎）——大模型思维链（Chain-of-Thought）技术原理】https://zhuanlan.zhihu.com/p/629087587
 27. 【Timothyxxx——思维链（Chain-of-thoughts）作为提示】https://zhuanlan.zhihu.com/p/493533589
 28. 【手把手教会你如何通过ChatGPT API实现上下文对话】https://zhuanlan.zhihu.com/p/618911413?eqid=9aa5d1410000e72a000000046475c1b0
-29. 
+29. 【机器学习中的“可解释性”该作何解释？】https://www.zhihu.com/question/505153525/answer/3257841592
+30. 
 
 ## 微信
 1. 【专知——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
