@@ -2,7 +2,7 @@
 A resource-set about LLM for CASRIMAT.
 ## 论文
 ### 发表在会计、金融领域期刊上的
-1. **【FinBERT——Contemporary Accounting Research（CAR，ABS 4）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
+1. **【Contemporary Accounting Research（CAR，ABS 4）——FinBERT: A Large Language Model for Extracting Information from Financial Text】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
 2. 
 ### 其他
 1. 【Transformer：Attention Is All You Need】https://arxiv.org/abs/1706.03762
