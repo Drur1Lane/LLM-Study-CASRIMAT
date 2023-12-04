@@ -36,7 +36,7 @@ A resource-set about LLM for CASRIMAT.
 33. **【Let's think step by step：Large Language Models are Zero-Shot Reasoners】http://arxiv.org/abs/2205.11916**
 34. **【CoT的早期发展（多条回答取最多的答案）：Self-Consistency Improves Chain of Thought Reasoning in Language Models】https://arxiv.org/abs/2203.11171**
 35. 【CoT的又一发展（复杂任务分解）：Least-to-Most Prompting Enables Complex Reasoning in Large Language Models】https://arxiv.org/abs/2205.10625
-36. **【利用大模型的CoT能力帮助小模型进行推理：Large Language Models Are Reasoning Teachers】**
+36. **【利用大模型的CoT能力帮助小模型进行推理：Large Language Models Are Reasoning Teachers】http://arxiv.org/abs/2212.10071**
 37. **【利用大模型的CoT能力帮助小模型进行推理2号：Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step】https://arxiv.org/abs/2306.14050**
 38. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
 39. 【白盒Transformer：White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?】https://arxiv.org/abs/2311.13110
@@ -188,7 +188,7 @@ A resource-set about LLM for CASRIMAT.
 4. **【徐明老师——NLP大模型微调答疑】https://blog.csdn.net/mingzai624/article/details/130735366?spm=1001.2014.3001.5502**
 5. 
 
-## Something Interesting Beside FinLLM
+## Something Interesting Beside LLM
 1. **【复旦自然语言处理实验室——入组第一课】https://github.com/FudanNLP/nlp-beginner**
 2. 【nlp研究生不会自己写代码怎么办？】https://www.zhihu.com/question/615441114
 3. 【DocsGPT——读论文】https://github.com/arc53/DocsGPT
