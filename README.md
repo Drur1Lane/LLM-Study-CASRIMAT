@@ -179,7 +179,8 @@ A resource-set about LLM for CASRIMAT.
 16. 【有关垂直和通用大模型最近被问比较多的几个问题】https://mp.weixin.qq.com/s/xhuaPWIpzzNWGIm8yshA8g
 17. 【老刘说NLP：PromptSource等代表性NLP开源Prompt数据集】https://mp.weixin.qq.com/s/eWEjVhXfySppOQk_y6mduw
 18. 【老刘说NLP：垂域微调大模型非最全汇总：12大领域、57个领域微调模型概述及对垂直行业问答的一些讨论】https://mp.weixin.qq.com/s/ur47_5Zx9IQUUduciEO3jQ
-19. 
+19. 【老刘说NLP：再看大模型ICL推理范式中的prompt策略：从动态Few-shot到KNN选择再到Shuffling Ensemble】https://mp.weixin.qq.com/s/qXfeLfByZ8IVLgqo754U-Q
+20. 
 
 ## 电子书
 1. **【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/**
