@@ -67,7 +67,7 @@ A resource-set about LLM for CASRIMAT.
 11. **【Mistral-7B】https://huggingface.co/mistralai/Mistral-7B-v0.1**
 12. 【Yi——李开复零一万物】https://github.com/01-ai/Yi
 13. **【Bloomz系列】https://huggingface.co/bigscience/bloomz-560m**
-14. **【阿里Qwen】https://huggingface.co/Qwen**
+14. **【阿里Qwen】https://github.com/QwenLM/Qwen**
 15. 
 
 ### 微调大模型
