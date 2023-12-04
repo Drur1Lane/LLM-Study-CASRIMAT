@@ -1,15 +1,19 @@
 # LLM-Study-CASRIMAT
 A resource-set about LLM for CASRIMAT.
 ## 论文
+### 发表在会计、金融领域期刊上的
+1. **【FinBERT——Contemporary Accounting Research（CAR，ABS 4）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
+2. 
+### 其他
 1. 【Transformer：Attention Is All You Need】https://arxiv.org/abs/1706.03762
 2. 【GPT-1】https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
 3. 【BERT】https://arxiv.org/abs/1810.04805
 4. 【GPT-2】https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
 5. 【GPT-3】https://arxiv.org/abs/2005.14165
-6. 【LLM综述——人大】https://github.com/RUCAIBox/LLMSurvey
-7. 【LLM指南（综述）——Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
-8. **【金融风险大模型FinPT——港大 & 达摩院】https://arxiv.org/abs/2308.00065**
-9. **【FinBERT——Contemporary Accounting Research（CAR，ABS 4）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
+6. 【白盒Transformer：White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?】https://arxiv.org/abs/2311.13110
+7. **【LLM综述——人大】https://github.com/RUCAIBox/LLMSurvey**
+8. 【LLM指南（综述）——Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
+9. **【金融风险大模型FinPT——港大 & 达摩院】https://arxiv.org/abs/2308.00065**
 10. **【金融大模型BloombergGPT——彭博社】https://arxiv.org/abs/2303.17564**
 11. **【金融大模型“轩辕”——度小满】https://arxiv.org/abs/2305.12002**
 12. 【法律大模型——北大Chatlaw】http://arxiv.org/abs/2306.16092
@@ -39,8 +43,7 @@ A resource-set about LLM for CASRIMAT.
 36. **【利用大模型的CoT能力帮助小模型进行推理：Large Language Models Are Reasoning Teachers】http://arxiv.org/abs/2212.10071**
 37. **【利用大模型的CoT能力帮助小模型进行推理2号：Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step】https://arxiv.org/abs/2306.14050**
 38. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
-39. 【白盒Transformer：White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?】https://arxiv.org/abs/2311.13110
-40. 
+39. 
 
 ## GitHub / Hugging Face
 ### 框架
