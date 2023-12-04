@@ -1,7 +1,7 @@
 # LLM-Study-CASRIMAT
 A resource-set about LLM for CASRIMAT.
 ## 论文
-1. 【Transformer】https://arxiv.org/abs/1706.03762
+1. 【Transformer：Attention Is All You Need】https://arxiv.org/abs/1706.03762
 2. 【GPT-1】https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
 3. 【BERT】https://arxiv.org/abs/1810.04805
 4. 【GPT-2】https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
@@ -68,7 +68,7 @@ A resource-set about LLM for CASRIMAT.
 1. **【金融风险大模型FinPT——港大 & 达摩院】https://github.com/YuweiYin/FinPT**
 2. **【FinBERT——Contemporary Accounting Research（CAR，ABS 4）】https://github.com/yya518/FinBERT**
 3. **【金融大模型“轩辕”——度小满】https://github.com/Duxiaoman-DI/XuanYuan**
-4. 【医疗大模型】https://github.com/shibing624/MedicalGPT
+4. **【医疗大模型】https://github.com/shibing624/MedicalGPT**
 5. 【法律大模型——北大Chatlaw】https://github.com/PKU-YuanGroup/ChatLaw
 6. **【金融大模型“聚宝盆Cornucopia”——中科院成都计算机应用研究所】https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese**
 7.  【医疗大模型“华驼”】https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
@@ -176,7 +176,7 @@ A resource-set about LLM for CASRIMAT.
 19. 
 
 ## 电子书
-1. 【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/
+1. **【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/**
 2. 【（代码部分）刘聪NLP《ChatGPT原理与实战：大型语言模型的算法、技术和私有化》】https://github.com/liucongg/ChatGPTBook
 3. 
 
@@ -189,7 +189,7 @@ A resource-set about LLM for CASRIMAT.
 5. 
 
 ## Something Interesting Beside FinLLM
-1. 【复旦自然语言处理实验室——入组第一课】https://github.com/FudanNLP/nlp-beginner
+1. **【复旦自然语言处理实验室——入组第一课】https://github.com/FudanNLP/nlp-beginner**
 2. 【nlp研究生不会自己写代码怎么办？】https://www.zhihu.com/question/615441114
 3. 【DocsGPT——读论文】https://github.com/arc53/DocsGPT
 4. 【动手学深度学习】https://github.com/d2l-ai/d2l-zh
