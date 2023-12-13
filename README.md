@@ -5,7 +5,8 @@ A resource-set about LLM for CASRIMAT.
 1. **【Contemporary Accounting Research（ABS 4）——FinBERT: A Large Language Model for Extracting Information from Financial Text（金融领域BERT模型）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
 2. 【Financial Research Letters（ABS 2）——GPT has become financially literate: Insights from financial literacy tests of GPT and a preliminary test of how people use it as a source of advice（评估ChatGPT的金融知识水平）】https://www.sciencedirect.com/science/article/pii/S1544612323007055
 3. 【Financial Research Letters（ABS 2）——ChatGPT for (Finance) research: The Bananarama Conjecture】https://www.sciencedirect.com/science/article/pii/S1544612323000363
-4. 
+4. **【Journal of Economic Literature（ABS 4）——Generative AI for Economic Research: Use Cases and Implications for Economists】https://www.dropbox.com/scl/fi/kk6duothtufsa8dhs3yat/LLMs_final.pdf?rlkey=bfadp97ej13ruceggecfeeiyi&dl=0**
+5. 
 
 ### 其他
 1. 【Transformer：Attention Is All You Need】https://arxiv.org/abs/1706.03762
