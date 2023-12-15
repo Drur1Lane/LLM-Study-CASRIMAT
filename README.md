@@ -125,7 +125,8 @@ A resource-set about LLM for CASRIMAT.
 18. 【生成prompt】https://github.com/bigscience-workshop/promptsource
 19. 【国科大论文模板】https://github.com/mohuangrui/ucasthesis
 20. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等】https://github.com/hy-zhao23/Explainability-for-Large-Language-Models#improving-llms**
-21. 
+21. **【Project-based Learning】https://github.com/practical-tutorials/project-based-learning**
+22. 
 
 ## 知乎
 1. 【Transformer的细节到底是怎么样的？】https://www.zhihu.com/question/362131975/answer/2182682685
