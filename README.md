@@ -49,7 +49,8 @@ A resource-set about LLM for CASRIMAT.
 38. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
 39. 【Large Language Models Can Self-Improve】https://arxiv.org/abs/2210.11610
 40. 【Self-Refine: Iterative Refinement with Self-Feedback】https://arxiv.org/abs/2303.17651
-41. 
+41. **【服了，怎么跟我这个RAL这么类似：Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes】https://arxiv.org/abs/2305.02301**
+42. 
 
 ## GitHub / Hugging Face
 ### 框架
