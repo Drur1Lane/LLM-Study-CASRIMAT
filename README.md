@@ -58,7 +58,10 @@ A resource-set about LLM for CASRIMAT.
 47. **【金融推理问题数据集构建：Beyond Classification: Financial Reasoning in State-of-the-Art Language Models】https://arxiv.org/abs/2305.01505**
 48. **【医学领域使用GPT-4的prompt工程：Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine】https://arxiv.org/abs/2311.16452**
 49. **【知识蒸馏的开山之作：Distilling the Knowledge in a Neural Network】https://arxiv.org/abs/1503.02531**
-50. 
+50. 【谷歌Gemini技术报告】https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf
+51. 【微软Phi2】https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/
+52. 【Mixtral 8*7B】https://mistral.ai/news/mixtral-of-experts/
+53. 
 
 ## GitHub / Hugging Face
 ### 框架
@@ -79,8 +82,9 @@ A resource-set about LLM for CASRIMAT.
 11. **【Mistral-7B】https://huggingface.co/mistralai/Mistral-7B-v0.1**
 12. 【Yi——李开复零一万物】https://github.com/01-ai/Yi
 13. **【Bloomz系列】https://huggingface.co/bigscience/bloomz-560m**
-14. **【阿里Qwen】https://github.com/QwenLM/Qwen**
-15. 
+14. **【阿里Qwen系列】https://github.com/QwenLM/Qwen**
+15. **【Mistral系列】https://huggingface.co/mistralai/Mixtral-8x7B-v0.1**
+16. 
 
 ### 微调大模型
 1. **【金融风险大模型FinPT——港大 & 达摩院】https://github.com/YuweiYin/FinPT**
