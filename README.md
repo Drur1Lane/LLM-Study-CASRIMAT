@@ -47,10 +47,12 @@ A resource-set about LLM for CASRIMAT.
 36. **【利用大模型的CoT能力帮助小模型进行推理：Large Language Models Are Reasoning Teachers】http://arxiv.org/abs/2212.10071**
 37. **【利用大模型的CoT能力帮助小模型进行推理2号：Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step】https://arxiv.org/abs/2306.14050**
 38. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
-39. 【Large Language Models Can Self-Improve】https://arxiv.org/abs/2210.11610
-40. 【Self-Refine: Iterative Refinement with Self-Feedback】https://arxiv.org/abs/2303.17651
-41. **【服了，怎么跟我这个RAL这么类似：Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes】https://arxiv.org/abs/2305.02301**
-42. 
+39. **【自我改进：Large Language Models Can Self-Improve】https://arxiv.org/abs/2210.11610**
+40. **【自我反思：Self-Refine: Iterative Refinement with Self-Feedback】https://arxiv.org/abs/2303.17651**
+41. **【自我反思2：Reflexion: Language Agents with Verbal Reinforcement Learning】https://arxiv.org/abs/2303.11366**
+42. **【服了，怎么跟我这个RAL这么类似：Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes】https://arxiv.org/abs/2305.02301**
+43. **【自我解释：Self-explaining AI as an alternative to interpretable AI】https://arxiv.org/abs/2002.05149**
+44. 
 
 ## GitHub / Hugging Face
 ### 框架
