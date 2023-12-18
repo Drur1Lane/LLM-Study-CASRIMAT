@@ -47,7 +47,9 @@ A resource-set about LLM for CASRIMAT.
 36. **【利用大模型的CoT能力帮助小模型进行推理：Large Language Models Are Reasoning Teachers】http://arxiv.org/abs/2212.10071**
 37. **【利用大模型的CoT能力帮助小模型进行推理2号：Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step】https://arxiv.org/abs/2306.14050**
 38. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
-39. 
+39. 【Large Language Models Can Self-Improve】https://arxiv.org/abs/2210.11610
+40. 【Self-Refine: Iterative Refinement with Self-Feedback】https://arxiv.org/abs/2303.17651
+41. 
 
 ## GitHub / Hugging Face
 ### 框架
