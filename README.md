@@ -52,7 +52,8 @@ A resource-set about LLM for CASRIMAT.
 41. 【自我反思2：Reflexion: Language Agents with Verbal Reinforcement Learning】https://arxiv.org/abs/2303.11366
 42. **【服了，怎么跟我这个RAL这么类似：Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes】https://arxiv.org/abs/2305.02301**
 43. **【自我解释：Self-explaining AI as an alternative to interpretable AI】https://arxiv.org/abs/2002.05149**
-44. 
+44. 【基于LLM的企业风险传染？基于大语言模型的多智能体仿真世界大战：War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars】
+45. 
 
 ## GitHub / Hugging Face
 ### 框架
