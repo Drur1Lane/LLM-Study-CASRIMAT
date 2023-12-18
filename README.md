@@ -57,7 +57,8 @@ A resource-set about LLM for CASRIMAT.
 46. 【图与LLM：Large Language Models on Graphs: A Comprehensive Survey】https://arxiv.org/abs/2312.02783
 47. **【金融推理问题数据集构建：Beyond Classification: Financial Reasoning in State-of-the-Art Language Models】https://arxiv.org/abs/2305.01505**
 48. **【医学领域使用GPT-4的prompt工程：Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine】https://arxiv.org/abs/2311.16452**
-49. 
+49. **【知识蒸馏的开山之作：Distilling the Knowledge in a Neural Network】https://arxiv.org/abs/1503.02531**
+50. 
 
 ## GitHub / Hugging Face
 ### 框架
