@@ -192,7 +192,8 @@ A resource-set about LLM for CASRIMAT.
 20. 【2024 大模型面试指南：兄弟们，冲啊】https://mp.weixin.qq.com/s/C5TFSxIis0rtrIgy-MREkQ
 21. **【我就知道，国内大模型都在用ChatGPT的数据来做自己的模型：字节调用OpenAI】https://mp.weixin.qq.com/s/Se3-DNOtOGTZnWy3BTGX8g**
 22. **【我就知道2号：我说什么来着：Gemini调用文心一言】https://mp.weixin.qq.com/s/xj2h7kVAm9VV7GPQF4lTDQ**
-23. 
+23. **【State of GPT：大神Andrej Karpthy揭秘OpenAI大模型原理和训练过程】https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg**
+24. 
 
 ## 电子书
 1. **【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/**
@@ -202,10 +203,10 @@ A resource-set about LLM for CASRIMAT.
 ## 其他
 1. 【Paper Digest（一个文献集中网站）上检索的ChatGPT文章集合】https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/
 2. 【大语言模型对于世界的理解：Language Models Represent Space and Time】https://arxiv.org/abs/2310.02207
-3. **【（含思维链）Man Group——Investigating whether ChatGPT’s financial sentiment analysis capabilities are advanced enough to replace baseline methods】https://www.man.com/maninstitute/can-chatgpt-beat-word-counting-humans**
     【中文解释】https://mp.weixin.qq.com/s/WaPqsPI4sCdEZoeID0cdew
-4. **【徐明老师——NLP大模型微调答疑】https://blog.csdn.net/mingzai624/article/details/130735366?spm=1001.2014.3001.5502**
-5. 
+3.  **【徐明老师——NLP大模型微调答疑】https://blog.csdn.net/mingzai624/article/details/130735366?spm=1001.2014.3001.5502**
+4.  **【Microsoft——State of GPT】https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2**
+5.  
 
 ## Something Interesting Beside LLM
 1. **【复旦自然语言处理实验室——入组第一课】https://github.com/FudanNLP/nlp-beginner**
