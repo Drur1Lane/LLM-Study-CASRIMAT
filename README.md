@@ -190,8 +190,9 @@ A resource-set about LLM for CASRIMAT.
 18. 【老刘说NLP：垂域微调大模型非最全汇总：12大领域、57个领域微调模型概述及对垂直行业问答的一些讨论】https://mp.weixin.qq.com/s/ur47_5Zx9IQUUduciEO3jQ
 19. 【老刘说NLP：再看大模型ICL推理范式中的prompt策略：从动态Few-shot到KNN选择再到Shuffling Ensemble】https://mp.weixin.qq.com/s/qXfeLfByZ8IVLgqo754U-Q
 20. 【2024 大模型面试指南：兄弟们，冲啊】https://mp.weixin.qq.com/s/C5TFSxIis0rtrIgy-MREkQ
-21. 【我就知道，国内大模型都在用ChatGPT的数据来做自己的模型】https://mp.weixin.qq.com/s/Se3-DNOtOGTZnWy3BTGX8g
-22. 
+21. 【我就知道，国内大模型都在用ChatGPT的数据来做自己的模型：字节调用OpenAI】https://mp.weixin.qq.com/s/Se3-DNOtOGTZnWy3BTGX8g
+22. 【我就知道2号：我说什么来着：Gemini调用文心一言】https://mp.weixin.qq.com/s/xj2h7kVAm9VV7GPQF4lTDQ
+23. 
 
 ## 电子书
 1. **【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/**
