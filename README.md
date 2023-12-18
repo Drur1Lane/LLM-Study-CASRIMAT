@@ -28,13 +28,13 @@ A resource-set about LLM for CASRIMAT.
 17. **【金融大模型FinVisGPT（多模态）——哈工深】https://arxiv.org/abs/2308.01430**
 18. **【金融指令调优数据集——哈工深】https://arxiv.org/abs/2308.01415**
 19. **【金融大模型CFGPT——同济 & 上海AI实验室】https://arxiv.org/abs/2309.10654**
-20. 【大模型与知识图谱】https://arxiv.org/abs/2307.07697
+20. 【大模型与知识图谱：Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph】https://arxiv.org/abs/2307.07697
 21. **【StructGPT：面向结构化数据的大模型推理框架——人大】https://arxiv.org/abs/2305.09645**
 22. 【ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models】https://arxiv.org/abs/2310.10505
 23. **【金融资讯大模型DISC-FinLLM——复旦大学】https://arxiv.org/abs/2310.15205**
 24. **【金融大模型PIXIU——武汉大学、中山大学等】https://arxiv.org/abs/2306.05443**
 25. **【大模型评价方法综述——天津大学】https://arxiv.org/abs/2310.19736**
-26. 【大语言模型的应用和挑战】https://arxiv.org/abs/2307.10169
+26. 【大语言模型的应用和挑战：Challenges and Applications of Large Language Models】https://arxiv.org/abs/2307.10169
 27. 【大模型微调方法：LLM-Adapters】https://arxiv.org/abs/2304.01933
 28. 【大模型幻觉综述：A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions】https://arxiv.org/abs/2311.05232
 29. **【思维链综述——哈工大：A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future】https://arxiv.org/abs/2309.15402**
@@ -48,8 +48,8 @@ A resource-set about LLM for CASRIMAT.
 37. **【利用大模型的CoT能力帮助小模型进行推理2号：Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step】https://arxiv.org/abs/2306.14050**
 38. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
 39. **【自我改进：Large Language Models Can Self-Improve】https://arxiv.org/abs/2210.11610**
-40. **【自我反思：Self-Refine: Iterative Refinement with Self-Feedback】https://arxiv.org/abs/2303.17651**
-41. **【自我反思2：Reflexion: Language Agents with Verbal Reinforcement Learning】https://arxiv.org/abs/2303.11366**
+40. 【自我反思：Self-Refine: Iterative Refinement with Self-Feedback】https://arxiv.org/abs/2303.17651
+41. 【自我反思2：Reflexion: Language Agents with Verbal Reinforcement Learning】https://arxiv.org/abs/2303.11366
 42. **【服了，怎么跟我这个RAL这么类似：Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes】https://arxiv.org/abs/2305.02301**
 43. **【自我解释：Self-explaining AI as an alternative to interpretable AI】https://arxiv.org/abs/2002.05149**
 44. 
