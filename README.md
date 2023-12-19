@@ -61,7 +61,9 @@ A resource-set about LLM for CASRIMAT.
 50. 【谷歌Gemini技术报告】https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf
 51. 【微软Phi2】https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/
 52. 【Mixtral 8*7B】https://mistral.ai/news/mixtral-of-experts/
-53. 
+53. 【Specializing Smaller Language Models towards Multi-Step Reasoning】http://arxiv.org/abs/2301.12726
+54. 【姚期智首篇LLM：Cumulative Reasoning with Large Language Models】http://arxiv.org/abs/2308.04371
+55. 
 
 ## GitHub / Hugging Face
 ### 框架
