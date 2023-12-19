@@ -1,5 +1,7 @@
 # LLM-Study-CASRIMAT
 A resource-set about LLM for CASRIMAT.
+
+
 ## 论文
 ### 发表在顶刊or会计、金融领域期刊上的
 1. **【Contemporary Accounting Research（ABS 4）——FinBERT: A Large Language Model for Extracting Information from Financial Text（金融领域BERT模型）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
@@ -8,68 +10,89 @@ A resource-set about LLM for CASRIMAT.
 4. **【Journal of Economic Literature（ABS 4）——Generative AI for Economic Research: Use Cases and Implications for Economists】https://www.dropbox.com/scl/fi/kk6duothtufsa8dhs3yat/LLMs_final.pdf?rlkey=bfadp97ej13ruceggecfeeiyi&dl=0**
 5. 
 
-### 其他
+### 综述类
+1. **【LLM综述——人大】https://github.com/RUCAIBox/LLMSurvey**
+2. 【LLM指南（综述）——Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
+3. **【思维链综述——哈工大：A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future】https://arxiv.org/abs/2309.15402**
+4. 【大模型幻觉综述：A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions】https://arxiv.org/abs/2311.05232
+5. **【大模型评价方法综述——天津大学】https://arxiv.org/abs/2310.19736**
+6. 【大语言模型的应用和挑战：Challenges and Applications of Large Language Models】https://arxiv.org/abs/2307.10169
+7. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等：Explainability for Large Language Models: A Survey】https://arxiv.org/abs/2309.01029**
+8. **【Instruction Tuning综述：Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning】https://arxiv.org/abs/2303.10475**
+9. 【图与LLM综述：Large Language Models on Graphs: A Comprehensive Survey】https://arxiv.org/abs/2312.02783
+10. 
+
+### 技术类
 1. 【Transformer：Attention Is All You Need】https://arxiv.org/abs/1706.03762
 2. 【GPT-1】https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
 3. 【BERT】https://arxiv.org/abs/1810.04805
 4. 【GPT-2】https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
 5. 【GPT-3】https://arxiv.org/abs/2005.14165
 6. 【白盒Transformer：White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?】https://arxiv.org/abs/2311.13110
-7. **【LLM综述——人大】https://github.com/RUCAIBox/LLMSurvey**
-8. 【LLM指南（综述）——Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
-9. **【金融风险大模型FinPT——港大 & 达摩院】https://arxiv.org/abs/2308.00065**
-10. **【金融大模型BloombergGPT——彭博社】https://arxiv.org/abs/2303.17564**
-11. **【金融大模型“轩辕”——度小满】https://arxiv.org/abs/2305.12002**
-12. 【法律大模型——北大Chatlaw】http://arxiv.org/abs/2306.16092
-13. **【金融大模型Instruct-FinGPT——哥大刘小洋】http://arxiv.org/abs/2306.12659**
-14. **【金融大模型FinGPT——哥大刘小洋】https://arxiv.org/abs/2306.06031**
-15. **【金融大模型FinGPT——哥大刘小洋】https://arxiv.org/abs/2307.10485**
-16. **【中文金融情感分析数据集】https://arxiv.org/abs/2306.14096**
-17. **【金融大模型FinVisGPT（多模态）——哈工深】https://arxiv.org/abs/2308.01430**
-18. **【金融指令调优数据集——哈工深】https://arxiv.org/abs/2308.01415**
-19. **【金融大模型CFGPT——同济 & 上海AI实验室】https://arxiv.org/abs/2309.10654**
-20. 【大模型与知识图谱：Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph】https://arxiv.org/abs/2307.07697
-21. **【StructGPT：面向结构化数据的大模型推理框架——人大】https://arxiv.org/abs/2305.09645**
-22. 【ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models】https://arxiv.org/abs/2310.10505
-23. **【金融资讯大模型DISC-FinLLM——复旦大学】https://arxiv.org/abs/2310.15205**
-24. **【金融大模型PIXIU——武汉大学、中山大学等】https://arxiv.org/abs/2306.05443**
-25. **【大模型评价方法综述——天津大学】https://arxiv.org/abs/2310.19736**
-26. 【大语言模型的应用和挑战：Challenges and Applications of Large Language Models】https://arxiv.org/abs/2307.10169
-27. 【大模型微调方法：LLM-Adapters】https://arxiv.org/abs/2304.01933
-28. 【大模型幻觉综述：A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions】https://arxiv.org/abs/2311.05232
-29. **【思维链综述——哈工大：A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future】https://arxiv.org/abs/2309.15402**
-30. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等：Explainability for Large Language Models: A Survey】https://arxiv.org/abs/2309.01029**
-31. **【Instruction Tuning综述：Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning】https://arxiv.org/abs/2303.10475**
-32. **【CoT开山之作：Chain-of-Thought Prompting Elicits Reasoning in Large Language Models】https://arxiv.org/abs/2201.11903**
-33. **【Zero-shot-CoT：Large Language Models are Zero-Shot Reasoners】http://arxiv.org/abs/2205.11916**
-34. **【CoT的早期发展（多条回答取最多的答案）：Self-Consistency Improves Chain of Thought Reasoning in Language Models】https://arxiv.org/abs/2203.11171**
-35. **【CoT的又一发展（复杂任务分解）：Least-to-Most Prompting Enables Complex Reasoning in Large Language Models】https://arxiv.org/abs/2205.10625**
-36. **【利用大模型的CoT能力帮助小模型进行推理：Large Language Models Are Reasoning Teachers】http://arxiv.org/abs/2212.10071**
-37. **【利用大模型的CoT能力帮助小模型进行推理2号：Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step】https://arxiv.org/abs/2306.14050**
-38. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
-39. **【自我改进：Large Language Models Can Self-Improve】https://arxiv.org/abs/2210.11610**
-40. 【自我反思：Self-Refine: Iterative Refinement with Self-Feedback】https://arxiv.org/abs/2303.17651
-41. 【自我反思2：Reflexion: Language Agents with Verbal Reinforcement Learning】https://arxiv.org/abs/2303.11366
-42. **【服了，怎么跟我这个RAL这么类似：Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes】https://arxiv.org/abs/2305.02301**
-43. **【自我解释：Self-explaining AI as an alternative to interpretable AI】https://arxiv.org/abs/2002.05149**
-44. 【基于LLM的企业风险传染？基于大语言模型的多智能体仿真世界大战：War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars】https://arxiv.org/abs/2311.17227
-45. 【ABM，模拟人类行为：Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?】http://arxiv.org/abs/2301.07543
-46. 【图与LLM：Large Language Models on Graphs: A Comprehensive Survey】https://arxiv.org/abs/2312.02783
-47. **【金融推理问题数据集构建：Beyond Classification: Financial Reasoning in State-of-the-Art Language Models】https://arxiv.org/abs/2305.01505**
-48. **【医学领域使用GPT-4的prompt工程：Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine】https://arxiv.org/abs/2311.16452**
-49. **【知识蒸馏的开山之作：Distilling the Knowledge in a Neural Network】https://arxiv.org/abs/1503.02531**
-50. 【谷歌Gemini技术报告】https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf
-51. 【微软Phi2】https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/
-52. 【Mixtral 8*7B】https://mistral.ai/news/mixtral-of-experts/
-53. 【Specializing Smaller Language Models towards Multi-Step Reasoning】http://arxiv.org/abs/2301.12726
-54. 【姚期智首篇LLM：Cumulative Reasoning with Large Language Models】http://arxiv.org/abs/2308.04371
-55. 
+7. **【知识蒸馏的开山之作：Distilling the Knowledge in a Neural Network】https://arxiv.org/abs/1503.02531**
+8. 【大模型微调方法：LLM-Adapters】https://arxiv.org/abs/2304.01933
+9. **【StructGPT：面向结构化数据的大模型推理框架——人大】https://arxiv.org/abs/2305.09645**
+10. 【ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models】https://arxiv.org/abs/2310.10505
+11. 
 
-## GitHub / Hugging Face
-### 框架
-1. **【StructGPT：面向结构化数据的大模型推理框架——人大】https://github.com/RUCAIBox/StructGPT**
+### 领域大模型构建
+1. **【金融风险大模型FinPT——港大 & 达摩院】https://arxiv.org/abs/2308.00065**
+2. **【金融大模型BloombergGPT——彭博社】https://arxiv.org/abs/2303.17564**
+3. **【金融大模型“轩辕”——度小满】https://arxiv.org/abs/2305.12002**
+4. 【法律大模型——北大Chatlaw】http://arxiv.org/abs/2306.16092
+5. **【金融大模型Instruct-FinGPT——哥大刘小洋】http://arxiv.org/abs/2306.12659**
+6. **【金融大模型FinGPT——哥大刘小洋】https://arxiv.org/abs/2306.06031**
+7. **【金融大模型FinGPT——哥大刘小洋】https://arxiv.org/abs/2307.10485**
+8. **【金融大模型FinVisGPT（多模态）——哈工深】https://arxiv.org/abs/2308.01430**
+9. **【金融大模型CFGPT——同济 & 上海AI实验室】https://arxiv.org/abs/2309.10654**
+10. **【金融资讯大模型DISC-FinLLM——复旦大学】https://arxiv.org/abs/2310.15205**
+11. **【金融大模型PIXIU——武汉大学、中山大学等】https://arxiv.org/abs/2306.05443**
+12. 
+
+### 数据集构建
+1. **【中文金融情感分析数据集】https://arxiv.org/abs/2306.14096**
+2. **【金融指令调优数据集——哈工深】https://arxiv.org/abs/2308.01415**
+3. 
+
+### 思维链与大模型推理
+1. **【CoT开山之作：Chain-of-Thought Prompting Elicits Reasoning in Large Language Models】https://arxiv.org/abs/2201.11903**
+2. **【Zero-shot-CoT：Large Language Models are Zero-Shot Reasoners】http://arxiv.org/abs/2205.11916**
+3. **【CoT的早期发展（多条回答取最多的答案）：Self-Consistency Improves Chain of Thought Reasoning in Language Models】https://arxiv.org/abs/2203.11171**
+4. **【CoT的又一发展（复杂任务分解）：Least-to-Most Prompting Enables Complex Reasoning in Large Language Models】https://arxiv.org/abs/2205.10625**
+5. **【利用大模型的CoT能力帮助小模型进行推理：Large Language Models Are Reasoning Teachers】http://arxiv.org/abs/2212.10071**
+6. **【利用大模型的CoT能力帮助小模型进行推理2号：Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step】https://arxiv.org/abs/2306.14050**
+7. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
+8. **【自我改进：Large Language Models Can Self-Improve】https://arxiv.org/abs/2210.11610**
+9. 【自我反思：Self-Refine: Iterative Refinement with Self-Feedback】https://arxiv.org/abs/2303.17651
+10. 【自我反思2：Reflexion: Language Agents with Verbal Reinforcement Learning】https://arxiv.org/abs/2303.11366
+11. **【服了，怎么跟我这个RAL这么类似：Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes】https://arxiv.org/abs/2305.02301**
+12. **【自我解释：Self-explaining AI as an alternative to interpretable AI】https://arxiv.org/abs/2002.05149**
+13. **【金融推理问题数据集构建：Beyond Classification: Financial Reasoning in State-of-the-Art Language Models】https://arxiv.org/abs/2305.01505**
+14. 【Specializing Smaller Language Models towards Multi-Step Reasoning】http://arxiv.org/abs/2301.12726
+15. 【姚期智首篇LLM：Cumulative Reasoning with Large Language Models】http://arxiv.org/abs/2308.04371
+16. 
+
+### 大模型与图
+1. 【大模型与知识图谱：Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph】https://arxiv.org/abs/2307.07697
 2. 
 
+### AI Agents
+1. 【ABM，模拟人类行为：Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?】http://arxiv.org/abs/2301.07543
+2. 【基于LLM的企业风险传染？基于大语言模型的多智能体仿真世界大战：War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars】https://arxiv.org/abs/2311.17227
+3. 
+
+### 技术报告
+1. 【谷歌Gemini技术报告】https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf
+2. 【微软Phi2】https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/
+3. 【Mixtral 8*7B】https://mistral.ai/news/mixtral-of-experts/
+4. 
+
+### 其他
+1. **【医学领域使用GPT-4的prompt工程：Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine】https://arxiv.org/abs/2311.16452**
+2. 
+
+
+## GitHub / Hugging Face
 ### 开源大模型
 1. 【Baichuan-7B】https://github.com/baichuan-inc/Baichuan-7B https://huggingface.co/baichuan-inc/Baichuan-7B
 2. 【Baichuan-13B】https://github.com/baichuan-inc/Baichuan-13B
@@ -112,7 +135,8 @@ A resource-set about LLM for CASRIMAT.
 3. 【Standford——alpaca】https://github.com/tatsu-lab/stanford_alpaca
 4. 【alpaca-lora】https://github.com/tloen/alpaca-lora
 5. 【MiniGPT-4】https://github.com/Vision-CAIR/MiniGPT-4
-6. 
+6. 【TinyLLaMA】https://github.com/jzhang38/TinyLlama
+7. 
 
 ### 数据
 1. 【中文预料：GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说、古书资源】https://github.com/PlexPt/chatgpt-corpus
@@ -143,7 +167,9 @@ A resource-set about LLM for CASRIMAT.
 19. 【国科大论文模板】https://github.com/mohuangrui/ucasthesis
 20. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等】https://github.com/hy-zhao23/Explainability-for-Large-Language-Models#improving-llms**
 21. **【Project-based Learning】https://github.com/practical-tutorials/project-based-learning**
-22. 
+22. 【StructGPT：面向结构化数据的大模型推理框架——人大】https://github.com/RUCAIBox/StructGPT
+23. 
+
 
 ## 知乎
 1. 【Transformer的细节到底是怎么样的？】https://www.zhihu.com/question/362131975/answer/2182682685
@@ -179,6 +205,7 @@ A resource-set about LLM for CASRIMAT.
 31. 【Greedy Decoding、Beam Search、Top-k、Top-n】https://zhuanlan.zhihu.com/p/644184931
 32. 
 
+
 ## 微信
 1. 【专知——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
 2. 【扬奇智能社区——2023.9值得关注的大模型相关研究】https://mp.weixin.qq.com/s/MA36pVL0bSCgsF6EDH8jVw
@@ -205,10 +232,12 @@ A resource-set about LLM for CASRIMAT.
 23. **【State of GPT：大神Andrej Karpthy揭秘OpenAI大模型原理和训练过程】https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg**
 24. 
 
+
 ## 电子书
 1. **【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/**
 2. 【（代码部分）刘聪NLP《ChatGPT原理与实战：大型语言模型的算法、技术和私有化》】https://github.com/liucongg/ChatGPTBook
 3. 
+
 
 ## 其他
 1. 【Paper Digest（一个文献集中网站）上检索的ChatGPT文章集合】https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/
@@ -217,6 +246,7 @@ A resource-set about LLM for CASRIMAT.
 3.  **【徐明老师——NLP大模型微调答疑】https://blog.csdn.net/mingzai624/article/details/130735366?spm=1001.2014.3001.5502**
 4.  **【Microsoft——State of GPT】https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2**
 5.  
+
 
 ## Something Interesting Beside LLM
 1. **【复旦自然语言处理实验室——入组第一课】https://github.com/FudanNLP/nlp-beginner**
