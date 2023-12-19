@@ -53,7 +53,7 @@ A resource-set about LLM for CASRIMAT.
 42. **【服了，怎么跟我这个RAL这么类似：Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes】https://arxiv.org/abs/2305.02301**
 43. **【自我解释：Self-explaining AI as an alternative to interpretable AI】https://arxiv.org/abs/2002.05149**
 44. 【基于LLM的企业风险传染？基于大语言模型的多智能体仿真世界大战：War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars】https://arxiv.org/abs/2311.17227
-45. 【ABM，模拟人类行为：Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?】
+45. 【ABM，模拟人类行为：Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?】http://arxiv.org/abs/2301.07543
 46. 【图与LLM：Large Language Models on Graphs: A Comprehensive Survey】https://arxiv.org/abs/2312.02783
 47. **【金融推理问题数据集构建：Beyond Classification: Financial Reasoning in State-of-the-Art Language Models】https://arxiv.org/abs/2305.01505**
 48. **【医学领域使用GPT-4的prompt工程：Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine】https://arxiv.org/abs/2311.16452**
