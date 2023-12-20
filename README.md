@@ -19,8 +19,9 @@ A resource-set about LLM for CASRIMAT.
 6. 【大语言模型的应用和挑战：Challenges and Applications of Large Language Models】https://arxiv.org/abs/2307.10169
 7. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等：Explainability for Large Language Models: A Survey】https://arxiv.org/abs/2309.01029**
 8. **【Instruction Tuning综述：Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning】https://arxiv.org/abs/2303.10475**
-9. 【图与LLM综述：Large Language Models on Graphs: A Comprehensive Survey】https://arxiv.org/abs/2312.02783
-10. 
+9. 【伊利诺伊大学厄巴纳香槟分校——图与LLM综述：Large Language Models on Graphs: A Comprehensive Survey】https://arxiv.org/abs/2312.02783
+10. 【北大——LLM数据管理综述：Data Management For Large Language Models: A Survey】https://arxiv.org/abs/2312.01700
+11. 
 
 ### 技术类
 1. 【Transformer：Attention Is All You Need】https://arxiv.org/abs/1706.03762
