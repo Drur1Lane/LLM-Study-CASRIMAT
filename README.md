@@ -21,7 +21,8 @@ A resource-set about LLM for CASRIMAT.
 8. **【Instruction Tuning综述：Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning】https://arxiv.org/abs/2303.10475**
 9. 【伊利诺伊大学厄巴纳香槟分校——图与LLM综述：Large Language Models on Graphs: A Comprehensive Survey】https://arxiv.org/abs/2312.02783
 10. 【北大——LLM数据管理综述：Data Management For Large Language Models: A Survey】https://arxiv.org/abs/2312.01700
-11. 
+11. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
+12. 
 
 ### 技术类
 1. 【Transformer：Attention Is All You Need】https://arxiv.org/abs/1706.03762
@@ -62,7 +63,7 @@ A resource-set about LLM for CASRIMAT.
 4. **【CoT的又一发展（复杂任务分解）：Least-to-Most Prompting Enables Complex Reasoning in Large Language Models】https://arxiv.org/abs/2205.10625**
 5. **【利用大模型的CoT能力帮助小模型进行推理：Large Language Models Are Reasoning Teachers】http://arxiv.org/abs/2212.10071**
 6. **【利用大模型的CoT能力帮助小模型进行推理2号：Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step】https://arxiv.org/abs/2306.14050**
-7. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
+7. 
 8. **【自我改进：Large Language Models Can Self-Improve】https://arxiv.org/abs/2210.11610**
 9. 【自我反思：Self-Refine: Iterative Refinement with Self-Feedback】https://arxiv.org/abs/2303.17651
 10. 【自我反思2：Reflexion: Language Agents with Verbal Reinforcement Learning】https://arxiv.org/abs/2303.11366
