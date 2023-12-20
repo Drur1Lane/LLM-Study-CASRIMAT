@@ -168,7 +168,8 @@ A resource-set about LLM for CASRIMAT.
 20. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等】https://github.com/hy-zhao23/Explainability-for-Large-Language-Models#improving-llms**
 21. **【Project-based Learning】https://github.com/practical-tutorials/project-based-learning**
 22. 【StructGPT：面向结构化数据的大模型推理框架——人大】https://github.com/RUCAIBox/StructGPT
-23. 
+23. **【LangGPT：结构化prompt——一种面向LLM的编程语言】https://github.com/EmbraceAGI/LangGPT?tab=readme-ov-file**
+24. 
 
 
 ## 知乎
