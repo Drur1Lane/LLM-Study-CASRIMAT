@@ -87,8 +87,8 @@ A resource-set about LLM for CASRIMAT.
 3. 【Mixtral 8*7B】https://mistral.ai/news/mixtral-of-experts/
 4. 
 
-### 其他
-1. **【医学领域使用GPT-4的prompt工程：Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine】https://arxiv.org/abs/2311.16452**
+### Prompting Engineering
+1. **【微软——医学领域使用GPT-4的prompt工程：Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine】https://arxiv.org/abs/2311.16452**
 2. 
 
 
@@ -245,7 +245,8 @@ A resource-set about LLM for CASRIMAT.
     【中文解释】https://mp.weixin.qq.com/s/WaPqsPI4sCdEZoeID0cdew
 3.  **【徐明老师——NLP大模型微调答疑】https://blog.csdn.net/mingzai624/article/details/130735366?spm=1001.2014.3001.5502**
 4.  **【Microsoft——State of GPT】https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2**
-5.  
+5.  **【全面介绍提示工程的网站】https://www.promptingguide.ai/**
+6.  
 
 
 ## Something Interesting Beside LLM
