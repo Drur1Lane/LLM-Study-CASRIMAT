@@ -174,6 +174,11 @@ A resource-set about LLM for CASRIMAT.
 24. 
 
 
+## B站
+1. **【贯一智能科技——国内外十大语言模型之横向对比评测【模型评测08】】https://www.bilibili.com/video/BV1c64y157Qm?vd_source=212a48f118f484bfff9c726b8ee904f2**
+2. 
+
+
 ## 知乎
 1. 【Transformer的细节到底是怎么样的？】https://www.zhihu.com/question/362131975/answer/2182682685
 2. 【ChatGLM2-6B微调】https://www.zhihu.com/question/596950521
