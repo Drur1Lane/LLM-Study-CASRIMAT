@@ -245,7 +245,8 @@ A resource-set about LLM for CASRIMAT.
 22. **【我就知道2号：我说什么来着：Gemini调用文心一言】https://mp.weixin.qq.com/s/xj2h7kVAm9VV7GPQF4lTDQ**
 23. **【State of GPT：大神Andrej Karpthy揭秘OpenAI大模型原理和训练过程】https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg**
 24. 【调用API：像用OpenAI一样使用Mixtral 8x7B】https://mp.weixin.qq.com/s/pffu9zAk-i2Yw2VHj2iiZg
-25. 
+25. **【RAG简介】https://mp.weixin.qq.com/s/j141XTfCmpyc7JKwNQuNJA**
+26. 
 
 
 ## 电子书
