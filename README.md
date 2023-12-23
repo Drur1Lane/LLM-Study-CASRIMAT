@@ -178,7 +178,8 @@ A resource-set about LLM for CASRIMAT.
 24. 【StructGPT：面向结构化数据的大模型推理框架——人大】https://github.com/RUCAIBox/StructGPT
 25. **【LangGPT：结构化prompt——一种面向LLM的编程语言】https://github.com/EmbraceAGI/LangGPT?tab=readme-ov-file**
 26. 【调用Mistral API】https://github.com/mistralai/client-python
-27. 
+27. **【PowerInfer】https://github.com/SJTU-IPADS/PowerInfer**
+28. 
 
 
 ## B站
