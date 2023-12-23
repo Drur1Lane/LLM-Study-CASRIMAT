@@ -1,4 +1,4 @@
-![image](https://github.com/Drur1Lane/LLM-Study-CASRIMAT/assets/129378310/b2c85d4c-5efa-4e78-8ea5-a14bb1a3808a)# LLM-Study-CASRIMAT
+# LLM-Study-CASRIMAT
 A resource-set about LLM for CASRIMAT.
 
 
@@ -35,7 +35,8 @@ A resource-set about LLM for CASRIMAT.
 8. 【大模型微调方法：LLM-Adapters】https://arxiv.org/abs/2304.01933
 9. **【StructGPT：面向结构化数据的大模型推理框架——人大】https://arxiv.org/abs/2305.09645**
 10. 【ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models】https://arxiv.org/abs/2310.10505
-11. 
+11. 【大模型自我构建数据进行训练：Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models】https://arxiv.org/abs/2312.06585
+12. 
 
 ### 领域大模型构建
 1. **【金融风险大模型FinPT——港大 & 达摩院】https://arxiv.org/abs/2308.00065**
@@ -174,7 +175,8 @@ A resource-set about LLM for CASRIMAT.
 23. **【Project-based Learning】https://github.com/practical-tutorials/project-based-learning**
 24. 【StructGPT：面向结构化数据的大模型推理框架——人大】https://github.com/RUCAIBox/StructGPT
 25. **【LangGPT：结构化prompt——一种面向LLM的编程语言】https://github.com/EmbraceAGI/LangGPT?tab=readme-ov-file**
-26. 
+26. 【调用Mistral API】https://github.com/mistralai/client-python
+27. 
 
 
 ## B站
@@ -241,7 +243,8 @@ A resource-set about LLM for CASRIMAT.
 21. **【我就知道，国内大模型都在用ChatGPT的数据来做自己的模型：字节调用OpenAI】https://mp.weixin.qq.com/s/Se3-DNOtOGTZnWy3BTGX8g**
 22. **【我就知道2号：我说什么来着：Gemini调用文心一言】https://mp.weixin.qq.com/s/xj2h7kVAm9VV7GPQF4lTDQ**
 23. **【State of GPT：大神Andrej Karpthy揭秘OpenAI大模型原理和训练过程】https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg**
-24. 
+24. 【调用API：像用OpenAI一样使用Mixtral 8x7B】https://mp.weixin.qq.com/s/pffu9zAk-i2Yw2VHj2iiZg
+25. 
 
 
 ## 电子书
