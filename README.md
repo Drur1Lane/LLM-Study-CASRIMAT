@@ -36,7 +36,8 @@ A resource-set about LLM for CASRIMAT.
 9. **【StructGPT：面向结构化数据的大模型推理框架——人大】https://arxiv.org/abs/2305.09645**
 10. 【ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models】https://arxiv.org/abs/2310.10505
 11. 【大模型自我构建数据进行训练：Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models】https://arxiv.org/abs/2312.06585
-12. 
+12. **【上交——使用RTX 4090跑175B大模型：PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU】https://arxiv.org/abs/2312.12456**
+13. 
 
 ### 领域大模型构建
 1. **【金融风险大模型FinPT——港大 & 达摩院】https://arxiv.org/abs/2308.00065**
