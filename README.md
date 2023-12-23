@@ -259,10 +259,11 @@ A resource-set about LLM for CASRIMAT.
 1. 【Paper Digest（一个文献集中网站）上检索的ChatGPT文章集合】https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/
 2. 【大语言模型对于世界的理解：Language Models Represent Space and Time】https://arxiv.org/abs/2310.02207
     【中文解释】https://mp.weixin.qq.com/s/WaPqsPI4sCdEZoeID0cdew
-3.  **【徐明老师——NLP大模型微调答疑】https://blog.csdn.net/mingzai624/article/details/130735366?spm=1001.2014.3001.5502**
-4.  **【Microsoft——State of GPT】https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2**
-5.  **【全面介绍提示工程的网站】https://www.promptingguide.ai/**
-6.  
+3. **【徐明老师——NLP大模型微调答疑】https://blog.csdn.net/mingzai624/article/details/130735366?spm=1001.2014.3001.5502**
+4. **【Microsoft——State of GPT】https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2**
+5. **【全面介绍提示工程的网站】https://www.promptingguide.ai/**
+6. 【Medium：12种提示方式的介绍】https://cobusgreyling.medium.com/12-prompt-engineering-techniques-644481c857aa【中文版】https://mp.weixin.qq.com/s/1qVhcCRmlYvGZcOe3W3r1Q
+7. 
 
 
 ## Something Interesting Beside LLM
