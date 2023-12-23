@@ -1,4 +1,4 @@
-# LLM-Study-CASRIMAT
+![image](https://github.com/Drur1Lane/LLM-Study-CASRIMAT/assets/129378310/b2c85d4c-5efa-4e78-8ea5-a14bb1a3808a)# LLM-Study-CASRIMAT
 A resource-set about LLM for CASRIMAT.
 
 
@@ -149,30 +149,32 @@ A resource-set about LLM for CASRIMAT.
 5. 
 
 ### 其他资源
-1. 【ChatGPT的英文提示词】https://github.com/f/awesome-chatgpt-prompts
-2. 【ChatGPT的中文提示词】https://github.com/PlexPt/awesome-chatgpt-prompts-zh
-3. 【学术ChatGPT】https://github.com/binary-husky/gpt_academic
-4. **【Awesome-LLM——资源整合】https://github.com/Hannibal046/Awesome-LLM**
-5. **【LLMs九层妖塔——另一位同仁的学习笔记】https://github.com/km1994/LLMsNineStoryDemonTower**
-6. **【LLM-Action——一个资源集合】https://github.com/liguodongiot/llm-action**
-7. **【跟李沐学AI】https://github.com/mli/paper-reading**
-8. 【打造本地的私人GPT】https://github.com/eosphoros-ai/DB-GPT
-9. 【AIGC Progress——又一个资源集合】https://github.com/kinghuin/AIGC-progress
-10. 【OpenAI的tokenize方式】https://github.com/openai/tiktoken
-11. 【FinNLP——哥大刘小洋】https://github.com/AI4Finance-Foundation/FinNLP
-12. 【刘聪NLP——ChatGLM微调实践】https://github.com/liucongg/ChatGLM-Finetuning
-13. 【Google的tokenizer——sentencepiece】https://github.com/google/sentencepiece
-14. 【OpenAI的tokenizer——tiktoken】https://github.com/openai/tiktoken
-15. 【ChatGPT插件】https://github.com/xcanwin/KeepChatGPT
-16. 【LoRA】https://github.com/microsoft/LoRA
-17. 【QLoRA】https://github.com/artidoro/qlora
-18. 【生成prompt】https://github.com/bigscience-workshop/promptsource
-19. 【国科大论文模板】https://github.com/mohuangrui/ucasthesis
-20. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等】https://github.com/hy-zhao23/Explainability-for-Large-Language-Models#improving-llms**
-21. **【Project-based Learning】https://github.com/practical-tutorials/project-based-learning**
-22. 【StructGPT：面向结构化数据的大模型推理框架——人大】https://github.com/RUCAIBox/StructGPT
-23. **【LangGPT：结构化prompt——一种面向LLM的编程语言】https://github.com/EmbraceAGI/LangGPT?tab=readme-ov-file**
-24. 
+1. **【FastChat给出的LLM排名：Chatbot Arena Leaderboard】https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard**
+2. **【FastChat：训练、部署和评估大模型的开源平台】https://github.com/lm-sys/FastChat**
+3. 【ChatGPT的英文提示词】https://github.com/f/awesome-chatgpt-prompts
+4. 【ChatGPT的中文提示词】https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+5. 【学术ChatGPT】https://github.com/binary-husky/gpt_academic
+6. **【Awesome-LLM——资源整合】https://github.com/Hannibal046/Awesome-LLM**
+7. **【LLMs九层妖塔——另一位同仁的学习笔记】https://github.com/km1994/LLMsNineStoryDemonTower**
+8. **【LLM-Action——一个资源集合】https://github.com/liguodongiot/llm-action**
+9. **【跟李沐学AI】https://github.com/mli/paper-reading**
+10. 【打造本地的私人GPT】https://github.com/eosphoros-ai/DB-GPT
+11. 【AIGC Progress——又一个资源集合】https://github.com/kinghuin/AIGC-progress
+12. 【OpenAI的tokenize方式】https://github.com/openai/tiktoken
+13. 【FinNLP——哥大刘小洋】https://github.com/AI4Finance-Foundation/FinNLP
+14. 【刘聪NLP——ChatGLM微调实践】https://github.com/liucongg/ChatGLM-Finetuning
+15. 【Google的tokenizer——sentencepiece】https://github.com/google/sentencepiece
+16. 【OpenAI的tokenizer——tiktoken】https://github.com/openai/tiktoken
+17. 【ChatGPT插件】https://github.com/xcanwin/KeepChatGPT
+18. 【LoRA】https://github.com/microsoft/LoRA
+19. 【QLoRA】https://github.com/artidoro/qlora
+20. 【生成prompt】https://github.com/bigscience-workshop/promptsource
+21. 【国科大论文模板】https://github.com/mohuangrui/ucasthesis
+22. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等】https://github.com/hy-zhao23/Explainability-for-Large-Language-Models#improving-llms**
+23. **【Project-based Learning】https://github.com/practical-tutorials/project-based-learning**
+24. 【StructGPT：面向结构化数据的大模型推理框架——人大】https://github.com/RUCAIBox/StructGPT
+25. **【LangGPT：结构化prompt——一种面向LLM的编程语言】https://github.com/EmbraceAGI/LangGPT?tab=readme-ov-file**
+26. 
 
 
 ## B站
