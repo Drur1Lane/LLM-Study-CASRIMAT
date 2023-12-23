@@ -83,7 +83,8 @@ A resource-set about LLM for CASRIMAT.
 1. 【ABM，模拟人类行为：Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?】http://arxiv.org/abs/2301.07543
 2. 【基于LLM的企业风险传染？基于大语言模型的多智能体仿真世界大战：War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars】https://arxiv.org/abs/2311.17227
 3. **【清华对ABM和LLM的综述：Large Language Models Empowered Agent-basedModeling and Simulation: A Survey and Perspectives】https://arxiv.org/abs/2312.11970**
-4. 
+4. 【让大模型玩模拟人生：Generative Agents: Interactive Simulacra of Human Behavior】https://arxiv.org/abs/2304.03442
+5. 
 
 ### 技术报告
 1. 【谷歌Gemini技术报告】https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf
