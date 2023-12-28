@@ -11,11 +11,11 @@ A resource-set about LLM for CASRIMAT.
 5. 
 
 ### 综述类
-1. **【LLM综述——人大】https://github.com/RUCAIBox/LLMSurvey**
+1. **【LLM综述——人大：Large Language Models: A Survey】https://github.com/RUCAIBox/LLMSurvey**
 2. 【LLM指南（综述）——Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
 3. **【思维链综述——哈工大：A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future】https://arxiv.org/abs/2309.15402**
 4. 【大模型幻觉综述：A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions】https://arxiv.org/abs/2311.05232
-5. **【大模型评价方法综述——天津大学】https://arxiv.org/abs/2310.19736**
+5. **【大模型评价方法综述——天津大学：Evaluating Large Language Models: A Comprehensive Survey】https://arxiv.org/abs/2310.19736**
 6. 【大语言模型的应用和挑战：Challenges and Applications of Large Language Models】https://arxiv.org/abs/2307.10169
 7. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等：Explainability for Large Language Models: A Survey】https://arxiv.org/abs/2309.01029**
 8. **【Instruction Tuning综述：Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning】https://arxiv.org/abs/2303.10475**
