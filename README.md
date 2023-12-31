@@ -250,7 +250,8 @@ A resource-set about LLM for CASRIMAT.
 24. 【调用API：像用OpenAI一样使用Mixtral 8x7B】https://mp.weixin.qq.com/s/pffu9zAk-i2Yw2VHj2iiZg
 25. **【RAG简介】https://mp.weixin.qq.com/s/j141XTfCmpyc7JKwNQuNJA**
 26. 【名不见经传：是不是可以Prompting Engineering in Finance: A Survey】https://mp.weixin.qq.com/s/WXqZsl0a-WUCkJEvkZ8S7w
-27. 
+27. 【哈工大SCIR实验室：赛尔笔记 | 面向表格数据的大模型推理综述】https://mp.weixin.qq.com/s/sXeyH2Ob8-CbGwHHBYOYfQ
+28. 
 
 
 ## 电子书
