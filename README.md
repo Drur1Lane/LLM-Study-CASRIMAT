@@ -22,7 +22,8 @@ A resource-set about LLM for CASRIMAT.
 9. 【伊利诺伊大学厄巴纳香槟分校——图与LLM综述：Large Language Models on Graphs: A Comprehensive Survey】https://arxiv.org/abs/2312.02783
 10. 【北大——LLM数据管理综述：Data Management For Large Language Models: A Survey】https://arxiv.org/abs/2312.01700
 11. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
-12. 
+12. **【提高LLMs的计算效率和资源利用效率综述：Efficient Large Language Models: A Survey】https://arxiv.org/abs/2312.03863**
+13. 
 
 ### 技术类
 1. 【Transformer：Attention Is All You Need】https://arxiv.org/abs/1706.03762
@@ -248,7 +249,8 @@ A resource-set about LLM for CASRIMAT.
 23. **【State of GPT：大神Andrej Karpthy揭秘OpenAI大模型原理和训练过程】https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg**
 24. 【调用API：像用OpenAI一样使用Mixtral 8x7B】https://mp.weixin.qq.com/s/pffu9zAk-i2Yw2VHj2iiZg
 25. **【RAG简介】https://mp.weixin.qq.com/s/j141XTfCmpyc7JKwNQuNJA**
-26. 
+26. 【名不见经传：是不是可以Prompting Engineering in Finance: A Survey】https://mp.weixin.qq.com/s/WXqZsl0a-WUCkJEvkZ8S7w
+27. 
 
 
 ## 电子书
