@@ -75,7 +75,8 @@ A resource-set about LLM for CASRIMAT.
 13. **【金融推理问题数据集构建：Beyond Classification: Financial Reasoning in State-of-the-Art Language Models】https://arxiv.org/abs/2305.01505**
 14. 【Specializing Smaller Language Models towards Multi-Step Reasoning】http://arxiv.org/abs/2301.12726
 15. 【姚期智首篇LLM：Cumulative Reasoning with Large Language Models】http://arxiv.org/abs/2308.04371
-16. 
+16. **【让大模型在错题中学习：Learning From Mistakes Makes LLM Better Reasoner】https://arxiv.org/abs/2310.20689**
+17. 
 
 ### 大模型与图
 1. 【大模型与知识图谱：Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph】https://arxiv.org/abs/2307.07697
