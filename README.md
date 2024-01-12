@@ -78,6 +78,10 @@ A resource-set about LLM for CASRIMAT.
 16. **【让大模型在错题中学习：Learning From Mistakes Makes LLM Better Reasoner】https://arxiv.org/abs/2310.20689**
 17. 
 
+### 大模型与表格数据
+1. 【微软：Table-GPT: Table-tuned GPT for Diverse Table Tasks】https://arxiv.org/abs/2310.09263
+2. 
+
 ### 大模型与图
 1. 【大模型与知识图谱：Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph】https://arxiv.org/abs/2307.07697
 2. 
@@ -257,12 +261,13 @@ A resource-set about LLM for CASRIMAT.
 28. 
 
 
-## 个人博客
+## 个人博客/团队账号
 1. 徐明老师：https://blog.csdn.net/mingzai624?type=blog
 2. 老潘：https://oldpan.me/
 3. 苏剑林老师：https://spaces.ac.cn/
 4. 庞宇轩：https://pyxblog.cn/
-5. 
+5. 人大AI BOX：https://www.zhihu.com/people/dou-hong-jian-44
+6. 
 
 
 ## 电子书
