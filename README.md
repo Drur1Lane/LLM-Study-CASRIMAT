@@ -222,7 +222,8 @@ A resource-set about LLM for CASRIMAT.
 29. 【机器学习中的“可解释性”该作何解释？】https://www.zhihu.com/question/505153525/answer/3257841592
 30. 【范浩强：完蛋！我被大模型包围了】https://zhuanlan.zhihu.com/p/665393240
 31. 【Greedy Decoding、Beam Search、Top-k、Top-n】https://zhuanlan.zhihu.com/p/644184931
-32. 
+32. 【Nlp句子分类，句子长度差异特别大，200-5000，200-上万，有什么办法处理或者什么模型可用吗？】https://www.zhihu.com/question/421735170
+33. 
 
 
 ## 微信
@@ -256,6 +257,14 @@ A resource-set about LLM for CASRIMAT.
 28. 
 
 
+## 个人博客
+1. 徐明老师：https://blog.csdn.net/mingzai624?type=blog
+2. 老潘：https://oldpan.me/
+3. 苏剑林老师：https://spaces.ac.cn/
+4. 庞宇轩：https://pyxblog.cn/
+5. 
+
+
 ## 电子书
 1. **【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/**
 2. 【（代码部分）刘聪NLP《ChatGPT原理与实战：大型语言模型的算法、技术和私有化》】https://github.com/liucongg/ChatGPTBook
@@ -270,7 +279,9 @@ A resource-set about LLM for CASRIMAT.
 4. **【Microsoft——State of GPT】https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2**
 5. **【全面介绍提示工程的网站】https://www.promptingguide.ai/**
 6. 【Medium：12种提示方式的介绍】https://cobusgreyling.medium.com/12-prompt-engineering-techniques-644481c857aa【中文版】https://mp.weixin.qq.com/s/1qVhcCRmlYvGZcOe3W3r1Q
-7. 
+7. 【一文看懂学习率Learning Rate，从入门到CLR】https://blog.csdn.net/u012526436/article/details/90486021
+8. **【Oldpan个人博客：关于训练神经网路的诸多技巧Tricks(完全总结版)】https://oldpan.me/archives/how-to-use-tricks-to-train-network**
+9. 
 
 
 ## Something Interesting Beside LLM
@@ -281,3 +292,4 @@ A resource-set about LLM for CASRIMAT.
 5. 【知乎——小王同学在积累的Github学习资料】https://github.com/AccumulateMore/CV
 6. 【CSDN——SHAP：解释模型预测的通用方法】https://blog.csdn.net/qq_40943760/article/details/123938209
 7. **【为你的朋友制作歌曲！】https://www.suno.ai/**
+8. 
