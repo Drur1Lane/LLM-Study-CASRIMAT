@@ -156,7 +156,8 @@ A resource-set about LLM for CASRIMAT.
 2. **【中文金融情感分析数据集】https://github.com/YerayL/FinChina-SA**
 3. 【金融知识评测数据集——度小满】https://github.com/Duxiaoman-DI/XuanYuan/tree/main/FinanceIQ
 4. 【上市公司公告、金融新闻、金融试题——度小满】https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus
-5. 
+5. **【BBT-FinCorpus，需申请】https://github.com/ssymmetry/BBT-FinCUGE-Applications**
+6. 
 
 ### 其他资源
 1. **【FastChat给出的LLM排名：Chatbot Arena Leaderboard】https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard**
