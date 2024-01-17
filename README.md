@@ -138,7 +138,8 @@ A resource-set about LLM for CASRIMAT.
 12. **【金融大模型PIXIU——武汉大学、中山大学等】https://github.com/chancefocus/PIXIU**
 13. **【金融资讯大模型DISC-FinLLM——复旦大学】https://github.com/FudanDISC/DISC-FinLLM**
 14. **【阿里组织的2023 ChatGLM金融大模型挑战赛】https://github.com/MetaGLM/FinGLM?tab=readme-ov-file**
-15. 
+15. **【金融大模型CFGPT——同济】https://github.com/TongjiFinLab/CFGPT**
+16. 
 
 ### 练手小大模型
 1. **【baby-llama2-chinese】https://github.com/DLLXW/baby-llama2-chinese**
