@@ -186,7 +186,8 @@ A resource-set about LLM for CASRIMAT.
 25. **【LangGPT：结构化prompt——一种面向LLM的编程语言】https://github.com/EmbraceAGI/LangGPT?tab=readme-ov-file**
 26. 【调用Mistral API】https://github.com/mistralai/client-python
 27. **【PowerInfer】https://github.com/SJTU-IPADS/PowerInfer**
-28. 
+28. **【各行业中文开源金融大模型整理】https://github.com/HqWu-HITCS/Awesome-Chinese-LLM?tab=readme-ov-file#%E9%87%91%E8%9E%8D**
+29. 
 
 
 ## B站
