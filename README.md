@@ -81,7 +81,8 @@ A resource-set about LLM for CASRIMAT.
 
 ### 大模型与表格数据
 1. 【微软：Table-GPT: Table-tuned GPT for Diverse Table Tasks】https://arxiv.org/abs/2310.09263
-2. 
+2. 【国立成功大学：Trompt: Towards a Better Deep Neural Network for Tabular Data】http://arxiv.org/abs/2305.18446
+3. 
 
 ### 大模型与图
 1. 【大模型与知识图谱：Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph】https://arxiv.org/abs/2307.07697
