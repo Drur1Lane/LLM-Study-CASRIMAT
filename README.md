@@ -58,7 +58,8 @@ A resource-set about LLM for CASRIMAT.
 ### 数据集构建
 1. **【中文金融情感分析数据集】https://arxiv.org/abs/2306.14096**
 2. **【金融指令调优数据集——哈工深】https://arxiv.org/abs/2308.01415**
-3. 
+3. 【ConvFinQA】http://arxiv.org/abs/2210.03849
+4. 
 
 ### 思维链与大模型推理
 1. **【CoT开山之作：Chain-of-Thought Prompting Elicits Reasoning in Large Language Models】https://arxiv.org/abs/2201.11903**
