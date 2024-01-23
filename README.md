@@ -53,7 +53,8 @@ A resource-set about LLM for CASRIMAT.
 10. **【金融资讯大模型DISC-FinLLM——复旦大学】https://arxiv.org/abs/2310.15205**
 11. **【金融大模型PIXIU——武汉大学、中山大学等】https://arxiv.org/abs/2306.05443**
 12. **【金融大模型FLLM——阿里巴巴、弗吉尼亚大学】http://arxiv.org/abs/2310.17784**
-13. 
+13. **【金融大模型Fin-T5——复旦等】http://arxiv.org/abs/2302.09432**
+14. 
 
 ### 数据集构建
 1. **【中文金融情感分析数据集】https://arxiv.org/abs/2306.14096**
