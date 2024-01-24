@@ -4,7 +4,7 @@ A resource-set about LLM for CASRIMAT.
 ## 论文
 ### 发表在顶刊or会计、金融领域期刊上的
 |题目|期刊|作者|机构|网址|
-|----|---|---|---|
+|-|-|-|-|-|
 |题目|期刊|作者|机构|网址|
 
 1. **【Contemporary Accounting Research（ABS 4）——FinBERT: A Large Language Model for Extracting Information from Financial Text（金融领域BERT模型）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
