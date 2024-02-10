@@ -63,10 +63,12 @@ A resource-set about LLM for CASRIMAT.
 | 14 |  |  |  | <a href="">Link</a> |  |
 
 ### 数据集构建
-1. **【中文金融情感分析数据集】https://arxiv.org/abs/2306.14096**
-2. **【金融指令调优数据集——哈工深】https://arxiv.org/abs/2308.01415**
-3. 【ConvFinQA】http://arxiv.org/abs/2210.03849
-4. 
+|序号|题目|期刊|作者|机构|网址|简介|
+|-|-|-|-|-|-|-|
+| 1 |  |  |  | <a href="https://arxiv.org/abs/2306.14096">Link</a> | 中文金融情感分析数据集 |
+| 2 |  |  | 哈工深 | <a href="https://arxiv.org/abs/2308.01415">Link</a> | 金融指令调优数据集 |
+| 3 |  |  |  | <a href="http://arxiv.org/abs/2210.03849">Link</a> | ConvFinQA |
+| 4 |  |  |  | <a href="">Link</a> |  |
 
 ### 思维链与大模型推理
 1. **【CoT开山之作：Chain-of-Thought Prompting Elicits Reasoning in Large Language Models】https://arxiv.org/abs/2201.11903**
