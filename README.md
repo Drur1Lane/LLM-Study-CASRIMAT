@@ -322,11 +322,11 @@ A resource-set about LLM for CASRIMAT.
 
 
 ## Something Interesting Beside LLM
-1. **【复旦自然语言处理实验室——入组第一课】https://github.com/FudanNLP/nlp-beginner**
-2. 【nlp研究生不会自己写代码怎么办？】https://www.zhihu.com/question/615441114
-3. 【DocsGPT——读论文】https://github.com/arc53/DocsGPT
-4. 【动手学深度学习】https://github.com/d2l-ai/d2l-zh
-5. 【知乎——小王同学在积累的Github学习资料】https://github.com/AccumulateMore/CV
-6. 【CSDN——SHAP：解释模型预测的通用方法】https://blog.csdn.net/qq_40943760/article/details/123938209
-7. **【为你的朋友制作歌曲！】https://www.suno.ai/**
-8. 
+|序号|来源|名称|链接|备注|
+|-|-|-|-|-|
+| 1 | **复旦自然语言处理实验室** | **入组第一堂代码课** | <a href="https://github.com/FudanNLP/nlp-beginner">Link</a> |  |
+| 2 |  | nlp研究生不会自己写代码怎么办 | <a href="https://www.zhihu.com/question/615441114">Link</a> |  |
+| 3 | 知乎 | 小王同学在积累的Github学习资料 | <a href="https://github.com/AccumulateMore/CV">Link</a> |  |
+| 4 | CSDN | SHAP：解释模型预测的通用方法 | <a href="https://blog.csdn.net/qq_40943760/article/details/123938209">Link</a> |  |
+| 5 |  | 为你的朋友制作歌曲 | <a href="https://www.suno.ai">Link</a> |  |
+| 6 |  |  |  |  |
