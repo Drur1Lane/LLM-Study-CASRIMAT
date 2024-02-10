@@ -104,21 +104,27 @@ A resource-set about LLM for CASRIMAT.
 | 2 |  | avXiv |  |  | <a href="">Link</a> |  |
 
 ### AI Agents
-1. 【ABM，模拟人类行为：Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?】http://arxiv.org/abs/2301.07543
-2. 【基于LLM的企业风险传染？基于大语言模型的多智能体仿真世界大战：War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars】https://arxiv.org/abs/2311.17227
-3. **【清华对ABM和LLM的综述：Large Language Models Empowered Agent-basedModeling and Simulation: A Survey and Perspectives】https://arxiv.org/abs/2312.11970**
-4. 【让大模型玩模拟人生：Generative Agents: Interactive Simulacra of Human Behavior】https://arxiv.org/abs/2304.03442
-5. 
+|序号|题目|期刊|作者|机构|网址|简介|
+|-|-|-|-|-|-|-|
+| 1 | Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus? | avXiv |  |  | <a href="http://arxiv.org/abs/2301.07543">Link</a> | ABM，模拟人类行为 |
+| 2 | War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars | avXiv |  |  | <a href="https://arxiv.org/abs/2311.17227">Link</a> | 基于LLM的企业风险传染？基于大语言模型的多智能体仿真世界大战 |
+| 3 | **Large Language Models Empowered Agent-basedModeling and Simulation: A Survey and Perspectives** | avXiv |  | 清华 | <a href="https://arxiv.org/abs/2312.11970">Link</a> | 对ABM和LLM的综述 |
+| 4 | Generative Agents: Interactive Simulacra of Human Behavior | avXiv |  |  | <a href="https://arxiv.org/abs/2304.03442">Link</a> | 让大模型玩模拟人生 |
+| 5 |  | avXiv |  |  | <a href="">Link</a> |  |
 
 ### 技术报告
-1. 【谷歌Gemini技术报告】https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf
-2. 【微软Phi2】https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/
-3. 【Mixtral 8*7B】https://mistral.ai/news/mixtral-of-experts/
-4. 
+|序号|题目|期刊|作者|机构|网址|简介|
+|-|-|-|-|-|-|-|
+| 1 |  |  |  | 谷歌 | <a href="https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf">Link</a> | Gemini |
+| 2 |  |  |  | 微软 | <a href="https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/">Link</a> | Phi2 |
+| 3 |  |  |  |  | <a href="https://mistral.ai/news/mixtral-of-experts/">Link</a> | Mixtral 8*7B |
+| 4 |  |  |  |  | <a href="">Link</a> |  |
 
 ### Prompting Engineering
-1. **【微软——医学领域使用GPT-4的prompt工程：Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine】https://arxiv.org/abs/2311.16452**
-2. 
+|序号|题目|期刊|作者|机构|网址|简介|
+|-|-|-|-|-|-|-|
+| 1 | **Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine** | avXiv |  | 微软 | <a href="https://arxiv.org/abs/2311.16452">Link</a> | 医学领域使用GPT-4的prompt工程 |
+| 2 |  | avXiv |  |  | <a href="">Link</a> |  |
 
 
 ## GitHub / Hugging Face
