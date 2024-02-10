@@ -227,6 +227,8 @@ A resource-set about LLM for CASRIMAT.
 
 
 ## 知乎
+|序号|博主|名称|链接|备注|
+|-|-|-|-|-|
 1. 【Transformer的细节到底是怎么样的？】https://www.zhihu.com/question/362131975/answer/2182682685
 2. 【ChatGLM2-6B微调】https://www.zhihu.com/question/596950521
 3. 【ChatGLM2-6B微调】https://zhuanlan.zhihu.com/p/641047705
