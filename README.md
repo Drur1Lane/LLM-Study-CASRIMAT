@@ -93,13 +93,15 @@ A resource-set about LLM for CASRIMAT.
 ### 大模型与表格数据
 |序号|题目|期刊|作者|机构|网址|简介|
 |-|-|-|-|-|-|-|
-| 1 | Table-GPT: Table-tuned GPT for Diverse Table Tasks |  |  | 微软 | <a href="https://arxiv.org/abs/2310.09263">Link</a> |  |
-| 2 | Trompt: Towards a Better Deep Neural Network for Tabular Data |  |  | 国立成功大学 | <a href="http://arxiv.org/abs/2305.18446">Link</a> |  |
-| 3 |  |  |  |  |  |  |
+| 1 | Table-GPT: Table-tuned GPT for Diverse Table Tasks | arXiv |  | 微软 | <a href="https://arxiv.org/abs/2310.09263">Link</a> |  |
+| 2 | Trompt: Towards a Better Deep Neural Network for Tabular Data | arXiv |  | 国立成功大学 | <a href="http://arxiv.org/abs/2305.18446">Link</a> |  |
+| 3 |  | avXiv |  |  | <a href="">Link</a> |  |
 
 ### 大模型与图
-1. 【大模型与知识图谱：Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph】https://arxiv.org/abs/2307.07697
-2. 
+|序号|题目|期刊|作者|机构|网址|简介|
+|-|-|-|-|-|-|-|
+| 1 | Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph | arXiv |  |  | <a href="https://arxiv.org/abs/2307.07697">Link</a> | 大模型与知识图谱 |
+| 2 |  | avXiv |  |  | <a href="">Link</a> |  |
 
 ### AI Agents
 1. 【ABM，模拟人类行为：Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?】http://arxiv.org/abs/2301.07543
