@@ -71,6 +71,25 @@ A resource-set about LLM for CASRIMAT.
 | 4 |  |  |  | <a href="">Link</a> |  |
 
 ### 思维链与大模型推理
+|序号|题目|期刊|作者|机构|网址|简介|
+|-|-|-|-|-|-|-|
+| 1 | **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** | avXiv |  |  | <a href="https://arxiv.org/abs/2201.11903">Link</a> | CoT开山之作 |
+|  |  |  |  | <a href="">Link</a> |  |
+|  |  |  |  | <a href="">Link</a> |  |
+|  |  |  |  | <a href="">Link</a> |  |
+|  |  |  |  | <a href="">Link</a> |  |
+|  |  |  |  | <a href="">Link</a> |  |
+|  |  |  |  | <a href="">Link</a> |  |
+|  |  |  |  | <a href="">Link</a> |  |
+|  |  |  |  | <a href="">Link</a> |  |
+|  |  |  |  | <a href="">Link</a> |  |
+|  |  |  |  | <a href="">Link</a> |  |
+|  |  |  |  | <a href="">Link</a> |  |
+|  |  |  |  | <a href="">Link</a> |  |
+|  |  |  |  | <a href="">Link</a> |  |
+|  |  |  |  | <a href="">Link</a> |  |
+|  |  |  |  | <a href="">Link</a> |  |
+|  |  |  |  | <a href="">Link</a> |  |
 1. **【CoT开山之作：Chain-of-Thought Prompting Elicits Reasoning in Large Language Models】https://arxiv.org/abs/2201.11903**
 2. **【Zero-shot-CoT：Large Language Models are Zero-Shot Reasoners】http://arxiv.org/abs/2205.11916**
 3. **【CoT的早期发展（多条回答取最多的答案）：Self-Consistency Improves Chain of Thought Reasoning in Language Models】https://arxiv.org/abs/2203.11171**
