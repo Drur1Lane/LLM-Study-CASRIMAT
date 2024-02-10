@@ -9,11 +9,6 @@ A resource-set about LLM for CASRIMAT.
 | 2 | GPT has become financially literate: Insights from financial literacy tests of GPT and a preliminary test of how people use it as a source of advice | Financial Research Letters（ABS 2） |  |  | <div style="width: 50pt">https://www.sciencedirect.com/science/article/pii/S1544612323007055</div> |
 | 3 | ChatGPT for (Finance) research: The Bananarama Conjecture | Financial Research Letters（ABS 2） |  |  | <div style="width: 50pt">https://www.sciencedirect.com/science/article/pii/S1544612323000363</div> |
 | 4 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature（ABS 4） |  |  | <div style="width: 50pt">https://www.dropbox.com/scl/fi/kk6duothtufsa8dhs3yat/LLMs_final.pdf?rlkey=bfadp97ej13ruceggecfeeiyi&dl=0</div> |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 
 ### 综述类
 1. **【LLM综述——人大：Large Language Models: A Survey】https://github.com/RUCAIBox/LLMSurvey**
