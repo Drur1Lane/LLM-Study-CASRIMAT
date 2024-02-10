@@ -131,51 +131,51 @@ A resource-set about LLM for CASRIMAT.
 ### 开源大模型
 |序号|名称|机构|Github|Hugging Face|
 |-|-|-|-|-|
-| 1 | Baichuan-7B |  | https://github.com/baichuan-inc/Baichuan-7B | https://huggingface.co/baichuan-inc/Baichuan-7B |
-| 2 | Baichuan-13B |  | https://github.com/baichuan-inc/Baichuan-13B |  |
-| 3 | Baichuan2 |  | https://github.com/baichuan-inc/Baichuan2 |  |
-| 4 | ChatGLM |  | https://github.com/THUDM/ChatGLM-6B |  |
-| 5 | ChatGLM2 |  | https://github.com/THUDM/ChatGLM2-6B |  |
-| 6 | ChatGLM3 |  | https://github.com/THUDM/ChatGLM3 |  |
-| 7 | LLaMA | Meta | https://github.com/facebookresearch/llama |  |
-| 8 | LLaMA2 | Meta |  | https://huggingface.co/daryl149/llama-2-7b-chat-hf |
-| 9 | 中文llama2 & Alpaca | 科大讯飞 | https://github.com/ymcui/Chinese-LLaMA-Alpaca |  |
-| 10 | 中文llama2 & Alpaca 2 | 科大讯飞 | https://github.com/ymcui/Chinese-LLaMA-Alpaca-2 |  |
-| 11 | Mistral系列 |  |  | https://huggingface.co/mistralai |
-| 12 | Yi | 李开复零一万物 | https://github.com/01-ai/Yi |  |
-| 13 | Bloomz系列 |  |  | https://huggingface.co/bigscience/bloomz-560m |
-| 14 | Qwen系列 | 阿里 | https://github.com/QwenLM/Qwen |  |
+| 1 | Baichuan-7B |  | <a href="https://github.com/baichuan-inc/Baichuan-7B">Link</a> | <a href="https://huggingface.co/baichuan-inc/Baichuan-7B">Link</a> |
+| 2 | Baichuan-13B |  | <a href="https://github.com/baichuan-inc/Baichuan-13B">Link</a> |  |
+| 3 | Baichuan2 |  | <a href="https://github.com/baichuan-inc/Baichuan2">Link</a> |  |
+| 4 | ChatGLM |  | <a href="https://github.com/THUDM/ChatGLM-6B">Link</a> |  |
+| 5 | ChatGLM2 |  | <a href="https://github.com/THUDM/ChatGLM2-6B">Link</a> |  |
+| 6 | ChatGLM3 |  | <a href="https://github.com/THUDM/ChatGLM3">Link</a> |  |
+| 7 | LLaMA | Meta | <a href="https://github.com/facebookresearch/llama">Link</a> |  |
+| 8 | LLaMA2 | Meta |  | <a href="https://huggingface.co/daryl149/llama-2-7b-chat-hf">Link</a> |
+| 9 | 中文llama2 & Alpaca | 科大讯飞 | <a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca">Link</a> |  |
+| 10 | 中文llama2 & Alpaca 2 | 科大讯飞 | <a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca-2">Link</a> |  |
+| 11 | Mistral系列 |  |  | <a href="https://huggingface.co/mistralai">Link</a> |
+| 12 | Yi | 李开复零一万物 | <a href="https://github.com/01-ai/Yi">Link</a> |  |
+| 13 | Bloomz系列 |  |  | <a href="https://huggingface.co/bigscience/bloomz-560m">Link</a> |
+| 14 | Qwen系列 | 阿里 | <a href="https://github.com/QwenLM/Qwen">Link</a> |  |
 | 15 |  |  |  |  |
 
 ### 微调大模型
 |序号|名称|机构|Github|Hugging Face|
 |-|-|-|-|-|
-| 1 | **金融风险大模型FinPT** | 港大 & 达摩院 | https://github.com/YuweiYin/FinPT |  |
-| 2 | **FinBERT** |  | https://github.com/yya518/FinBERT |  |
-| 3 | **金融大模型XuanYuan** | 度小满 | https://github.com/Duxiaoman-DI/XuanYuan |  |
-| 4 | **医疗大模型MedicalGPT** | 徐明老师 | https://github.com/shibing624/MedicalGPT |  |
-| 5 | 法律大模型ChatLaw | 北大 | https://github.com/PKU-YuanGroup/ChatLaw |  |
-| 6 | **金融大模型“聚宝盆Cornucopia”** | 中科院成都计算机应用研究所 | https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese |  |
-| 7 | 医疗大模型“华驼” |  | https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese |  |
-| 8 | **金融大模型FinGPT** | 哥大刘小洋 | https://github.com/AI4Finance-Foundation/FinGPT |  |
-| 9 | **金融大模型FinVisGPT（多模态）** | 哈工深 | https://github.com/wwwadx/FinVis-GPT |  |
-| 10 | **金融大模型FinTuo** | 华中师范大学陈启源 | https://github.com/qiyuan-chen/FinTuo-Chinese-Finance-LLM |  |
-| 11 | 骆驼项目：大模型集合 | 商汤科技+华中师范大学 | https://github.com/LC1332/Luotuo-Chinese-LLM |  |
-| 12 | **金融大模型PIXIU** | 武大、中山等 | https://github.com/chancefocus/PIXIU |  |
-| 13 | **金融资讯大模型DISC-FinLLM** | 复旦 | https://github.com/FudanDISC/DISC-FinLLM |  |
-| 14 | **2023 ChatGLM金融大模型挑战赛** | 阿里 | https://github.com/MetaGLM/FinGLM?tab=readme-ov-file |  |
-| 15 | **金融大模型CFGPT** | 同济 | https://github.com/TongjiFinLab/CFGPT |  |
+| 1 | **金融风险大模型FinPT** | 港大 & 达摩院 | <a href="https://github.com/YuweiYin/FinPT">Link</a> |  |
+| 2 | **FinBERT** |  | <a href="https://github.com/yya518/FinBERT">Link</a> |  |
+| 3 | **金融大模型XuanYuan** | 度小满 | <a href="https://github.com/Duxiaoman-DI/XuanYuan">Link</a> |  |
+| 4 | **医疗大模型MedicalGPT** | 徐明老师 | <a href="https://github.com/shibing624/MedicalGPT">Link</a> |  |
+| 5 | 法律大模型ChatLaw | 北大 | <a href="https://github.com/PKU-YuanGroup/ChatLaw">Link</a> |  |
+| 6 | **金融大模型“聚宝盆Cornucopia”** | 中科院成都计算机应用研究所 | <a href="https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese">Link</a> |  |
+| 7 | 医疗大模型“华驼” |  | <a href="https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese">Link</a> |  |
+| 8 | **金融大模型FinGPT** | 哥大刘小洋 | <a href="https://github.com/AI4Finance-Foundation/FinGPT">Link</a> |  |
+| 9 | **金融大模型FinVisGPT（多模态）** | 哈工深 | <a href="https://github.com/wwwadx/FinVis-GPT">Link</a> |  |
+| 10 | **金融大模型FinTuo** | 华中师范大学陈启源 | <a href="https://github.com/qiyuan-chen/FinTuo-Chinese-Finance-LLM">Link</a> |  |
+| 11 | 骆驼项目：大模型集合 | 商汤科技+华中师范大学 | <a href="https://github.com/LC1332/Luotuo-Chinese-LLM">Link</a> |  |
+| 12 | **金融大模型PIXIU** | 武大、中山等 | <a href="https://github.com/chancefocus/PIXIU">Link</a> |  |
+| 13 | **金融资讯大模型DISC-FinLLM** | 复旦 | <a href="https://github.com/FudanDISC/DISC-FinLLM">Link</a> |  |
+| 14 | **2023 ChatGLM金融大模型挑战赛** | 阿里 | <a href="https://github.com/MetaGLM/FinGLM?tab=readme-ov-file">Link</a> |  |
+| 15 | **金融大模型CFGPT** | 同济 | <a href="https://github.com/TongjiFinLab/CFGPT">Link</a> |  |
 | 16 |  |  |  |  |
 
 ### 练手小大模型
 |序号|名称|Github|Hugging Face|备注|
 |-|-|-|-|-|
-| 1 | baby-llama2-chinese | https://github.com/DLLXW/baby-llama2-chinese |  |  |
-| 2 | nanoGPT | https://github.com/karpathy/nanoGPT |  | <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">配套视频</a> |
-| 3 | Standford_alpaca | https://github.com/tatsu-lab/stanford_alpaca |  |  |
-| 4 | alpaca-lora | https://github.com/tloen/alpaca-lora |  |  |
-| 5 | MiniGPT-4 | https://github.com/Vision-CAIR/MiniGPT-4 |  |  |
-| 6 | TinyLLaMA | https://github.com/jzhang38/TinyLlama |  |  |
+| 1 | baby-llama2-chinese | <a href="https://github.com/DLLXW/baby-llama2-chinese">Link</a> |  |  |
+| 2 | nanoGPT | <a href="https://github.com/karpathy/nanoGPT">Link</a> |  | <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">配套视频</a> |
+| 3 | Standford_alpaca | <a href="https://github.com/tatsu-lab/stanford_alpaca">Link</a> |  |  |
+| 4 | alpaca-lora | <a href="https://github.com/tloen/alpaca-lora">Link</a> |  |  |
+| 5 | MiniGPT-4 | <a href="https://github.com/Vision-CAIR/MiniGPT-4">Link</a> |  |  |
+| 6 | TinyLLaMA | <a href="https://github.com/jzhang38/TinyLlama">Link</a> |  |  |
 | 7 |  |  |  |  |
 
 ### 数据
