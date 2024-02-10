@@ -3,7 +3,51 @@ A resource-set about LLM for CASRIMAT.
 
 ## 论文
 ### 发表在顶刊or会计、金融领域期刊上的
-|序号|题目|期刊|作者|机构|<div style="width: 150pt">网址</div>|
+
+<div style="display: table; width: 100%;">
+  <div style="display: table-row;">
+    <div style="display: table-cell;">序号</div>
+    <div style="display: table-cell; width: 300px;">题目</div>
+    <div style="display: table-cell; width: 300px;">期刊</div>
+    <div style="display: table-cell;">作者</div>
+    <div style="display: table-cell;">机构</div>
+    <div style="display: table-cell; width: 150px;">网址</div>
+  </div>
+  <div style="display: table-row;">
+    <div style="display: table-cell;">1</div>
+    <div style="display: table-cell; width: 300px;">FinBERT: A Large Language Model for Extracting Information from Financial Text</div>
+    <div style="display: table-cell; width: 300px;">Contemporary Accounting Research（ABS 4）</div>
+    <div style="display: table-cell;"></div>
+    <div style="display: table-cell;"></div>
+    <div style="display: table-cell; width: 150px;"><a href="https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832">Link</a></div>
+  </div>
+  <div style="display: table-row;">
+    <div style="display: table-cell;">2</div>
+    <div style="display: table-cell; width: 300px;">GPT has become financially literate: Insights from financial literacy tests of GPT and a preliminary test of how people use it as a source of advice</div>
+    <div style="display: table-cell; width: 300px;">Financial Research Letters（ABS 2）</div>
+    <div style="display: table-cell;"></div>
+    <div style="display: table-cell;"></div>
+    <div style="display: table-cell; width: 150px;"><a href="https://www.sciencedirect.com/science/article/pii/S1544612323007055">Link</a></div>
+  </div>
+  <div style="display: table-row;">
+    <div style="display: table-cell;">3</div>
+    <div style="display: table-cell; width: 300px;">ChatGPT for (Finance) research: The Bananarama Conjecture</div>
+    <div style="display: table-cell; width: 300px;">Financial Research Letters（ABS 2）</div>
+    <div style="display: table-cell;"></div>
+    <div style="display: table-cell;"></div>
+    <div style="display: table-cell; width: 150px;"><a href="https://www.sciencedirect.com/science/article/pii/S1544612323000363">Link</a></div>
+  </div>
+  <div style="display: table-row;">
+    <div style="display: table-cell;">4</div>
+    <div style="display: table-cell; width: 300px;">Generative AI for Economic Research: Use Cases and Implications for Economists</div>
+    <div style="display: table-cell; width: 300px;">Journal of Economic Literature（ABS 4）</div>
+    <div style="display: table-cell;"></div>
+    <div style="display: table-cell;"></div>
+    <div style="display: table-cell; width: 150px;"><a href="https://www.dropbox.com/scl/fi/kk6duothtufsa8dhs3yat/LLMs_final.pdf?rlkey=bfadp97ej13ruceggecfeeiyi&dl=0">Link</a></div>
+  </div>
+</div>
+
+|序号|题目|期刊|作者|机构|网址|
 |-|-|-|-|-|-|
 | 1 | FinBERT: A Large Language Model for Extracting Information from Financial Text | Contemporary Accounting Research（ABS 4） |  |  | https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832 |
 | 2 | GPT has become financially literate: Insights from financial literacy tests of GPT and a preliminary test of how people use it as a source of advice | Financial Research Letters（ABS 2） |  |  | https://www.sciencedirect.com/science/article/pii/S1544612323007055 |
