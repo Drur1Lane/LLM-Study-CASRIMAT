@@ -28,19 +28,21 @@ A resource-set about LLM for CASRIMAT.
 | 13 |  |  |  |  | <a href="">Link</a> |  |
 
 ### 技术类
-1. 【Transformer：Attention Is All You Need】https://arxiv.org/abs/1706.03762
-2. 【GPT-1】https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
-3. 【BERT】https://arxiv.org/abs/1810.04805
-4. 【GPT-2】https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
-5. 【GPT-3】https://arxiv.org/abs/2005.14165
-6. 【白盒Transformer：White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?】https://arxiv.org/abs/2311.13110
-7. **【知识蒸馏的开山之作：Distilling the Knowledge in a Neural Network】https://arxiv.org/abs/1503.02531**
-8. 【大模型微调方法：LLM-Adapters】https://arxiv.org/abs/2304.01933
-9. **【StructGPT：面向结构化数据的大模型推理框架——人大】https://arxiv.org/abs/2305.09645**
-10. 【ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models】https://arxiv.org/abs/2310.10505
-11. 【大模型自我构建数据进行训练：Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models】https://arxiv.org/abs/2312.06585
-12. **【上交——使用RTX 4090跑175B大模型：PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU】https://arxiv.org/abs/2312.12456**
-13. 
+|序号|题目|期刊|作者|机构|网址|简介|
+|-|-|-|-|-|-|-|
+| 1 | **Attention Is All You Need** | arXiv |  |  | <a href="https://arxiv.org/abs/1706.03762">Link</a> | **Transformer** |
+| 2 |  | arXiv |  |  | <a href="https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf">Link</a> | GPT-1 |
+| 3 | **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** | arXiv |  |  | <a href="https://arxiv.org/abs/1810.04805">Link</a> | **BERT** |
+| 4 |  | arXiv |  |  | <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">Link</a> | GPT-2 |
+| 5 |  | arXiv |  |  | <a href="https://arxiv.org/abs/2005.14165">Link</a> | GPT-3 |
+| 6 | White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is? | arXiv |  |  | <a href="https://arxiv.org/abs/2311.13110">Link</a> | 白盒Transformer |
+| 7 | **Distilling the Knowledge in a Neural Network** | arXiv |  |  | <a href="https://arxiv.org/abs/1503.02531">Link</a> | **知识蒸馏的开山之作** |
+| 8 | **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning** | arXiv |  |  | <a href="https://arxiv.org/abs/2303.10475">Link</a> | **Instruction Tuning综述** |
+| 9 | A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models | arXiv |  |  | <a href="https://arxiv.org/abs/2310.10505">Link</a> | ReMax |
+| 10 | Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models | arXiv |  |  | <a href="https://arxiv.org/abs/2312.06585">Link</a> | 大模型自我构建数据进行训练 |
+| 11 | PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU | arXiv |  | 上交 | <a href="https://arxiv.org/abs/2311.11797">Link</a> | 使用RTX 4090跑175B大模型 |
+| 12 |  | arXiv |  |  | <a href="https://arxiv.org/abs/2305.09645">Link</a> | 面向结构化数据的大模型推理框架 |
+| 13 |  |  |  |  | <a href="">Link</a> |  |
 
 ### 领域大模型构建
 1. **【金融风险大模型FinPT——港大 & 达摩院】https://arxiv.org/abs/2308.00065**
