@@ -148,22 +148,24 @@ A resource-set about LLM for CASRIMAT.
 | 15 |  |  |  |  |
 
 ### 微调大模型
-1. **【金融风险大模型FinPT——港大 & 达摩院】https://github.com/YuweiYin/FinPT**
-2. **【FinBERT——Contemporary Accounting Research（CAR，ABS 4）】https://github.com/yya518/FinBERT**
-3. **【金融大模型“轩辕”——度小满】https://github.com/Duxiaoman-DI/XuanYuan**
-4. **【医疗大模型】https://github.com/shibing624/MedicalGPT**
-5. 【法律大模型——北大Chatlaw】https://github.com/PKU-YuanGroup/ChatLaw
-6. **【金融大模型“聚宝盆Cornucopia”——中科院成都计算机应用研究所】https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese**
-7.  【医疗大模型“华驼”】https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
-8. **【金融大模型FinGPT——哥大刘小洋】https://github.com/AI4Finance-Foundation/FinGPT**
-9. **【金融大模型FinVisGPT（多模态）——哈工深】https://github.com/wwwadx/FinVis-GPT**
-10. **【金融大模型FinTuo——华中师范大学陈启源】https://github.com/qiyuan-chen/FinTuo-Chinese-Finance-LLM**
-11. 【骆驼项目：大模型集合——商汤科技+华中师范大学】https://github.com/LC1332/Luotuo-Chinese-LLM
-12. **【金融大模型PIXIU——武汉大学、中山大学等】https://github.com/chancefocus/PIXIU**
-13. **【金融资讯大模型DISC-FinLLM——复旦大学】https://github.com/FudanDISC/DISC-FinLLM**
-14. **【阿里组织的2023 ChatGLM金融大模型挑战赛】https://github.com/MetaGLM/FinGLM?tab=readme-ov-file**
-15. **【金融大模型CFGPT——同济】https://github.com/TongjiFinLab/CFGPT**
-16. 
+|序号|名称|机构|Github|Hugging Face|
+|-|-|-|-|-|
+| 1 | **金融风险大模型FinPT** | 港大 & 达摩院 | https://github.com/YuweiYin/FinPT |  |
+| 2 | **FinBERT** |  | https://github.com/yya518/FinBERT |  |
+| 3 | **金融大模型XuanYuan** | 度小满 | https://github.com/Duxiaoman-DI/XuanYuan |  |
+| 4 | **医疗大模型MedicalGPT** | 徐明老师 | https://github.com/shibing624/MedicalGPT |  |
+| 5 | 法律大模型ChatLaw | 北大 | https://github.com/PKU-YuanGroup/ChatLaw |  |
+| 6 | **金融大模型“聚宝盆Cornucopia”** | 中科院成都计算机应用研究所 | https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese |  |
+| 7 | 医疗大模型“华驼” |  | https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese |  |
+| 8 | **金融大模型FinGPT** | 哥大刘小洋 | https://github.com/AI4Finance-Foundation/FinGPT |  |
+| 9 | **金融大模型FinVisGPT（多模态）** | 哈工深 | https://github.com/wwwadx/FinVis-GPT |  |
+| 10 | **金融大模型FinTuo** | 华中师范大学陈启源 | https://github.com/qiyuan-chen/FinTuo-Chinese-Finance-LLM |  |
+| 11 | 骆驼项目：大模型集合 | 商汤科技+华中师范大学 | https://github.com/LC1332/Luotuo-Chinese-LLM |  |
+| 12 | **金融大模型PIXIU** | 武大、中山等 | https://github.com/chancefocus/PIXIU |  |
+| 13 | **金融资讯大模型DISC-FinLLM** | 复旦 | https://github.com/FudanDISC/DISC-FinLLM |  |
+| 14 | **2023 ChatGLM金融大模型挑战赛** | 阿里 | https://github.com/MetaGLM/FinGLM?tab=readme-ov-file |  |
+| 15 | **金融大模型CFGPT** | 同济 | https://github.com/TongjiFinLab/CFGPT |  |
+| 16 |  |  |  |  |
 
 ### 练手小大模型
 1. **【baby-llama2-chinese】https://github.com/DLLXW/baby-llama2-chinese**
