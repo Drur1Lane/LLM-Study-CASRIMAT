@@ -6,12 +6,14 @@ A resource-set about LLM for CASRIMAT.
 |序号|题目|期刊|作者|机构|网址|
 |-|-|-|-|-|-|
 | 1 | FinBERT: A Large Language Model for Extracting Information from Financial Text | Contemporary Accounting Research（ABS 4） |  |  | https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832 |
-
-1. **【Contemporary Accounting Research（ABS 4）——FinBERT: A Large Language Model for Extracting Information from Financial Text（金融领域BERT模型）】https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832**
-2. 【Financial Research Letters（ABS 2）——GPT has become financially literate: Insights from financial literacy tests of GPT and a preliminary test of how people use it as a source of advice（评估ChatGPT的金融知识水平）】https://www.sciencedirect.com/science/article/pii/S1544612323007055
-3. 【Financial Research Letters（ABS 2）——ChatGPT for (Finance) research: The Bananarama Conjecture】https://www.sciencedirect.com/science/article/pii/S1544612323000363
-4. **【Journal of Economic Literature（ABS 4）——Generative AI for Economic Research: Use Cases and Implications for Economists】https://www.dropbox.com/scl/fi/kk6duothtufsa8dhs3yat/LLMs_final.pdf?rlkey=bfadp97ej13ruceggecfeeiyi&dl=0**
-5. 
+| 2 | GPT has become financially literate: Insights from financial literacy tests of GPT and a preliminary test of how people use it as a source of advice | Financial Research Letters（ABS 2） |  |  | https://www.sciencedirect.com/science/article/pii/S1544612323007055 |
+| 3 | ChatGPT for (Finance) research: The Bananarama Conjecture | Financial Research Letters（ABS 2） |  |  | https://www.sciencedirect.com/science/article/pii/S1544612323000363 |
+| 4 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature（ABS 4） |  |  | https://www.dropbox.com/scl/fi/kk6duothtufsa8dhs3yat/LLMs_final.pdf?rlkey=bfadp97ej13ruceggecfeeiyi&dl=0 |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ### 综述类
 1. **【LLM综述——人大：Large Language Models: A Survey】https://github.com/RUCAIBox/LLMSurvey**
