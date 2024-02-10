@@ -89,12 +89,13 @@ A resource-set about LLM for CASRIMAT.
 | 14 | **Learning From Mistakes Makes LLM Better Reasoner** | avXiv |  |  | <a href="https://arxiv.org/abs/2310.20689">Link</a> | 让大模型在错题中学习 |
 | 15 | Specializing Smaller Language Models towards Multi-Step Reasoning | avXiv |  |  | <a href="http://arxiv.org/abs/2301.12726">Link</a> |  |
 | 16 |  | avXiv |  |  | <a href="">Link</a> |  |
-| 17 |  | avXiv |  |  | <a href="">Link</a> |  |
 
 ### 大模型与表格数据
-1. 【微软：Table-GPT: Table-tuned GPT for Diverse Table Tasks】https://arxiv.org/abs/2310.09263
-2. 【国立成功大学：Trompt: Towards a Better Deep Neural Network for Tabular Data】http://arxiv.org/abs/2305.18446
-3. 
+|序号|题目|期刊|作者|机构|网址|简介|
+|-|-|-|-|-|-|-|
+| 1 | Table-GPT: Table-tuned GPT for Diverse Table Tasks |  |  | 微软 | <a href="https://arxiv.org/abs/2310.09263">Link</a> |  |
+| 2 | Trompt: Towards a Better Deep Neural Network for Tabular Data |  |  | 国立成功大学 | <a href="http://arxiv.org/abs/2305.18446">Link</a> |  |
+| 3 |  |  |  |  |  |  |
 
 ### 大模型与图
 1. 【大模型与知识图谱：Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph】https://arxiv.org/abs/2307.07697
