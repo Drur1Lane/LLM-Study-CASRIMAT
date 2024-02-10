@@ -74,39 +74,22 @@ A resource-set about LLM for CASRIMAT.
 |序号|题目|期刊|作者|机构|网址|简介|
 |-|-|-|-|-|-|-|
 | 1 | **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** | avXiv |  |  | <a href="https://arxiv.org/abs/2201.11903">Link</a> | CoT开山之作 |
-|  |  |  |  | <a href="">Link</a> |  |
-|  |  |  |  | <a href="">Link</a> |  |
-|  |  |  |  | <a href="">Link</a> |  |
-|  |  |  |  | <a href="">Link</a> |  |
-|  |  |  |  | <a href="">Link</a> |  |
-|  |  |  |  | <a href="">Link</a> |  |
-|  |  |  |  | <a href="">Link</a> |  |
-|  |  |  |  | <a href="">Link</a> |  |
-|  |  |  |  | <a href="">Link</a> |  |
-|  |  |  |  | <a href="">Link</a> |  |
-|  |  |  |  | <a href="">Link</a> |  |
-|  |  |  |  | <a href="">Link</a> |  |
-|  |  |  |  | <a href="">Link</a> |  |
-|  |  |  |  | <a href="">Link</a> |  |
-|  |  |  |  | <a href="">Link</a> |  |
-|  |  |  |  | <a href="">Link</a> |  |
-1. **【CoT开山之作：Chain-of-Thought Prompting Elicits Reasoning in Large Language Models】https://arxiv.org/abs/2201.11903**
-2. **【Zero-shot-CoT：Large Language Models are Zero-Shot Reasoners】http://arxiv.org/abs/2205.11916**
-3. **【CoT的早期发展（多条回答取最多的答案）：Self-Consistency Improves Chain of Thought Reasoning in Language Models】https://arxiv.org/abs/2203.11171**
-4. **【CoT的又一发展（复杂任务分解）：Least-to-Most Prompting Enables Complex Reasoning in Large Language Models】https://arxiv.org/abs/2205.10625**
-5. **【利用大模型的CoT能力帮助小模型进行推理：Large Language Models Are Reasoning Teachers】http://arxiv.org/abs/2212.10071**
-6. **【利用大模型的CoT能力帮助小模型进行推理2号：Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step】https://arxiv.org/abs/2306.14050**
-7. 
-8. **【自我改进：Large Language Models Can Self-Improve】https://arxiv.org/abs/2210.11610**
-9. 【自我反思：Self-Refine: Iterative Refinement with Self-Feedback】https://arxiv.org/abs/2303.17651
-10. 【自我反思2：Reflexion: Language Agents with Verbal Reinforcement Learning】https://arxiv.org/abs/2303.11366
-11. **【服了，怎么跟我这个RAL这么类似：Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes】https://arxiv.org/abs/2305.02301**
-12. **【自我解释：Self-explaining AI as an alternative to interpretable AI】https://arxiv.org/abs/2002.05149**
-13. **【金融推理问题数据集构建：Beyond Classification: Financial Reasoning in State-of-the-Art Language Models】https://arxiv.org/abs/2305.01505**
-14. 【Specializing Smaller Language Models towards Multi-Step Reasoning】http://arxiv.org/abs/2301.12726
-15. 【姚期智首篇LLM：Cumulative Reasoning with Large Language Models】http://arxiv.org/abs/2308.04371
-16. **【让大模型在错题中学习：Learning From Mistakes Makes LLM Better Reasoner】https://arxiv.org/abs/2310.20689**
-17. 
+| 2 | **Large Language Models are Zero-Shot Reasoners** | avXiv |  |  | <a href="http://arxiv.org/abs/2205.11916">Link</a> | Zero-shot-CoT |
+| 3 | **Self-Consistency Improves Chain of Thought Reasoning in Language Models** | avXiv |  |  | <a href="https://arxiv.org/abs/2203.11171">Link</a> | CoT的早期发展：自洽性 |
+| 4 | **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models** | avXiv |  |  | <a href="https://arxiv.org/abs/2205.10625">Link</a> | CoT的又一发展（复杂任务分解） |
+| 5 | **Large Language Models Are Reasoning Teachers** | avXiv |  |  | <a href="http://arxiv.org/abs/2212.10071">Link</a> | 利用大模型的CoT能力帮助小模型进行推理 |
+| 6 | **Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step** | avXiv |  |  | <a href="https://arxiv.org/abs/2306.14050">Link</a> | 利用大模型的CoT能力帮助小模型进行推理2号 |
+| 7 | **Large Language Models Can Self-Improve** | avXiv |  |  | <a href="https://arxiv.org/abs/2210.11610">Link</a> | 自我改进 |
+| 8 | Self-Refine: Iterative Refinement with Self-Feedback | avXiv |  |  | <a href="https://arxiv.org/abs/2303.17651">Link</a> | 自我反思 |
+| 9 | Reflexion: Language Agents with Verbal Reinforcement Learning | avXiv |  |  | <a href="https://arxiv.org/abs/2303.11366">Link</a> | 自我反思2 |
+| 10 | **Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes** | avXiv |  |  | <a href="https://arxiv.org/abs/2305.02301">Link</a> | 服了，怎么跟我这个RAL这么类似 |
+| 11 | **Self-explaining AI as an alternative to interpretable AI** | avXiv |  |  | <a href="https://arxiv.org/abs/2002.05149">Link</a> | 自我解释 |
+| 12 | **Beyond Classification: Financial Reasoning in State-of-the-Art Language Models** | avXiv |  |  | <a href="https://arxiv.org/abs/2305.01505">Link</a> | 金融推理问题数据集构建 |
+| 13 | Cumulative Reasoning with Large Language Models | avXiv |  |  | <a href="http://arxiv.org/abs/2308.04371">Link</a> | 姚期智首篇LLM |
+| 14 | **Learning From Mistakes Makes LLM Better Reasoner** | avXiv |  |  | <a href="https://arxiv.org/abs/2310.20689">Link</a> | 让大模型在错题中学习 |
+| 15 | Specializing Smaller Language Models towards Multi-Step Reasoning | avXiv |  |  | <a href="http://arxiv.org/abs/2301.12726">Link</a> |  |
+| 16 |  | avXiv |  |  | <a href="">Link</a> |  |
+| 17 |  | avXiv |  |  | <a href="">Link</a> |  |
 
 ### 大模型与表格数据
 1. 【微软：Table-GPT: Table-tuned GPT for Diverse Table Tasks】https://arxiv.org/abs/2310.09263
