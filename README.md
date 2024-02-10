@@ -168,15 +168,15 @@ A resource-set about LLM for CASRIMAT.
 | 16 |  |  |  |  |
 
 ### 练手小大模型
-1. **【baby-llama2-chinese】https://github.com/DLLXW/baby-llama2-chinese**
-2. **【nanoGPT】https://github.com/karpathy/nanoGPT**
-   【nanoGPT配套代码】https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing#scrollTo=wJpXpmjEYC_T
-   【nanoGPT配套代码配套视频】https://www.youtube.com/watch?v=kCc8FmEb1nY
-3. 【Standford——alpaca】https://github.com/tatsu-lab/stanford_alpaca
-4. 【alpaca-lora】https://github.com/tloen/alpaca-lora
-5. 【MiniGPT-4】https://github.com/Vision-CAIR/MiniGPT-4
-6. 【TinyLLaMA】https://github.com/jzhang38/TinyLlama
-7. 
+|序号|名称|Github|备注|
+|-|-|-|-|
+| 1 | baby-llama2-chinese | https://github.com/DLLXW/baby-llama2-chinese |  |
+| 2 | nanoGPT | https://github.com/karpathy/nanoGPT | <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">配套视频</a> |
+| 3 | Standford_alpaca | https://github.com/tatsu-lab/stanford_alpaca |  |
+| 4 | alpaca-lora | https://github.com/tloen/alpaca-lora |  |
+| 5 | MiniGPT-4 | https://github.com/Vision-CAIR/MiniGPT-4 |  |
+| 6 | TinyLLaMA | https://github.com/jzhang38/TinyLlama |  |
+| 7 |  |  |  |
 
 ### 数据
 1. 【中文预料：GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说、古书资源】https://github.com/PlexPt/chatgpt-corpus
