@@ -233,9 +233,9 @@ A resource-set about LLM for CASRIMAT.
 | 2 |  | ChatGLM2-6B微调 | <a href="https://www.zhihu.com/question/596950521">Link</a> |  |
 | 3 |  | ChatGLM2-6B微调 | <a href="https://zhuanlan.zhihu.com/p/641047705">Link</a> |  |
 | 4 |  | 微调经验总结（无代码） | <a href="https://zhuanlan.zhihu.com/p/635710004">Link</a> |  |
-| 5 |  | 大模型LLM领域，有哪些可以作为学术研究方向？ | <a href="https://www.zhihu.com/question/595298808">Link</a> |  |
+| 5 |  | **大模型LLM领域，有哪些可以作为学术研究方向？** | <a href="https://www.zhihu.com/question/595298808">Link</a> |  |
 | 6 |  | 大模型的微调一般训练多少epoch不会过拟合？ | <a href="https://www.zhihu.com/question/607397171">Link</a> |  |
-| 7 |  | 导师让我搞gpt方向，我该怎么去学？ | <a href="https://www.zhihu.com/question/604134581">Link</a> |  |
+| 7 |  | **导师让我搞gpt方向，我该怎么去学？** | <a href="https://www.zhihu.com/question/604134581">Link</a> |  |
 | 8 |  | 为什么现在的LLM都是Decoder only的架构？ | <a href="https://www.zhihu.com/question/588325646">Link</a> |  |
 | 9 | 无数据不智能 | 大模型训练之微调篇 | <a href="https://zhuanlan.zhihu.com/p/625896377">Link</a> |  |
 | 10 | 无数据不智能 | 大模型训练之模型篇 | <a href="https://zhuanlan.zhihu.com/p/625894818">Link</a> |  |
@@ -244,7 +244,7 @@ A resource-set about LLM for CASRIMAT.
 | 13 | 人大AI Box | 训练你的大模型！低资源下的模型轻量化 | <a href="https://zhuanlan.zhihu.com/p/626701575">Link</a> |  |
 | 14 | 绝密伏击（奇虎） | 大模型微调总结 | <a href="https://zhuanlan.zhihu.com/p/627642632">Link</a> |  |
 | 15 | 绝密伏击（奇虎） | 大模型思维链（Chain-of-Thought）技术原理 | <a href="https://zhuanlan.zhihu.com/p/629087587">Link</a> |  |
-| 16 | 字节何枝 | 【LLM】从零开始训练大模型 | <a href="https://zhuanlan.zhihu.com/p/636270877">Link</a> |  |
+| 16 | 字节何枝 | **【LLM】从零开始训练大模型** | <a href="https://zhuanlan.zhihu.com/p/636270877">Link</a> |  |
 | 17 | 刘聪NLP | 大模型LLM-微调经验分享&总结 | <a href="https://zhuanlan.zhihu.com/p/620885226">Link</a> |  |
 | 18 | NLP煎饼摊 | 大模型微调项目 / 数据集调研汇总 | <a href="https://zhuanlan.zhihu.com/p/624079704">Link</a> |  |
 | 19 |  | 通俗解读大模型主流微调方法：从Prefix Tuning、P-Tuning V1/V2到LoRA、QLoRA | <a href="https://zhuanlan.zhihu.com/p/660721012">Link</a> |  |
@@ -257,70 +257,77 @@ A resource-set about LLM for CASRIMAT.
 | 26 |  | 想学习大语言模型(LLM)，应该从哪个开源模型开始？ | <a href="https://www.zhihu.com/question/608820310">Link</a> |  |
 | 27 | Timothyxxx | 思维链（Chain-of-thoughts）作为提示 | <a href="https://zhuanlan.zhihu.com/p/493533589">Link</a> |  |
 | 28 |  | 手把手教会你如何通过ChatGPT API实现上下文对话 | <a href="https://zhuanlan.zhihu.com/p/618911413?eqid=9aa5d1410000e72a000000046475c1b0">Link</a> |  |
-| 29 |  | 机器学习中的“可解释性”该作何解释？ | <a href="https://www.zhihu.com/question/505153525/answer/3257841592">Link</a> |  |
+| 29 |  | **机器学习中的“可解释性”该作何解释？** | <a href="https://www.zhihu.com/question/505153525/answer/3257841592">Link</a> |  |
 | 30 | 范浩强 | 完蛋！我被大模型包围了 | <a href="https://zhuanlan.zhihu.com/p/665393240">Link</a> |  |
 | 31 |  | Greedy Decoding、Beam Search、Top-k、Top-n | <a href="https://zhuanlan.zhihu.com/p/644184931">Link</a> |  |
-| 32 |  | Nlp句子分类，句子长度差异特别大，200-5000，200-上万，有什么办法处理或者什么模型可用吗？ | <a href="https://www.zhihu.com/question/421735170">Link</a> |  |
+| 32 |  | **Nlp句子分类，句子长度差异特别大，200-5000，200-上万，有什么办法处理或者什么模型可用吗？** | <a href="https://www.zhihu.com/question/421735170">Link</a> |  |
 | 33 |  |  | <a href="">Link</a> |  |
 
 
 ## 微信
-1. 【专知——大模型微信推文】https://mp.weixin.qq.com/s/wWgDF9kSDXutelg40Xg-_g
-2. 【扬奇智能社区——2023.9值得关注的大模型相关研究】https://mp.weixin.qq.com/s/MA36pVL0bSCgsF6EDH8jVw
-3. 【老刘说NLP——再谈大模型行业问答落地中的文档智能技术：现有多模态预训练模型及相关数据集汇总】https://mp.weixin.qq.com/s/GnGwllYjecinZxh3yybqtw
-4. 【老刘说NLP——再看业界大模型行业问答的困难及若干业界实践：兼看智能客服常用路线及多场景prompt】https://mp.weixin.qq.com/s/dQ35J5eg5Cq7rY7zaa6wrw
-5. 【何枝——从零详细地梳理一个完整的 LLM 训练流程】https://mp.weixin.qq.com/s/Et2NAwAzg2iHrpjDgsx-Hg
-6. 【人工智能前沿讲习——LangChain】https://mp.weixin.qq.com/s/r5w69f_2jYAkBqCRG-RVpA
-7. 【人工智能前沿讲习——思维链】https://mp.weixin.qq.com/s/BMv_FVJ3j6q71LqA4fUYUA
-8. 【AINLPer——Prompt方式总结】https://mp.weixin.qq.com/s/lTRp02t-4-2WFTu9RpuzLw
-9. 【AINLPer——Prompt方式总结】https://mp.weixin.qq.com/s/RMtb0NopdzjrEsEZN-b1bA
-10. **【运筹OR帷幄——机器学习模型可解释性综述】https://mp.weixin.qq.com/s/Jmm84eYrtlfFLuQaWcAZCA**
-11. 【老刘说NLP——大模型微调数据质量评价】https://mp.weixin.qq.com/s/ZEzc1VaXFaR7M0zXNRWfwQ
-12. 【PaerWeekly——微调经验】https://mp.weixin.qq.com/s/Aa8jYs4xgcI4clwie-wO1g
-13. 【机器之心——李航：LLM思考】https://mp.weixin.qq.com/s/0I-y1dGM08n8KF1Kwv2diw
-14. 【银融时代——ChatGPT+金融：国外八大应用案例】https://mp.weixin.qq.com/s/v2HLfBCreHqPYJW47VNZaQ
-15. 【周鸿祎：“垂直化”是大模型未来发展趋势】https://mp.weixin.qq.com/s/Ktcu7AS5bKAmRUG5P29Y7g
-16. 【有关垂直和通用大模型最近被问比较多的几个问题】https://mp.weixin.qq.com/s/xhuaPWIpzzNWGIm8yshA8g
-17. 【老刘说NLP：PromptSource等代表性NLP开源Prompt数据集】https://mp.weixin.qq.com/s/eWEjVhXfySppOQk_y6mduw
-18. 【老刘说NLP：垂域微调大模型非最全汇总：12大领域、57个领域微调模型概述及对垂直行业问答的一些讨论】https://mp.weixin.qq.com/s/ur47_5Zx9IQUUduciEO3jQ
-19. 【老刘说NLP：再看大模型ICL推理范式中的prompt策略：从动态Few-shot到KNN选择再到Shuffling Ensemble】https://mp.weixin.qq.com/s/qXfeLfByZ8IVLgqo754U-Q
-20. 【2024 大模型面试指南：兄弟们，冲啊】https://mp.weixin.qq.com/s/C5TFSxIis0rtrIgy-MREkQ
-21. **【我就知道，国内大模型都在用ChatGPT的数据来做自己的模型：字节调用OpenAI】https://mp.weixin.qq.com/s/Se3-DNOtOGTZnWy3BTGX8g**
-22. **【我就知道2号：我说什么来着：Gemini调用文心一言】https://mp.weixin.qq.com/s/xj2h7kVAm9VV7GPQF4lTDQ**
-23. **【State of GPT：大神Andrej Karpthy揭秘OpenAI大模型原理和训练过程】https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg**
-24. 【调用API：像用OpenAI一样使用Mixtral 8x7B】https://mp.weixin.qq.com/s/pffu9zAk-i2Yw2VHj2iiZg
-25. **【RAG简介】https://mp.weixin.qq.com/s/j141XTfCmpyc7JKwNQuNJA**
-26. 【名不见经传：是不是可以Prompting Engineering in Finance: A Survey】https://mp.weixin.qq.com/s/WXqZsl0a-WUCkJEvkZ8S7w
-27. 【哈工大SCIR实验室：赛尔笔记 | 面向表格数据的大模型推理综述】https://mp.weixin.qq.com/s/sXeyH2Ob8-CbGwHHBYOYfQ
-28. 
+|序号|博主|名称|链接|备注|
+|-|-|-|-|-|
+| 1 | 老刘说NLP | 再谈大模型行业问答落地中的文档智能技术：现有多模态预训练模型及相关数据集汇总 | <a href="https://mp.weixin.qq.com/s/GnGwllYjecinZxh3yybqtw">Link</a> |  |
+| 2 | 老刘说NLP | 再看业界大模型行业问答的困难及若干业界实践：兼看智能客服常用路线及多场景prompt | <a href="https://mp.weixin.qq.com/s/dQ35J5eg5Cq7rY7zaa6wrw">Link</a> |  |
+| 3 | 老刘说NLP | 大模型微调数据质量评价 | <a href="https://mp.weixin.qq.com/s/ZEzc1VaXFaR7M0zXNRWfwQ">Link</a> |  |
+| 4 | 老刘说NLP | PromptSource等代表性NLP开源Prompt数据集 | <a href="https://mp.weixin.qq.com/s/eWEjVhXfySppOQk_y6mduw">Link</a> |  |
+| 5 | 老刘说NLP | 垂域微调大模型非最全汇总：12大领域、57个领域微调模型概述及对垂直行业问答的一些讨论 | <a href="https://mp.weixin.qq.com/s/ur47_5Zx9IQUUduciEO3jQ">Link</a> |  |
+| 6 | 老刘说NLP | 再看大模型ICL推理范式中的prompt策略：从动态Few-shot到KNN选择再到Shuffling Ensemble | <a href="https://mp.weixin.qq.com/s/qXfeLfByZ8IVLgqo754U-Q">Link</a> |  |
+| 7 | 哈工大SCIR实验室 | 赛尔笔记 | 面向表格数据的大模型推理综述 | <a href="https://mp.weixin.qq.com/s/sXeyH2Ob8-CbGwHHBYOYfQ">Link</a> |  |
+| 8 | 机器之心 |  | <a href="https://mp.weixin.qq.com/s/0I-y1dGM08n8KF1Kwv2diw">Link</a> | 李航：LLM思考 |
+| 9 | 何枝 | 从零详细地梳理一个完整的 LLM 训练流程 | <a href="https://mp.weixin.qq.com/s/Et2NAwAzg2iHrpjDgsx-Hg">Link</a> |  |
+| 10 | 人工智能前沿讲习 | LangChain | <a href="https://mp.weixin.qq.com/s/r5w69f_2jYAkBqCRG-RVpA">Link</a> |  |
+| 11 | 人工智能前沿讲习 | 思维链 | <a href="https://mp.weixin.qq.com/s/BMv_FVJ3j6q71LqA4fUYUA">Link</a> |  |
+| 12 | AINLPer | Prompt工程总结 | <a href="https://mp.weixin.qq.com/s/lTRp02t-4-2WFTu9RpuzLw">Link</a> |  |
+| 13 | AINLPer | Prompt链式总结 | <a href="https://mp.weixin.qq.com/s/RMtb0NopdzjrEsEZN-b1bA">Link</a> |  |
+| 14 | 运筹OR帷幄 | **机器学习模型可解释性综述** | <a href="https://mp.weixin.qq.com/s/Jmm84eYrtlfFLuQaWcAZCA">Link</a> |  |
+| 15 |  | RAG简介 | <a href="https://mp.weixin.qq.com/s/j141XTfCmpyc7JKwNQuNJA">Link</a> |  |
+| 16 |  |  | <a href="https://mp.weixin.qq.com/s/WXqZsl0a-WUCkJEvkZ8S7w">Link</a> | 是不是可以Prompting Engineering in Finance: A Survey？ |
+| 17 |  | 有关垂直和通用大模型最近被问比较多的几个问题 | <a href="https://mp.weixin.qq.com/s/xhuaPWIpzzNWGIm8yshA8g">Link</a> |  |
+| 18 | PaerWeekly |  | <a href="https://mp.weixin.qq.com/s/Aa8jYs4xgcI4clwie-wO1g">Link</a> | 微调经验 |
+| 19 |  | 2024 大模型面试指南：兄弟们，冲啊 | <a href="https://mp.weixin.qq.com/s/C5TFSxIis0rtrIgy-MREkQ">Link</a> |  |
+| 20 | 银融时代 |  | <a href="https://mp.weixin.qq.com/s/v2HLfBCreHqPYJW47VNZaQ">Link</a> | ChatGPT+金融：国外八大应用案例 |
+| 21 |  | 周鸿祎：“垂直化”是大模型未来发展趋势 | <a href="https://mp.weixin.qq.com/s/Ktcu7AS5bKAmRUG5P29Y7g">Link</a> |  |
+| 22 | 扬奇智能社区 | 2023.9值得关注的大模型相关研究 | <a href="https://mp.weixin.qq.com/s/MA36pVL0bSCgsF6EDH8jVw">Link</a> |  |
+| 23 |  | 调用API：像用OpenAI一样使用Mixtral 8x7B | <a href="https://mp.weixin.qq.com/s/pffu9zAk-i2Yw2VHj2iiZg">Link</a> |  |
+| 24 |  |  | <a href="https://mp.weixin.qq.com/s/Se3-DNOtOGTZnWy3BTGX8g">Link</a> | **字节调用OpenAI** |
+| 25 |  |  | <a href="https://mp.weixin.qq.com/s/xj2h7kVAm9VV7GPQF4lTDQ">Link</a> | **Gemini调用文心一言** |
+| 26 |  | State of GPT | <a href="https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg">Link</a> | 大神Andrej Karpthy揭秘OpenAI大模型原理和训练过程 |
+| 27 |  |  | <a href="">Link</a> |  |
 
 
 ## 个人博客/团队账号
-1. 徐明老师：https://blog.csdn.net/mingzai624?type=blog
-2. 老潘：https://oldpan.me/
-3. 苏剑林老师：https://spaces.ac.cn/
-4. 庞宇轩：https://pyxblog.cn/
-5. 人大AI BOX：https://www.zhihu.com/people/dou-hong-jian-44
-6. 
+|序号|博主|链接|备注|
+|-|-|-|-|
+| 1 | 徐明老师 | <a href="https://blog.csdn.net/mingzai624?type=blog">Link</a> |  |
+| 2 | 老潘 | <a href="https://oldpan.me/">Link</a> |  |
+| 3 | 苏剑林老师 | <a href="https://spaces.ac.cn/">Link</a> |  |
+| 4 | 庞宇轩 | <a href="https://pyxblog.cn/">Link</a> |  |
+| 5 | 人大AI BOX | <a href="https://www.zhihu.com/people/dou-hong-jian-44">Link</a> |  |
+| 6 |  |  |  |
 
 
 ## 电子书
-1. **【复旦《大规模语言模型：从理论到实践》】https://intro-llm.github.io/**
-2. 【（代码部分）刘聪NLP《ChatGPT原理与实战：大型语言模型的算法、技术和私有化》】https://github.com/liucongg/ChatGPTBook
-3. 
+## 其他
+|序号|来源|名称|链接|备注|
+|-|-|-|-|-|
+| 1 | 复旦 | 大规模语言模型：从理论到实践 | <a href="https://intro-llm.github.io/">Link</a> |  |
+| 2 | 刘聪NLP | ChatGPT原理与实战：大型语言模型的算法、技术和私有化 | <a href="https://github.com/liucongg/ChatGPTBook">Link</a> |  |
+| 3 |  |  | <a href="">Link</a> |  |
 
 
 ## 其他
-1. 【Paper Digest（一个文献集中网站）上检索的ChatGPT文章集合】https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/
-2. 【大语言模型对于世界的理解：Language Models Represent Space and Time】https://arxiv.org/abs/2310.02207
-    【中文解释】https://mp.weixin.qq.com/s/WaPqsPI4sCdEZoeID0cdew
-3. **【徐明老师——NLP大模型微调答疑】https://blog.csdn.net/mingzai624/article/details/130735366?spm=1001.2014.3001.5502**
-4. **【Microsoft——State of GPT】https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2**
-5. **【全面介绍提示工程的网站】https://www.promptingguide.ai/**
-6. 【Medium：12种提示方式的介绍】https://cobusgreyling.medium.com/12-prompt-engineering-techniques-644481c857aa【中文版】https://mp.weixin.qq.com/s/1qVhcCRmlYvGZcOe3W3r1Q
-7. 【一文看懂学习率Learning Rate，从入门到CLR】https://blog.csdn.net/u012526436/article/details/90486021
-8. **【Oldpan个人博客：关于训练神经网路的诸多技巧Tricks(完全总结版)】https://oldpan.me/archives/how-to-use-tricks-to-train-network**
-9. 
+|序号|来源|名称|链接|备注|
+|-|-|-|-|-|
+| 1 | Paper Digest（一个文献集中网站） |  | <a href="https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/">Link</a> | ChatGPT文章集合 |
+| 2 | arXiv | Language Models Represent Space and Time | <a href="https://arxiv.org/abs/2310.02207">Link</a> | 大语言模型对于世界的理解（<a href="https://mp.weixin.qq.com/s/WaPqsPI4sCdEZoeID0cdew">中文解释</a>） |
+| 3 | 徐明老师 | **NLP大模型微调答疑** | <a href="https://blog.csdn.net/mingzai624/article/details/130735366?spm=1001.2014.3001.5502">Link</a> |  |
+| 4 | Microsoft | State of GPT | <a href="https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2">Link</a> |  |
+| 5 |  | **promptGuide** | <a href="https://www.promptingguide.ai/">Link</a> | **全面介绍提示工程的网站** |
+| 6 | Medium |  | <a href="https://cobusgreyling.medium.com/12-prompt-engineering-techniques-644481c857aa">Link</a> | 12种提示方式的介绍（<a href="https://mp.weixin.qq.com/s/1qVhcCRmlYvGZcOe3W3r1Q">中文版</a>） |
+| 7 |  | 一文看懂学习率Learning Rate，从入门到CLR | <a href="https://blog.csdn.net/u012526436/article/details/90486021">Link</a> |  |
+| 8 | Oldpan个人博客 | **关于训练神经网路的诸多技巧Tricks(完全总结版)** | <a href="https://oldpan.me/archives/how-to-use-tricks-to-train-network">Link</a> |  |
+| 9 |  |  | <a href="">Link</a> |  |
 
 
 ## Something Interesting Beside LLM
