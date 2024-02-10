@@ -11,34 +11,21 @@ A resource-set about LLM for CASRIMAT.
 | 4 | Generative AI for Economic Research: Use Cases and Implications for Economists | **Journal of Economic Literature（ABS 4）** |  |  | <a href="https://www.dropbox.com/scl/fi/kk6duothtufsa8dhs3yat/LLMs_final.pdf?rlkey=bfadp97ej13ruceggecfeeiyi&dl=0">Link</a> |  |
 
 ### 综述类
-|序号|题目|期刊|作者|机构|网址|
-|-|-|-|-|-|-|
-| 1 | Large Language Models: A Survey |  |  | 人大 | <a href="https://github.com/RUCAIBox/LLMSurvey">Link</a> |
-| 2 | Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond |  |  | Amazon & 德州农工大学 & 莱斯大学 | <a href="https://github.com/Mooler0410/LLMsPracticalGuide">Link</a> |
-| 3 | A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future |  |  | 哈工大 | <a href="https://arxiv.org/abs/2309.15402">Link</a> |
-| 4 | A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions |  |  |  | <a href="https://arxiv.org/abs/2311.05232">Link</a> |
-| 5 | Evaluating Large Language Models: A Comprehensive Survey |  |  | 天大 | <a href="https://arxiv.org/abs/2310.19736">Link</a> |
-| 6 | Challenges and Applications of Large Language Models |  |  |  | <a href="https://arxiv.org/abs/2307.10169">Link</a> |
-| 7 | Explainability for Large Language Models: A Survey |  |  | 新泽西理工学院、约翰霍普金斯大学等 | <a href="https://arxiv.org/abs/2309.01029">Link</a> |
-| 8 | Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning |  |  |  | <a href="https://arxiv.org/abs/2303.10475">Link</a> |
-| 9 | Large Language Models on Graphs: A Comprehensive Survey |  |  | 伊利诺伊大学厄巴纳香槟分校 | <a href="https://arxiv.org/abs/2312.02783">Link</a> |
-| 10 | Data Management For Large Language Models: A Survey |  |  | 北大 | <a href="https://arxiv.org/abs/2312.01700">Link</a> |
-| 11 | Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents |  |  |  | <a href="https://arxiv.org/abs/2311.11797">Link</a> |
-| 12 | Efficient Large Language Models: A Survey |  |  |  | <a href="https://arxiv.org/abs/2312.03863">Link</a> |
-| 13 |  |  |  |  | <a href="">Link</a> |
-1. **【LLM综述——人大：Large Language Models: A Survey】https://github.com/RUCAIBox/LLMSurvey**
-2. 【LLM指南（综述）——Amazon & 德州农工大学 & 莱斯大学】https://github.com/Mooler0410/LLMsPracticalGuide
-3. **【思维链综述——哈工大：A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future】https://arxiv.org/abs/2309.15402**
-4. 【大模型幻觉综述：A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions】https://arxiv.org/abs/2311.05232
-5. **【大模型评价方法综述——天津大学：Evaluating Large Language Models: A Comprehensive Survey】https://arxiv.org/abs/2310.19736**
-6. 【大语言模型的应用和挑战：Challenges and Applications of Large Language Models】https://arxiv.org/abs/2307.10169
-7. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等：Explainability for Large Language Models: A Survey】https://arxiv.org/abs/2309.01029**
-8. **【Instruction Tuning综述：Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning】https://arxiv.org/abs/2303.10475**
-9. 【伊利诺伊大学厄巴纳香槟分校——图与LLM综述：Large Language Models on Graphs: A Comprehensive Survey】https://arxiv.org/abs/2312.02783
-10. 【北大——LLM数据管理综述：Data Management For Large Language Models: A Survey】https://arxiv.org/abs/2312.01700
-11. 【CoT与AI Agent综述：Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents】https://arxiv.org/abs/2311.11797
-12. **【提高LLMs的计算效率和资源利用效率综述：Efficient Large Language Models: A Survey】https://arxiv.org/abs/2312.03863**
-13. 
+|序号|题目|期刊|作者|机构|网址|简介|
+|-|-|-|-|-|-|-|
+| 1 | Large Language Models: A Survey |  |  | 人大 | <a href="https://github.com/RUCAIBox/LLMSurvey">Link</a> | LLM综述 |
+| 2 | Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond |  |  | Amazon & 德州农工大学 & 莱斯大学 | <a href="https://github.com/Mooler0410/LLMsPracticalGuide">Link</a> | LLM综述 |
+| 3 | A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future |  |  | 哈工大 | <a href="https://arxiv.org/abs/2309.15402">Link</a> | 思维链综述 |
+| 4 | A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions |  |  |  | <a href="https://arxiv.org/abs/2311.05232">Link</a> | 大模型幻觉综述 |
+| 5 | Evaluating Large Language Models: A Comprehensive Survey |  |  | 天大 | <a href="https://arxiv.org/abs/2310.19736">Link</a> | 大模型评价方法综述 |
+| 6 | Challenges and Applications of Large Language Models |  |  |  | <a href="https://arxiv.org/abs/2307.10169">Link</a> | 大模型的应用和挑战 |
+| 7 | Explainability for Large Language Models: A Survey |  |  | 新泽西理工学院、约翰霍普金斯大学等 | <a href="https://arxiv.org/abs/2309.01029">Link</a> | 大模型可解释性综述 |
+| 8 | Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning |  |  |  | <a href="https://arxiv.org/abs/2303.10475">Link</a> | Instruction Tuning综述 |
+| 9 | Large Language Models on Graphs: A Comprehensive Survey |  |  | 伊利诺伊大学厄巴纳香槟分校 | <a href="https://arxiv.org/abs/2312.02783">Link</a> | 图与LLM综述 |
+| 10 | Data Management For Large Language Models: A Survey |  |  | 北大 | <a href="https://arxiv.org/abs/2312.01700">Link</a> | LLM数据管理综述 |
+| 11 | Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents |  |  |  | <a href="https://arxiv.org/abs/2311.11797">Link</a> | 思维链与AI Agent综述 |
+| 12 | Efficient Large Language Models: A Survey |  |  |  | <a href="https://arxiv.org/abs/2312.03863">Link</a> | 提高LLMs的计算效率和资源利用效率综述 |
+| 13 |  |  |  |  | <a href="">Link</a> |  |
 
 ### 技术类
 1. 【Transformer：Attention Is All You Need】https://arxiv.org/abs/1706.03762
