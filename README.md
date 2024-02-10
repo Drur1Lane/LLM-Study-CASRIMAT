@@ -220,8 +220,10 @@ A resource-set about LLM for CASRIMAT.
 
 
 ## B站
-1. **【贯一智能科技——国内外十大语言模型之横向对比评测【模型评测08】】https://www.bilibili.com/video/BV1c64y157Qm?vd_source=212a48f118f484bfff9c726b8ee904f2**
-2. 
+|序号|UP主|名称|链接|备注|
+|-|-|-|-|-|
+| 1 | 贯一智能科技 | **国内外十大语言模型之横向对比评测【模型评测08】** | <a href="https://www.bilibili.com/video/BV1c64y157Qm?vd_source=212a48f118f484bfff9c726b8ee904f2">Link</a> | **主观但实用的LLM测评** |
+| 2 |  |  |  |  |
 
 
 ## 知乎
