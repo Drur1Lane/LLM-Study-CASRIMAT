@@ -189,35 +189,34 @@ A resource-set about LLM for CASRIMAT.
 | 6 |  |  |  |  |
 
 ### 其他资源
-1. **【FastChat给出的LLM排名：Chatbot Arena Leaderboard】https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard**
-2. **【FastChat：训练、部署和评估大模型的开源平台】https://github.com/lm-sys/FastChat**
-3. 【ChatGPT的英文提示词】https://github.com/f/awesome-chatgpt-prompts
-4. 【ChatGPT的中文提示词】https://github.com/PlexPt/awesome-chatgpt-prompts-zh
-5. 【学术ChatGPT】https://github.com/binary-husky/gpt_academic
-6. **【Awesome-LLM——资源整合】https://github.com/Hannibal046/Awesome-LLM**
-7. **【LLMs九层妖塔——另一位同仁的学习笔记】https://github.com/km1994/LLMsNineStoryDemonTower**
-8. **【LLM-Action——一个资源集合】https://github.com/liguodongiot/llm-action**
-9. **【跟李沐学AI】https://github.com/mli/paper-reading**
-10. 【打造本地的私人GPT】https://github.com/eosphoros-ai/DB-GPT
-11. 【AIGC Progress——又一个资源集合】https://github.com/kinghuin/AIGC-progress
-12. 【OpenAI的tokenize方式】https://github.com/openai/tiktoken
-13. 【FinNLP——哥大刘小洋】https://github.com/AI4Finance-Foundation/FinNLP
-14. 【刘聪NLP——ChatGLM微调实践】https://github.com/liucongg/ChatGLM-Finetuning
-15. 【Google的tokenizer——sentencepiece】https://github.com/google/sentencepiece
-16. 【OpenAI的tokenizer——tiktoken】https://github.com/openai/tiktoken
-17. 【ChatGPT插件】https://github.com/xcanwin/KeepChatGPT
-18. 【LoRA】https://github.com/microsoft/LoRA
-19. 【QLoRA】https://github.com/artidoro/qlora
-20. 【生成prompt】https://github.com/bigscience-workshop/promptsource
-21. 【国科大论文模板】https://github.com/mohuangrui/ucasthesis
-22. **【大模型可解释性综述——新泽西理工学院、约翰霍普金斯大学等】https://github.com/hy-zhao23/Explainability-for-Large-Language-Models#improving-llms**
-23. **【Project-based Learning】https://github.com/practical-tutorials/project-based-learning**
-24. 【StructGPT：面向结构化数据的大模型推理框架——人大】https://github.com/RUCAIBox/StructGPT
-25. **【LangGPT：结构化prompt——一种面向LLM的编程语言】https://github.com/EmbraceAGI/LangGPT?tab=readme-ov-file**
-26. 【调用Mistral API】https://github.com/mistralai/client-python
-27. **【PowerInfer】https://github.com/SJTU-IPADS/PowerInfer**
-28. **【各行业中文开源金融大模型整理】https://github.com/HqWu-HITCS/Awesome-Chinese-LLM?tab=readme-ov-file#%E9%87%91%E8%9E%8D**
-29. 
+|序号|名称|链接|备注|
+|-|-|-|-|
+| 1 | **Chatbot Arena Leaderboard** | <a href="https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard">Link</a> | **FastChat给出的LLM排名** |
+| 2 | **FastChat** | <a href="https://github.com/lm-sys/FastChat">Link</a> | **训练、部署和评估大模型的开源平台** |
+| 3 |  | <a href="https://github.com/f/awesome-chatgpt-prompts">Link</a> | ChatGPT的英文提示词 |
+| 4 |  | <a href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh">Link</a> | ChatGPT的中文提示词 |
+| 5 |  | <a href="https://github.com/binary-husky/gpt_academic">Link</a> | 学术ChatGPT |
+| 6 | **Awesome-LLM** | <a href="https://github.com/Hannibal046/Awesome-LLM">Link</a> | **资源集合** |
+| 7 | **LLMs九层妖塔** | <a href="https://github.com/km1994/LLMsNineStoryDemonTower">Link</a> | **另一位同仁的学习笔记** |
+| 8 | **LLM-Action** | <a href="https://github.com/liguodongiot/llm-action">Link</a> | **资源集合** |
+| 9 | **跟李沐学AI** | <a href="https://github.com/mli/paper-reading">Link</a> |  |
+| 10 |  | <a href="https://github.com/eosphoros-ai/DB-GPT">Link</a> | 打造本地的私人GPT |
+| 11 | AIGC Progress | <a href="https://github.com/kinghuin/AIGC-progress">Link</a> | 资源集合 |
+| 12 | tiktoken | <a href="https://github.com/openai/tiktoken">Link</a> | OpenAI的tokenize方式 |
+| 13 | FinNLP | <a href="https://github.com/AI4Finance-Foundation/FinNLP">Link</a> |  |
+| 14 |  | <a href="https://github.com/liucongg/ChatGLM-Finetuning">Link</a> | ChatGLM微调实践 |
+| 15 | sentencepiece | <a href="https://github.com/google/sentencepiece">Link</a> | Google的tokenizer |
+| 16 |  | <a href="https://github.com/xcanwin/KeepChatGPT">Link</a> | ChatGPT插件 |
+| 17 | LoRA | <a href="https://github.com/microsoft/LoRA">Link</a> |  |
+| 18 | QLoRA | <a href="https://github.com/artidoro/qlora">Link</a> |  |
+| 19 |  | <a href="https://github.com/bigscience-workshop/promptsource">Link</a> | 自动生成prompt |
+| 20 | 国科大论文模板 | <a href="https://github.com/mohuangrui/ucasthesis">Link</a> |  |
+| 21 | **Project-based Learning** | <a href="https://github.com/practical-tutorials/project-based-learning">Link</a> |  |
+| 22 |  | <a href="https://github.com/HqWu-HITCS/Awesome-Chinese-LLM?tab=readme-ov-file#%E9%87%91%E8%9E%8D">Link</a> | 各行业中文开源金融大模型整理 |
+| 23 | PowerInfer | <a href="https://github.com/SJTU-IPADS/PowerInfer">Link</a> |  |
+| 24 |  | <a href="https://github.com/mistralai/client-python">Link</a> | 调用Mistral API |
+| 25 | **LangGPT** | <a href="https://github.com/EmbraceAGI/LangGPT?tab=readme-ov-file">Link</a> | **结构化prompt——一种面向LLM的编程语言** |
+| 26 |  | <a href="">Link</a> |  |
 
 
 ## B站
