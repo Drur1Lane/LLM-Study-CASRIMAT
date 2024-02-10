@@ -129,22 +129,23 @@ A resource-set about LLM for CASRIMAT.
 
 ## GitHub / Hugging Face
 ### 开源大模型
-1. 【Baichuan-7B】https://github.com/baichuan-inc/Baichuan-7B https://huggingface.co/baichuan-inc/Baichuan-7B
-2. 【Baichuan-13B】https://github.com/baichuan-inc/Baichuan-13B
-3. **【Baichuan2】https://github.com/baichuan-inc/Baichuan2**
-4. 【ChatGLM】https://github.com/THUDM/ChatGLM-6B/
-5. 【ChatGLM2】https://github.com/THUDM/ChatGLM2-6B
-6. **【ChatGLM3】https://github.com/THUDM/ChatGLM3**
-7. 【LLaMA】https://github.com/facebookresearch/llama
-8. **【LLaMA2】https://huggingface.co/daryl149/llama-2-7b-chat-hf**
-9. **【中文llama2 & Alpaca——科大讯飞】https://github.com/ymcui/Chinese-LLaMA-Alpaca**
-10. **【中文llama2 & Alpaca 2——科大讯飞】https://github.com/ymcui/Chinese-LLaMA-Alpaca-2**
-11. **【Mistral-7B】https://huggingface.co/mistralai/Mistral-7B-v0.1**
-12. 【Yi——李开复零一万物】https://github.com/01-ai/Yi
-13. **【Bloomz系列】https://huggingface.co/bigscience/bloomz-560m**
-14. **【阿里Qwen系列】https://github.com/QwenLM/Qwen**
-15. **【Mistral系列】https://huggingface.co/mistralai/Mixtral-8x7B-v0.1**
-16. 
+|序号|名称|机构|Github|Hugging Face|
+|-|-|-|-|-|
+| 1 | Baichuan-7B |  | https://github.com/baichuan-inc/Baichuan-7B | https://huggingface.co/baichuan-inc/Baichuan-7B |
+| 2 | Baichuan-13B |  | https://github.com/baichuan-inc/Baichuan-13B |  |
+| 3 | Baichuan2 |  | https://github.com/baichuan-inc/Baichuan2 |  |
+| 4 | ChatGLM |  | https://github.com/THUDM/ChatGLM-6B |  |
+| 5 | ChatGLM2 |  | https://github.com/THUDM/ChatGLM2-6B |  |
+| 6 | ChatGLM3 |  | https://github.com/THUDM/ChatGLM3 |  |
+| 7 | LLaMA | Meta | https://github.com/facebookresearch/llama |  |
+| 8 | LLaMA2 | Meta |  | https://huggingface.co/daryl149/llama-2-7b-chat-hf |
+| 9 | 中文llama2 & Alpaca | 科大讯飞 | https://github.com/ymcui/Chinese-LLaMA-Alpaca |  |
+| 10 | 中文llama2 & Alpaca 2 | 科大讯飞 | https://github.com/ymcui/Chinese-LLaMA-Alpaca-2 |  |
+| 11 | Mistral系列 |  |  | https://huggingface.co/mistralai |
+| 12 | Yi | 李开复零一万物 | https://github.com/01-ai/Yi |  |
+| 13 | Bloomz系列 |  |  | https://huggingface.co/bigscience/bloomz-560m |
+| 14 | Qwen系列 | 阿里 | https://github.com/QwenLM/Qwen |  |
+| 15 |  |  |  |  |
 
 ### 微调大模型
 1. **【金融风险大模型FinPT——港大 & 达摩院】https://github.com/YuweiYin/FinPT**
