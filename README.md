@@ -42,7 +42,7 @@ A resource-set about LLM for CASRIMAT.
 | 10 | Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models | arXiv |  |  | <a href="https://arxiv.org/abs/2312.06585">Link</a> | 大模型自我构建数据进行训练 |
 | 11 | PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU | arXiv |  | 上交 | <a href="https://arxiv.org/abs/2311.11797">Link</a> | 使用RTX 4090跑175B大模型 |
 | 12 |  | arXiv |  |  | <a href="https://arxiv.org/abs/2305.09645">Link</a> | 面向结构化数据的大模型推理框架 |
-| 13 |  |  |  |  | <a href="">Link</a> |  |
+| 13 |  | arXiv |  |  | <a href="">Link</a> |  |
 
 ### 领域大模型构建
 |序号|题目|期刊|作者|机构|网址|简介|
@@ -65,10 +65,10 @@ A resource-set about LLM for CASRIMAT.
 ### 数据集构建
 |序号|题目|期刊|作者|机构|网址|简介|
 |-|-|-|-|-|-|-|
-| 1 |  |  |  | <a href="https://arxiv.org/abs/2306.14096">Link</a> | 中文金融情感分析数据集 |
-| 2 |  |  | 哈工深 | <a href="https://arxiv.org/abs/2308.01415">Link</a> | 金融指令调优数据集 |
-| 3 |  |  |  | <a href="http://arxiv.org/abs/2210.03849">Link</a> | ConvFinQA |
-| 4 |  |  |  | <a href="">Link</a> |  |
+| 1 |  | arXiv |  |  | <a href="https://arxiv.org/abs/2306.14096">Link</a> | 中文金融情感分析数据集 |
+| 2 |  | arXiv |  | 哈工深 | <a href="https://arxiv.org/abs/2308.01415">Link</a> | 金融指令调优数据集 |
+| 3 |  | arXiv |  |  | <a href="http://arxiv.org/abs/2210.03849">Link</a> | ConvFinQA |
+| 4 |  | arXiv |  |  | <a href="">Link</a> |  |
 
 ### 思维链与大模型推理
 |序号|题目|期刊|作者|机构|网址|简介|
@@ -123,7 +123,7 @@ A resource-set about LLM for CASRIMAT.
 ### Prompting Engineering
 |序号|题目|期刊|作者|机构|网址|简介|
 |-|-|-|-|-|-|-|
-| 1 | **Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine** | avXiv |  | 微软 | <a href="https://arxiv.org/abs/2311.16452">Link</a> | 医学领域使用GPT-4的prompt工程 |
+| 1 | **Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine** | avXiv |  | 微软 | <a href="https://arxiv.org/abs/2311.16452">Link</a> | **医学领域使用GPT-4的prompt工程** |
 | 2 |  | avXiv |  |  | <a href="">Link</a> |  |
 
 
