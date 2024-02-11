@@ -47,20 +47,20 @@ A resource-set about LLM for CASRIMAT.
 ### 领域大模型构建
 |序号|题目|期刊|作者|机构|网址|简介|
 |-|-|-|-|-|-|-|
-| 1 |  |  | 港大 & 达摩院 | <a href="https://arxiv.org/abs/2308.00065">Link</a> | 金融风险大模型FinPT |
-| 2 |  |  | 彭博社 | <a href="https://arxiv.org/abs/2303.17564">Link</a> | 金融大模型BloombergGPT |
-| 3 |  |  | 度小满 | <a href="https://arxiv.org/abs/2305.12002">Link</a> | 金融大模型“轩辕” |
-| 4 |  |  | 北大 | <a href="http://arxiv.org/abs/2306.16092">Link</a> | 法律大模型ChatLaw |
-| 5 |  |  | 哥大 | <a href="http://arxiv.org/abs/2306.12659">Link</a> | 金融大模型Instruct-FinGPT |
-| 6 |  |  | 哥大 | <a href="https://arxiv.org/abs/2306.06031">Link</a> | 金融大模型FinGPT |
-| 7 |  |  | 哥大 | <a href="https://arxiv.org/abs/2307.10485">Link</a> | 金融大模型FinGPT |
-| 8 |  |  | 哈工深 | <a href="https://arxiv.org/abs/2308.01430">Link</a> | 金融大模型FinVisGPT（多模态） |
-| 9 |  |  | 同济 & 上海AI实验室 | <a href="https://arxiv.org/abs/2309.10654">Link</a> | 金融大模型CFGPT |
-| 10 |  |  | 复旦大学 | <a href="https://arxiv.org/abs/2310.15205">Link</a> | 金融资讯大模型DISC-FinLLM |
-| 11 |  |  | 武汉大学、中山大学等 | <a href="https://arxiv.org/abs/2306.05443">Link</a> | 金融大模型PIXIU |
-| 12 |  |  | 阿里巴巴、弗吉尼亚大学 | <a href="http://arxiv.org/abs/2310.17784">Link</a> | 金融大模型FLLM |
-| 13 |  |  | 复旦等 | <a href="http://arxiv.org/abs/2302.09432">Link</a> | 金融大模型Fin-T5 |
-| 14 |  |  |  | <a href="">Link</a> |  |
+| 1 |  | arXiv | 港大 & 达摩院 | <a href="https://arxiv.org/abs/2308.00065">Link</a> | 金融风险大模型FinPT |
+| 2 |  | arXiv | 彭博社 | <a href="https://arxiv.org/abs/2303.17564">Link</a> | 金融大模型BloombergGPT |
+| 3 |  | arXiv | 度小满 | <a href="https://arxiv.org/abs/2305.12002">Link</a> | 金融大模型“轩辕” |
+| 4 |  | arXiv | 北大 | <a href="http://arxiv.org/abs/2306.16092">Link</a> | 法律大模型ChatLaw |
+| 5 |  | arXiv | 哥大 | <a href="http://arxiv.org/abs/2306.12659">Link</a> | 金融大模型Instruct-FinGPT |
+| 6 |  | arXiv | 哥大 | <a href="https://arxiv.org/abs/2306.06031">Link</a> | 金融大模型FinGPT |
+| 7 |  | arXiv | 哥大 | <a href="https://arxiv.org/abs/2307.10485">Link</a> | 金融大模型FinGPT |
+| 8 |  | arXiv | 哈工深 | <a href="https://arxiv.org/abs/2308.01430">Link</a> | 金融大模型FinVisGPT（多模态） |
+| 9 |  | arXiv | 同济 & 上海AI实验室 | <a href="https://arxiv.org/abs/2309.10654">Link</a> | 金融大模型CFGPT |
+| 10 |  | arXiv | 复旦大学 | <a href="https://arxiv.org/abs/2310.15205">Link</a> | 金融资讯大模型DISC-FinLLM |
+| 11 |  | arXiv | 武汉大学、中山大学等 | <a href="https://arxiv.org/abs/2306.05443">Link</a> | 金融大模型PIXIU |
+| 12 |  | arXiv | 阿里巴巴、弗吉尼亚大学 | <a href="http://arxiv.org/abs/2310.17784">Link</a> | 金融大模型FLLM |
+| 13 |  | arXiv | 复旦等 | <a href="http://arxiv.org/abs/2302.09432">Link</a> | 金融大模型Fin-T5 |
+| 14 |  | arXiv |  | <a href="">Link</a> |  |
 
 ### 数据集构建
 |序号|题目|期刊|作者|机构|网址|简介|
