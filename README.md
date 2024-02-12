@@ -324,6 +324,13 @@ A resource-set about LLM for CASRIMAT.
 | 4 |  |  | <a href="">Link</a> |  |
 
 
+## Kaggle
+|序号|名称|链接|备注|
+|-|-|-|-|
+| 1 | LLM Science Exam | <a href="https://www.kaggle.com/competitions/kaggle-llm-science-exam/leaderboard">Link</a> |  |
+| 2 |  |  | <a href="">Link</a> |  |
+
+
 ## 其他
 |序号|来源|名称|链接|备注|
 |-|-|-|-|-|
