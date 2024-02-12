@@ -310,6 +310,7 @@ A resource-set about LLM for CASRIMAT.
 | 25 |  |  | <a href="https://mp.weixin.qq.com/s/xj2h7kVAm9VV7GPQF4lTDQ">Link</a> | **Gemini调用文心一言** |
 | 26 |  | State of GPT | <a href="https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg">Link</a> | 大神Andrej Karpthy揭秘OpenAI大模型原理和训练过程 |
 | 27 | 海外独角兽 | 专访月之暗面杨植麟：lossless long context is everything | <a href="https://mp.weixin.qq.com/s/UMY0qZsCGh87KnW4wjfvoA">Link</a> | 月之暗面Moonshot AI对LLM前景的看法：①注重用户数据scaling的提升、而不是base model；②**可解释性**：只要哦数据量够大，肯定可以解决；③**历史上所有的架构演进本质上都是在提升有效的 context length**。word2vec 最近拿了 NeurIPS 的 Test of Time 奖。它在 10 年前用一个词去预测周围的词，相当于 context length 是 5。RNN 把有效的 context length 提升到了 20。LSTM 涨到大几十。transformer 到了几千。现在我们能做到几十万。**如果你有 10 亿的 context length，今天看到的问题都不是问题**；④未来模型基于**自我生成的数据**进行训练是关键；⑤**模型的微调可能不存在**：终究能达成，用户只需要指令的方式就能实现个性化的应用；⑤**人才的经验很重要** |
+| 28 | AI算法科研 | **如何将大模型与小模型结合？这8种常用策略必看！附17篇案例论文和代码** | <a href="paperhttps://mp.weixin.qq.com/s/_9NLa0wZPVq_0Pu0a-jQlg">Link</a> |  |
 
 
 ## 个人博客/团队账号
