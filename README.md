@@ -128,12 +128,12 @@ A resource-set about LLM for CASRIMAT.
 |序号|题目|期刊|作者|机构|网址|简介|
 |-|-|-|-|-|-|-|
 | 1 | **Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine** | avXiv |  | 微软 | <a href="https://arxiv.org/abs/2311.16452">Link</a> | **医学领域使用GPT-4的prompt工程** |
-| 2 | Can large language models provide useful feedback on research papers? A large-scale empirical analysis | avXiv |  | 斯坦福 | <a href="">Link</a> | 大模型与审稿（<a href="https://mp.weixin.qq.com/s/9-F6cC9nB5kPO9rBBVmBuw">中文解读</a>） |
 
 ### Other
 |序号|题目|期刊|作者|机构|网址|简介|
 |-|-|-|-|-|-|-|
 | 1 |  | avXiv |  |  | <a href="https://arxiv.org/abs/2310.01783">Link</a> |  |
+| 2 | Can large language models provide useful feedback on research papers? A large-scale empirical analysis | avXiv |  | 斯坦福 | <a href="">Link</a> | 大模型与审稿（<a href="https://mp.weixin.qq.com/s/9-F6cC9nB5kPO9rBBVmBuw">中文解读</a>） |
 
 ## GitHub / Hugging Face
 ### 开源大模型
