@@ -132,8 +132,8 @@ A resource-set about LLM for CASRIMAT.
 ### Other
 |序号|题目|期刊|作者|机构|网址|简介|
 |-|-|-|-|-|-|-|
-| 1 |  | avXiv |  |  | <a href="https://arxiv.org/abs/2310.01783">Link</a> |  |
-| 2 | Can large language models provide useful feedback on research papers? A large-scale empirical analysis | avXiv |  | 斯坦福 | <a href="">Link</a> | 大模型与审稿（<a href="https://mp.weixin.qq.com/s/9-F6cC9nB5kPO9rBBVmBuw">中文解读</a>） |
+| 1 | GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond | avXiv |  |  | <a href="https://arxiv.org/abs/2309.16583">Link</a> | OpenAI进化之路与大模型能力来源探析（<a href="https://mp.weixin.qq.com/s/-AWkDzAzoyQNmgYXuC6B4w">中文解读</a>） |
+| 2 | Can large language models provide useful feedback on research papers? A large-scale empirical analysis | avXiv |  | 斯坦福 | <a href="https://arxiv.org/abs/2310.01783">Link</a> | 大模型与审稿（<a href="https://mp.weixin.qq.com/s/9-F6cC9nB5kPO9rBBVmBuw">中文解读</a>） |
 
 ## GitHub / Hugging Face
 ### 开源大模型
