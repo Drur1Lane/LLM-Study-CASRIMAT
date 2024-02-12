@@ -160,6 +160,7 @@ A resource-set about LLM for CASRIMAT.
 | 13 | Bloomz系列 |  |  | <a href="https://huggingface.co/bigscience/bloomz-560m">Link</a> |
 | 14 | Qwen系列 | 阿里 | <a href="https://github.com/QwenLM/Qwen">Link</a> |  |
 | 15 | OLMo **（第一个完全开源大模型：代码、数据、权重、评估、适配）** <a href="https://mp.weixin.qq.com/s/v-xCzo6j7sfVK5SF9iLg_A">中文推荐</a> | 艾伦AI研究所等 | <a href="https://github.com/allenai/OLMo">Link</a> | <a href="https://huggingface.co/allenai/OLMo-7B/tree/main">Link</a> |
+| 16 | MiniCPM **（参数量2.4B）** | 面壁智能、清华NLP实验室 | <a href="https://github.com/OpenBMB/MiniCPM?tab=readme-ov-file">Link</a> |  |
 
 ### 微调大模型
 |序号|名称|机构|Github|Hugging Face|
