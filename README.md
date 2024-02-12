@@ -153,7 +153,7 @@ A resource-set about LLM for CASRIMAT.
 | 12 | Yi | 李开复零一万物 | <a href="https://github.com/01-ai/Yi">Link</a> |  |
 | 13 | Bloomz系列 |  |  | <a href="https://huggingface.co/bigscience/bloomz-560m">Link</a> |
 | 14 | Qwen系列 | 阿里 | <a href="https://github.com/QwenLM/Qwen">Link</a> |  |
-| 15 |  |  |  |  |
+| 15 | OLMo **（第一个完全开源大模型：代码、数据、权重、评估、适配）** <a href="https://mp.weixin.qq.com/s/v-xCzo6j7sfVK5SF9iLg_A">中文推荐</a> | 艾伦AI研究所等 | <a href="https://github.com/allenai/OLMo">Link</a> | <a href="https://huggingface.co/allenai/OLMo-7B/tree/main">Link</a> |
 
 ### 微调大模型
 |序号|名称|机构|Github|Hugging Face|
@@ -358,3 +358,4 @@ A resource-set about LLM for CASRIMAT.
 | 4 | CSDN | SHAP：解释模型预测的通用方法 | <a href="https://blog.csdn.net/qq_40943760/article/details/123938209">Link</a> |  |
 | 5 | 索尼 |  | <a href="https://www.suno.ai">Link</a> | **为你的朋友制作歌曲** |
 | 6 | 小红书 | InstantID | <a href="https://instantid.github.io/">Link</a> | **不需要进行任何额外训练，就能得到一个既符合文本描述又保留个人身份特征的定制图像** |
+| 7 | 字节跳动 | MagicVideo | <a href="https://magicvideov2.github.io/">Link</a> | **文字生成动图** |
