@@ -356,5 +356,5 @@ A resource-set about LLM for CASRIMAT.
 | 2 |  | nlp研究生不会自己写代码怎么办 | <a href="https://www.zhihu.com/question/615441114">Link</a> |  |
 | 3 | 知乎 | 小王同学在积累的Github学习资料 | <a href="https://github.com/AccumulateMore/CV">Link</a> |  |
 | 4 | CSDN | SHAP：解释模型预测的通用方法 | <a href="https://blog.csdn.net/qq_40943760/article/details/123938209">Link</a> |  |
-| 5 |  | 为你的朋友制作歌曲 | <a href="https://www.suno.ai">Link</a> |  |
-| 6 |  |  |  |  |
+| 5 | 索尼 |  | <a href="https://www.suno.ai">Link</a> | **为你的朋友制作歌曲** |
+| 6 | 小红书 | InstantID | <a href="https://instantid.github.io/">Link</a> | **不需要进行任何额外训练，就能得到一个既符合文本描述又保留个人身份特征的定制图像** |
