@@ -318,7 +318,8 @@ A resource-set about LLM for CASRIMAT.
 |-|-|-|-|-|
 | 1 | 复旦 | 大规模语言模型：从理论到实践 | <a href="https://intro-llm.github.io/">Link</a> |  |
 | 2 | 刘聪NLP | ChatGPT原理与实战：大型语言模型的算法、技术和私有化 | <a href="https://github.com/liucongg/ChatGPTBook">Link</a> |  |
-| 3 |  |  | <a href="">Link</a> |  |
+| 3 | 中国人工智能学会 | 中国人工智能系列白皮书——大模型技术（2023版） | <a href="https://caai.cn/index.php?s=/home/article/detail/id/3172.html">Link</a> |  |
+| 4 |  |  | <a href="">Link</a> |  |
 
 
 ## 其他
