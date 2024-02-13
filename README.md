@@ -326,6 +326,7 @@ A resource-set about LLM for CASRIMAT.
 | 31 | 包包算法笔记 | 大模型微调数据选择和构造技巧 | <a href="https://mp.weixin.qq.com/s/Sf2erEthOZQ3IFMfHMdHKQ">Link</a> | **数据的多样性、不确定性** |
 | 32 | AI洞察笔记 | 一文汇总大语言模型LLM所有prompt提示词框架的论文出处 | <a href="https://mp.weixin.qq.com/s/6l1UBJ8xYhDV2ewQAQOZgw">Link</a> | **Reasoning论文汇总与arXiv两个技巧** |
 | 33 | 新智元 | **AI智能体卷爆大模型！AutoGPT等4大Agent打擂，「西部世界」谁将成为软件2.0？** | <a href="https://mp.weixin.qq.com/s/b04F8oQfRaY2z-FjzA4pMw">Link</a> | **对于Agent的全面介绍** |
+| 34 | InfoQ | **金融业采用大模型，是“用大炮轰蚊子”吗** | <a href="https://mp.weixin.qq.com/s/g0e3qVqNzPVnUovGdYBPew">Link</a> |  |
 
 
 ## 个人博客/团队账号
