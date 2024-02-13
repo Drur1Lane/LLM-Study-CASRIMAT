@@ -329,6 +329,9 @@ A resource-set about LLM for CASRIMAT.
 | 32 | AI洞察笔记 | 一文汇总大语言模型LLM所有prompt提示词框架的论文出处 | <a href="https://mp.weixin.qq.com/s/6l1UBJ8xYhDV2ewQAQOZgw">Link</a> | **Reasoning论文汇总与arXiv两个技巧** |
 | 33 | 新智元 | **AI智能体卷爆大模型！AutoGPT等4大Agent打擂，「西部世界」谁将成为软件2.0？** | <a href="https://mp.weixin.qq.com/s/b04F8oQfRaY2z-FjzA4pMw">Link</a> | **对于Agent的全面介绍** |
 | 34 | InfoQ | **金融业采用大模型，是“用大炮轰蚊子”吗** | <a href="https://mp.weixin.qq.com/s/g0e3qVqNzPVnUovGdYBPew">Link</a> |  |
+| 35 | NLP工作站 | 1-2B参数规模大模型使用心得及模型汇总 | <a href="https://mp.weixin.qq.com/s/Jnc3fhd-jf0XK4b9PrbZzg">Link</a> |  |
+| 36 | NLP工作站 | 回望做大模型一年后的感悟 | <a href="https://mp.weixin.qq.com/s/CfAY8FCrQKKIrQx3U10EcQ">Link</a> |  |
+| 37 | NewBeeNLP | **LLM 盛行，如何优雅地训练大模型？** | <a href="https://mp.weixin.qq.com/s/hpdGB-2oNH4R8j0zuPj7hA">Link</a> |  |
 
 
 ## 个人博客/团队账号
