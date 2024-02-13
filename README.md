@@ -185,7 +185,7 @@ A resource-set about LLM for CASRIMAT.
 | 11 | 骆驼项目：大模型集合 | 商汤科技+华中师范大学 | <a href="https://github.com/LC1332/Luotuo-Chinese-LLM">Link</a> |  |
 | 12 | **金融大模型PIXIU** | 武大、中山等 | <a href="https://github.com/chancefocus/PIXIU">Link</a> |  |
 | 13 | **金融资讯大模型DISC-FinLLM** | 复旦 | <a href="https://github.com/FudanDISC/DISC-FinLLM">Link</a> |  |
-| 14 | **2023 ChatGLM金融大模型挑战赛** | 阿里 | <a href="https://github.com/MetaGLM/FinGLM?tab=readme-ov-file">Link</a> |  |
+| 14 | **2023 ChatGLM金融大模型挑战赛** | 阿里 | <a href="https://github.com/MetaGLM/FinGLM?tab=readme-ov-file">Link</a> | **<a href=“https://mp.weixin.qq.com/s/FML3mx7McW735Qt0pgy6TQ”>中文推文</a>** |
 | 15 | **金融大模型CFGPT** | 同济 | <a href="https://github.com/TongjiFinLab/CFGPT">Link</a> |  |
 | 16 | **ChatGLM微调** | 刘聪NLP | <a href="https://github.com/liucongg/ChatGLM-Finetuning">Link</a> |  |
 
