@@ -1,6 +1,7 @@
 # LLM-Study-CASRIMAT
 A resource-set about LLM for CASRIMAT.
 
+
 ## 论文
 ### 发表在顶刊or会计、金融领域期刊上的
 |序号|题目|期刊|作者|机构|网址|简介|
@@ -144,6 +145,7 @@ A resource-set about LLM for CASRIMAT.
 | 2 | Can large language models provide useful feedback on research papers? A large-scale empirical analysis | avXiv |  | 斯坦福 | <a href="https://arxiv.org/abs/2310.01783">Link</a> | 大模型与审稿（<a href="https://mp.weixin.qq.com/s/9-F6cC9nB5kPO9rBBVmBuw">中文解读</a>） |
 | 3 | When ChatGPT is gone: Creativity reverts and homogeneity persists | avXiv |  | 北京大学 | <a href="https://arxiv.org/abs/2401.06816">Link</a> | 大模型对长期创新能力的抑制（<a href="https://mp.weixin.qq.com/s/uQAubTdgaPmhbQbC6dhMUg">中文解读</a>） |
 
+
 ## GitHub / Hugging Face
 ### 开源大模型
 |序号|名称|机构|Github|Hugging Face|
@@ -185,7 +187,7 @@ A resource-set about LLM for CASRIMAT.
 | 13 | **金融资讯大模型DISC-FinLLM** | 复旦 | <a href="https://github.com/FudanDISC/DISC-FinLLM">Link</a> |  |
 | 14 | **2023 ChatGLM金融大模型挑战赛** | 阿里 | <a href="https://github.com/MetaGLM/FinGLM?tab=readme-ov-file">Link</a> |  |
 | 15 | **金融大模型CFGPT** | 同济 | <a href="https://github.com/TongjiFinLab/CFGPT">Link</a> |  |
-| 16 |  |  |  |  |
+| 16 | **ChatGLM微调** | 刘聪NLP | <a href="https://github.com/liucongg/ChatGLM-Finetuning">Link</a> |  |
 
 ### 练手小大模型
 |序号|名称|Github|Hugging Face|备注|
