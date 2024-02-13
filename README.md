@@ -337,7 +337,7 @@ A resource-set about LLM for CASRIMAT.
 | 4 | 庞宇轩 | <a href="https://pyxblog.cn/">Link</a> |  |
 | 5 | 人大AI BOX | <a href="https://www.zhihu.com/people/dou-hong-jian-44">Link</a> |  |
 | 6 | 知乎——suc16 | <a href="https://www.zhihu.com/people/suc16/posts">Link</a> |  |
-| 7 |  |  |  |
+| 7 | Github——lucidrains | <a href="https://github.com/lucidrains?tab=repositories&q=&type=&language=&sort=stargazers">Link</a> |  |
 
 
 ## 电子书
