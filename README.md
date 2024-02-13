@@ -94,7 +94,7 @@ A resource-set about LLM for CASRIMAT.
 | 14 | **Learning From Mistakes Makes LLM Better Reasoner** | avXiv |  |  | <a href="https://arxiv.org/abs/2310.20689">Link</a> | 让大模型在错题中学习 |
 | 15 | Specializing Smaller Language Models towards Multi-Step Reasoning | avXiv |  |  | <a href="http://arxiv.org/abs/2301.12726">Link</a> |  |
 | 16 | Self-Discover: Large Language Models Self-Compose Reasoning Structures | avXiv |  | 南加州大学、谷歌DeepMind | <a href="https://arxiv.org/abs/2402.03620">Link</a> | **让大模型针对不同问题，提出特定的推理结构（<a href="https://mp.weixin.qq.com/s/HUW8MX2GhsdE3qFBvb1-Hg">中文解读</a>）** |
-| 17 | The Impact of Reasoning Step Length on Large Language Models | arXiv |  |  | <a href="https://arxiv.org/abs/2401.04925">Link</a> | 推理步骤对大模型能力的影响 |
+| 17 | The Impact of Reasoning Step Length on Large Language Models | arXiv |  |  | <a href="https://arxiv.org/abs/2401.04925">Link</a> | 推理步骤对大模型能力的影响（<a href="https://mp.weixin.qq.com/s/UgglOk-u6Qv3IrY6aWcarQ">中文解读</a>） |
 
 ### 大模型与表格数据
 |序号|题目|期刊|作者|机构|网址|简介|
