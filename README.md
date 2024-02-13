@@ -29,7 +29,7 @@ A resource-set about LLM for CASRIMAT.
 | 13 | The Rise and Potential of Large Language Model Based Agents: A Survey | arXiv |  | 复旦NLP | <a href="https://arxiv.org/abs/2309.07864">Link</a> | 大模型Agent综述 |
 | 14 | A Survey of Reasoning with Foundation Models | arXiv |  | 港大、华为Nuah等 | <a href="https://arxiv.org/abs/2312.11562">Link</a> | 大模型推理综述（<a href="https://mp.weixin.qq.com/s/HK29hRpMiblDntA6MB72Pw">中文推荐</a>） |
 | 15 | A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models | arXiv |  | UCLA | <a href="https://arxiv.org/abs/2401.07187">Link</a> | 深度学习统计理论综述（<a href="https://mp.weixin.qq.com/s/8gl3bcRkysJrW2ds14W0iA">中文推荐</a>） |
-| 16 |  | arXiv |  |  | <a href="">Link</a> |  |
+| 16 | Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling | arXiv |  | Eleuther AI、耶鲁 | <a href="https://arxiv.org/abs/2304.01373">Link</a> | 大模型训练手册（<a href="https://mp.weixin.qq.com/s/uLIzc2fRUY4T232tqHyo5Q">中文推荐</a>） |
 | 17 | TrustLLM: Trustworthiness in Large Language Models | arXiv |  |  | <a href="https://arxiv.org/abs/2401.05561">Link</a> | 可信任性综述 |
 
 ### 技术类
