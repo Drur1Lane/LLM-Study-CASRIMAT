@@ -323,6 +323,7 @@ A resource-set about LLM for CASRIMAT.
 | 29 | 麦哲智界 | **大模型如何改变金融行业** | <a href="https://mp.weixin.qq.com/s/2XIWJfek6y6t8cQ2bHs9cg">Link</a> |  |
 | 30 | 腾讯研究院 | AI Agent，为什么是AIGC最后的杀手锏？ | <a href="https://mp.weixin.qq.com/s/DA3oNdu88LtM-BlqzGM03g">Link</a> | AI Agent简介 |
 | 31 | 包包算法笔记 | 大模型微调数据选择和构造技巧 | <a href="https://mp.weixin.qq.com/s/Sf2erEthOZQ3IFMfHMdHKQ">Link</a> | **数据的多样性、不确定性** |
+| 32 | AI洞察笔记 | 一文汇总大语言模型LLM所有prompt提示词框架的论文出处 | <a href="https://mp.weixin.qq.com/s/6l1UBJ8xYhDV2ewQAQOZgw">Link</a> | **Reasoning论文汇总与arXiv两个技巧** |
 
 
 ## 个人博客/团队账号
