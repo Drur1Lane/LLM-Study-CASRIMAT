@@ -63,7 +63,7 @@ A resource-set about LLM for CASRIMAT.
 | 9 |  | arXiv | 同济 & 上海AI实验室 | <a href="https://arxiv.org/abs/2309.10654">Link</a> | 金融大模型CFGPT |
 | 10 |  | arXiv | 复旦大学 | <a href="https://arxiv.org/abs/2310.15205">Link</a> | 金融资讯大模型DISC-FinLLM |
 | 11 |  | arXiv | 武汉大学、中山大学等 | <a href="https://arxiv.org/abs/2306.05443">Link</a> | 金融大模型PIXIU |
-| 12 |  | arXiv | 阿里巴巴、弗吉尼亚大学 | <a href="http://arxiv.org/abs/2310.17784">Link</a> | 金融大模型FLLM |
+| 12 | Data-Centric Financial Large Language Models | arXiv | 阿里巴巴、弗吉尼亚大学 | <a href="http://arxiv.org/abs/2310.17784">Link</a> | 金融大模型FLLM |
 | 13 |  | arXiv | 复旦等 | <a href="http://arxiv.org/abs/2302.09432">Link</a> | 金融大模型Fin-T5 |
 | 14 |  | arXiv |  | <a href="">Link</a> |  |
 
