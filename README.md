@@ -25,7 +25,7 @@ A resource-set about LLM for CASRIMAT.
 | 9 | Large Language Models on Graphs: A Comprehensive Survey | arXiv |  | 伊利诺伊大学厄巴纳香槟分校 | <a href="https://arxiv.org/abs/2312.02783">Link</a> | 图与LLM综述 |
 | 10 | Data Management For Large Language Models: A Survey | arXiv |  | 北大 | <a href="https://arxiv.org/abs/2312.01700">Link</a> | LLM数据管理综述 |
 | 11 | Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents | arXiv |  |  | <a href="https://arxiv.org/abs/2311.11797">Link</a> | 思维链与AI Agent综述 |
-| 12 | Efficient Large Language Models: A Survey | arXiv |  |  | <a href="https://arxiv.org/abs/2312.03863">Link</a> | 提高LLMs的计算效率和资源利用效率综述 |
+| 12 | Efficient Large Language Models: A Survey | arXiv |  |  | <a href="https://arxiv.org/abs/2312.03863">Link</a> | 提高LLMs的计算效率和资源利用效率综述（<a href="https://mp.weixin.qq.com/s/_CS5qcCO_86AMoj0GnmmUw">中文推荐</a>） |
 | 13 | The Rise and Potential of Large Language Model Based Agents: A Survey | arXiv |  | 复旦NLP | <a href="https://arxiv.org/abs/2309.07864">Link</a> | 大模型Agent综述 |
 | 14 | A Survey of Reasoning with Foundation Models | arXiv |  | 港大、华为Nuah等 | <a href="https://arxiv.org/abs/2312.11562">Link</a> | 大模型推理综述（<a href="https://mp.weixin.qq.com/s/HK29hRpMiblDntA6MB72Pw">中文推荐</a>） |
 | 15 |  | arXiv |  |  | <a href="">Link</a> |  |
