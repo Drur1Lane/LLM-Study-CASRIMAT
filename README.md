@@ -239,7 +239,7 @@ A resource-set about LLM for CASRIMAT.
 | 26 | **面向开发者的LLM入门课程** | <a href="https://github.com/datawhalechina/prompt-engineering-for-developers?tab=readme-ov-file">Link</a> | **吴恩达LLM课程中文版** |
 | 27 | **Top-conference-paper-list** | <a href="https://github.com/RUCAIBox/Top-conference-paper-list?tab=readme-ov-file">Link</a> | **RUC AI BOX大模型论文100篇推荐** |
 | 28 | **OpenCompass** | <a href="https://github.com/open-compass/OpenCompass/">Link</a> | **上海AI实验室LLM排名** |
-| 29 |  | <a href="">Link</a> |  |
+| 29 | **Open LLM LeaderBoard** | <a href="https://huggingface.co/open-llm-leaderboard">Link</a> |  |
 
 ## B站
 |序号|UP主|名称|链接|备注|
