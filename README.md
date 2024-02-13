@@ -25,11 +25,11 @@ A resource-set about LLM for CASRIMAT.
 | 10 | Data Management For Large Language Models: A Survey | arXiv |  | 北大 | <a href="https://arxiv.org/abs/2312.01700">Link</a> | LLM数据管理综述 |
 | 11 | Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents | arXiv |  |  | <a href="https://arxiv.org/abs/2311.11797">Link</a> | 思维链与AI Agent综述 |
 | 12 | Efficient Large Language Models: A Survey | arXiv |  |  | <a href="https://arxiv.org/abs/2312.03863">Link</a> | 提高LLMs的计算效率和资源利用效率综述 |
-| 13 |  | arXiv |  |  | <a href="https://arxiv.org/abs/2401.05561">Link</a> |  |
-| 14 |  | arXiv |  |  | <a href="">Link</a> |  |
+| 13 |  | arXiv |  |  | <a href="">Link</a> |  |
+| 14 | A Survey of Reasoning with Foundation Models | arXiv |  | 港大、华为Nuah等 | <a href="https://arxiv.org/abs/2312.11562">Link</a> | 大模型推理综述 |
 | 15 |  | arXiv |  |  | <a href="">Link</a> |  |
 | 16 |  | arXiv |  |  | <a href="">Link</a> |  |
-| 17 | TrustLLM: Trustworthiness in Large Language Models | arXiv |  |  | <a href="">Link</a> | 可信任性综述 |
+| 17 | TrustLLM: Trustworthiness in Large Language Models | arXiv |  |  | <a href="https://arxiv.org/abs/2401.05561">Link</a> | 可信任性综述 |
 
 ### 技术类
 |序号|题目|期刊|作者|机构|网址|简介|
