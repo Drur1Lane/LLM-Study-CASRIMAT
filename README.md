@@ -144,6 +144,8 @@ A resource-set about LLM for CASRIMAT.
 | 1 | GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond | avXiv |  |  | <a href="https://arxiv.org/abs/2309.16583">Link</a> | OpenAI进化之路与大模型能力来源探析（<a href="https://mp.weixin.qq.com/s/-AWkDzAzoyQNmgYXuC6B4w">中文解读</a>） |
 | 2 | Can large language models provide useful feedback on research papers? A large-scale empirical analysis | avXiv |  | 斯坦福 | <a href="https://arxiv.org/abs/2310.01783">Link</a> | 大模型与审稿（<a href="https://mp.weixin.qq.com/s/9-F6cC9nB5kPO9rBBVmBuw">中文解读</a>） |
 | 3 | When ChatGPT is gone: Creativity reverts and homogeneity persists | avXiv |  | 北京大学 | <a href="https://arxiv.org/abs/2401.06816">Link</a> | 大模型对长期创新能力的抑制（<a href="https://mp.weixin.qq.com/s/uQAubTdgaPmhbQbC6dhMUg">中文解读</a>） |
+| 4 | Resolving the Imbalance Issue in Hierarchical Disciplinary Topic Inference via LLM-based Data Augmentation | avXiv |  |  | <a href="https://arxiv.org/abs/2310.05318">Link</a> | 样本不均衡问题（<a href="https://mp.weixin.qq.com/s/1Y9gPKl2iFLBAUQ3lsjXHQ">中文解读</a>） |
+| 5 | Segmented Harmonic Loss: Handling Class-Imbalanced Multi-Label Clinical Data for Medical Coding with Large Language Models | avXiv |  |  | <a href="https://arxiv.org/abs/2310.04595">Link</a> | 样本不均衡问题（<a href="https://mp.weixin.qq.com/s/1Y9gPKl2iFLBAUQ3lsjXHQ">中文解读</a>） |
 
 
 ## GitHub / Hugging Face
