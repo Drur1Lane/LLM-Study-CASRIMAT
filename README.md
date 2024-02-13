@@ -128,12 +128,13 @@ A resource-set about LLM for CASRIMAT.
 |序号|题目|期刊|作者|机构|网址|简介|
 |-|-|-|-|-|-|-|
 | 1 | **Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine** | avXiv |  | 微软 | <a href="https://arxiv.org/abs/2311.16452">Link</a> | **医学领域使用GPT-4的prompt工程** |
+| 2 | 
 
 ### 大模型与主题模型
 |序号|题目|期刊|作者|机构|网址|简介|
 |-|-|-|-|-|-|-|
 | 1 | **TopicGPT: A Prompt-based Topic Modeling Framework** | avXiv |  |  | <a href="https://arxiv.org/abs/2311.01449">Link</a> | **<a href="https://mp.weixin.qq.com/s/vpnTiA5t3xis49NpZRNgpA">中文概述</a>** |
-| 2 | **Prompting Large Language Models for Topic Modeling** | avXiv |  |  | <a href="https://arxiv.org/abs/2312.09693">Link</a> | **<a href="https://mp.weixin.qq.com/s/sbo9FmGgfyjy9QVbVeHn0Q">中文概述</a>** |
+| 2 | Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4 | avXiv |  |  | <a href="https://arxiv.org/abs/2312.16171">Link</a> |  |
 
 ### Other
 |序号|题目|期刊|作者|机构|网址|简介|
