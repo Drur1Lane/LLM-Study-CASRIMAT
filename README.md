@@ -361,7 +361,7 @@ A resource-set about LLM for CASRIMAT.
 | 3 | 徐明老师 | **NLP大模型微调答疑** | <a href="https://blog.csdn.net/mingzai624/article/details/130735366?spm=1001.2014.3001.5502">Link</a> |  |
 | 4 | Microsoft | State of GPT | <a href="https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2">Link</a> |  |
 | 5 |  | **promptGuide** | <a href="https://www.promptingguide.ai/">Link</a> | **全面介绍提示工程的网站** |
-| 6 | Medium |  | <a href="https://cobusgreyling.medium.com/12-prompt-engineering-techniques-644481c857aa">Link</a> | 12种提示方式的介绍（<a href="https://mp.weixin.qq.com/s/1qVhcCRmlYvGZcOe3W3r1Q">中文版</a>） |
+| 6 | Medium | 12 Prompt Engineering Techniques | <a href="https://cobusgreyling.medium.com/12-prompt-engineering-techniques-644481c857aa">Link</a> | 12种提示方式的介绍（<a href="https://mp.weixin.qq.com/s/1qVhcCRmlYvGZcOe3W3r1Q">中文版</a>） |
 | 7 |  | 一文看懂学习率Learning Rate，从入门到CLR | <a href="https://blog.csdn.net/u012526436/article/details/90486021">Link</a> |  |
 | 8 | Oldpan个人博客 | **关于训练神经网路的诸多技巧Tricks(完全总结版)** | <a href="https://oldpan.me/archives/how-to-use-tricks-to-train-network">Link</a> |  |
 | 9 | **OpenAI** | **Prompt Engineering官方文档** | <a href="https://platform.openai.com/docs/guides/prompt-engineering">Link</a> | <a href="https://mp.weixin.qq.com/s/jOU2qT5o88tuZC1p6vLkJw">中文简介</a> |
