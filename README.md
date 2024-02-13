@@ -287,6 +287,7 @@ A resource-set about LLM for CASRIMAT.
 | 31 |  | Greedy Decoding、Beam Search、Top-k、Top-n | <a href="https://zhuanlan.zhihu.com/p/644184931">Link</a> |  |
 | 32 |  | **Nlp句子分类，句子长度差异特别大，200-5000，200-上万，有什么办法处理或者什么模型可用吗？** | <a href="https://www.zhihu.com/question/421735170">Link</a> |  |
 | 33 | **文因互联** | **文因互联首席科学家宋劼：大模型+金融：将场景革命进行到底** | <a href="https://zhuanlan.zhihu.com/p/670520666">Link</a> | **值得关注首席科学家：宋劼（<a href="https://blog.csdn.net/csdnnews/article/details/130006506">其他信息</a>）** |
+| 34 | 快乐子涵酱 | **LLM微调经验&认知-2** | <a href="https://zhuanlan.zhihu.com/p/676723672">Link</a> |  |
 
 
 ## 微信
