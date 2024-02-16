@@ -31,6 +31,7 @@ A resource-set about LLM for CASRIMAT.
 | 15 | A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models | arXiv |  | UCLA | <a href="https://arxiv.org/abs/2401.07187">Link</a> | 深度学习统计理论综述（<a href="https://mp.weixin.qq.com/s/8gl3bcRkysJrW2ds14W0iA">中文推荐</a>） |
 | 16 | Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling | arXiv |  | Eleuther AI、耶鲁 | <a href="https://arxiv.org/abs/2304.01373">Link</a> | 大模型训练手册（<a href="https://mp.weixin.qq.com/s/uLIzc2fRUY4T232tqHyo5Q">中文推荐</a>） |
 | 17 | TrustLLM: Trustworthiness in Large Language Models | arXiv |  |  | <a href="https://arxiv.org/abs/2401.05561">Link</a> | 可信任性综述 |
+| 18 | **A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications** | arXiv |  | 印度理工学院、斯坦福、Amazon | <a href="https://arxiv.org/abs/2402.07927">Link</a> | **Prompt Engineering综述（<a href="https://mp.weixin.qq.com/s/va1Ua3koedNWKkln4v6Vvg">中文推荐</a>）** |
 
 ### 技术类
 |序号|题目|期刊|作者|机构|网址|简介|
