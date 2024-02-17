@@ -12,8 +12,8 @@ A resource-set about LLM for CASRIMAT.
 | 4 | **Generative AI for Economic Research: Use Cases and Implications for Economists** | **Journal of Economic Literature（ABS 4）** |  | <a href="https://www.dropbox.com/scl/fi/kk6duothtufsa8dhs3yat/LLMs_final.pdf?rlkey=bfadp97ej13ruceggecfeeiyi&dl=0">Link</a> | LLM如何应用于经济学研究 |
 
 ### 综述类
-|序号|题目|期刊|作者|机构|网址|简介|
-|-|-|-|-|-|-|-|
+|序号|题目|期刊|机构|网址|简介|
+|-|-|-|-|-|-|
 | 1 | **Large Language Models: A Survey** | arXiv | 人大 | <a href="https://github.com/RUCAIBox/LLMSurvey">Link</a> | **LLM综述** |
 | 2 | Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond | arXiv | Amazon & 德州农工大学 & 莱斯大学 | <a href="https://github.com/Mooler0410/LLMsPracticalGuide">Link</a> | LLM综述 |
 | 3 | **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** | arXiv | 哈工大 | <a href="https://arxiv.org/abs/2309.15402">Link</a> | **思维链综述** |
