@@ -69,84 +69,84 @@ A resource-set about LLM for CASRIMAT.
 | 14 |  | arXiv |  | <a href="">Link</a> |  |
 
 ### 数据集构建
-|序号|题目|期刊|作者|机构|网址|简介|
-|-|-|-|-|-|-|-|
-| 1 |  | arXiv |  |  | <a href="https://arxiv.org/abs/2306.14096">Link</a> | 中文金融情感分析数据集 |
-| 2 |  | arXiv |  | 哈工深 | <a href="https://arxiv.org/abs/2308.01415">Link</a> | 金融指令调优数据集 |
-| 3 |  | arXiv |  |  | <a href="http://arxiv.org/abs/2210.03849">Link</a> | ConvFinQA |
-| 4 |  | arXiv |  |  | <a href="">Link</a> |  |
+|序号|题目|期刊|机构|网址|简介|
+|-|-|-|-|-|-|
+| 1 |  | arXiv |  | <a href="https://arxiv.org/abs/2306.14096">Link</a> | 中文金融情感分析数据集 |
+| 2 |  | arXiv | 哈工深 | <a href="https://arxiv.org/abs/2308.01415">Link</a> | 金融指令调优数据集 |
+| 3 |  | arXiv |  | <a href="http://arxiv.org/abs/2210.03849">Link</a> | ConvFinQA |
+| 4 |  | arXiv |  | <a href="">Link</a> |  |
 
 ### 思维链与大模型推理
-|序号|题目|期刊|作者|机构|网址|简介|
-|-|-|-|-|-|-|-|
-| 1 | **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** | avXiv |  |  | <a href="https://arxiv.org/abs/2201.11903">Link</a> | CoT开山之作 |
-| 2 | **Large Language Models are Zero-Shot Reasoners** | avXiv |  |  | <a href="http://arxiv.org/abs/2205.11916">Link</a> | Zero-shot-CoT |
-| 3 | **Self-Consistency Improves Chain of Thought Reasoning in Language Models** | avXiv |  |  | <a href="https://arxiv.org/abs/2203.11171">Link</a> | CoT的早期发展：自洽性 |
-| 4 | **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models** | avXiv |  |  | <a href="https://arxiv.org/abs/2205.10625">Link</a> | CoT的又一发展（复杂任务分解） |
-| 5 | **Large Language Models Are Reasoning Teachers** | avXiv |  |  | <a href="http://arxiv.org/abs/2212.10071">Link</a> | 利用大模型的CoT能力帮助小模型进行推理 |
-| 6 | **Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step** | avXiv |  |  | <a href="https://arxiv.org/abs/2306.14050">Link</a> | 利用大模型的CoT能力帮助小模型进行推理2号 |
-| 7 | **Large Language Models Can Self-Improve** | avXiv |  |  | <a href="https://arxiv.org/abs/2210.11610">Link</a> | 自我改进 |
-| 8 | Self-Refine: Iterative Refinement with Self-Feedback | avXiv |  |  | <a href="https://arxiv.org/abs/2303.17651">Link</a> | 自我反思 |
-| 9 | Reflexion: Language Agents with Verbal Reinforcement Learning | avXiv |  |  | <a href="https://arxiv.org/abs/2303.11366">Link</a> | 自我反思2 |
-| 10 | **Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes** | avXiv |  |  | <a href="https://arxiv.org/abs/2305.02301">Link</a> | 服了，怎么跟我这个RAL这么类似 |
-| 11 | **Self-explaining AI as an alternative to interpretable AI** | avXiv |  |  | <a href="https://arxiv.org/abs/2002.05149">Link</a> | 自我解释 |
-| 12 | **Beyond Classification: Financial Reasoning in State-of-the-Art Language Models** | avXiv |  |  | <a href="https://arxiv.org/abs/2305.01505">Link</a> | 金融推理问题数据集构建 |
-| 13 | Cumulative Reasoning with Large Language Models | avXiv |  |  | <a href="http://arxiv.org/abs/2308.04371">Link</a> | 姚期智首篇LLM |
-| 14 | **Learning From Mistakes Makes LLM Better Reasoner** | avXiv |  |  | <a href="https://arxiv.org/abs/2310.20689">Link</a> | 让大模型在错题中学习 |
-| 15 | Specializing Smaller Language Models towards Multi-Step Reasoning | avXiv |  |  | <a href="http://arxiv.org/abs/2301.12726">Link</a> |  |
-| 16 | Self-Discover: Large Language Models Self-Compose Reasoning Structures | avXiv |  | 南加州大学、谷歌DeepMind | <a href="https://arxiv.org/abs/2402.03620">Link</a> | **让大模型针对不同问题，提出特定的推理结构（<a href="https://mp.weixin.qq.com/s/HUW8MX2GhsdE3qFBvb1-Hg">中文解读</a>）** |
-| 17 | The Impact of Reasoning Step Length on Large Language Models | arXiv |  |  | <a href="https://arxiv.org/abs/2401.04925">Link</a> | 推理步骤对大模型能力的影响（<a href="https://mp.weixin.qq.com/s/UgglOk-u6Qv3IrY6aWcarQ">中文解读</a>） |
+|序号|题目|期刊|机构|网址|简介|
+|-|-|-|-|-|-|
+| 1 | **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** | avXiv |  | <a href="https://arxiv.org/abs/2201.11903">Link</a> | CoT开山之作 |
+| 2 | **Large Language Models are Zero-Shot Reasoners** | avXiv |  | <a href="http://arxiv.org/abs/2205.11916">Link</a> | Zero-shot-CoT |
+| 3 | **Self-Consistency Improves Chain of Thought Reasoning in Language Models** | avXiv |  | <a href="https://arxiv.org/abs/2203.11171">Link</a> | CoT的早期发展：自洽性 |
+| 4 | **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models** | avXiv |  | <a href="https://arxiv.org/abs/2205.10625">Link</a> | CoT的又一发展（复杂任务分解） |
+| 5 | **Large Language Models Are Reasoning Teachers** | avXiv |  | <a href="http://arxiv.org/abs/2212.10071">Link</a> | 利用大模型的CoT能力帮助小模型进行推理 |
+| 6 | **Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step** | avXiv |  | <a href="https://arxiv.org/abs/2306.14050">Link</a> | 利用大模型的CoT能力帮助小模型进行推理2号 |
+| 7 | **Large Language Models Can Self-Improve** | avXiv |  | <a href="https://arxiv.org/abs/2210.11610">Link</a> | 自我改进 |
+| 8 | Self-Refine: Iterative Refinement with Self-Feedback | avXiv |  | <a href="https://arxiv.org/abs/2303.17651">Link</a> | 自我反思 |
+| 9 | Reflexion: Language Agents with Verbal Reinforcement Learning | avXiv |  | <a href="https://arxiv.org/abs/2303.11366">Link</a> | 自我反思2 |
+| 10 | **Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes** | avXiv |  | <a href="https://arxiv.org/abs/2305.02301">Link</a> | 服了，怎么跟我这个RAL这么类似 |
+| 11 | **Self-explaining AI as an alternative to interpretable AI** | avXiv |  | <a href="https://arxiv.org/abs/2002.05149">Link</a> | 自我解释 |
+| 12 | **Beyond Classification: Financial Reasoning in State-of-the-Art Language Models** | avXiv |  | <a href="https://arxiv.org/abs/2305.01505">Link</a> | 金融推理问题数据集构建 |
+| 13 | Cumulative Reasoning with Large Language Models | avXiv |  | <a href="http://arxiv.org/abs/2308.04371">Link</a> | 姚期智首篇LLM |
+| 14 | **Learning From Mistakes Makes LLM Better Reasoner** | avXiv |  | <a href="https://arxiv.org/abs/2310.20689">Link</a> | 让大模型在错题中学习 |
+| 15 | Specializing Smaller Language Models towards Multi-Step Reasoning | avXiv |  | <a href="http://arxiv.org/abs/2301.12726">Link</a> |  |
+| 16 | Self-Discover: Large Language Models Self-Compose Reasoning Structures | avXiv | 南加州大学、谷歌DeepMind | <a href="https://arxiv.org/abs/2402.03620">Link</a> | **让大模型针对不同问题，提出特定的推理结构（<a href="https://mp.weixin.qq.com/s/HUW8MX2GhsdE3qFBvb1-Hg">中文解读</a>）** |
+| 17 | The Impact of Reasoning Step Length on Large Language Models | arXiv |  | <a href="https://arxiv.org/abs/2401.04925">Link</a> | 推理步骤对大模型能力的影响（<a href="https://mp.weixin.qq.com/s/UgglOk-u6Qv3IrY6aWcarQ">中文解读</a>） |
 
 ### 大模型与表格数据
-|序号|题目|期刊|作者|机构|网址|简介|
-|-|-|-|-|-|-|-|
-| 1 | Table-GPT: Table-tuned GPT for Diverse Table Tasks | arXiv |  | 微软 | <a href="https://arxiv.org/abs/2310.09263">Link</a> |  |
-| 2 | Trompt: Towards a Better Deep Neural Network for Tabular Data | arXiv |  | 国立成功大学 | <a href="http://arxiv.org/abs/2305.18446">Link</a> |  |
-| 3 |  | avXiv |  |  | <a href="">Link</a> |  |
+|序号|题目|期刊|机构|网址|简介|
+|-|-|-|-|-|-|
+| 1 | Table-GPT: Table-tuned GPT for Diverse Table Tasks | arXiv | 微软 | <a href="https://arxiv.org/abs/2310.09263">Link</a> |  |
+| 2 | Trompt: Towards a Better Deep Neural Network for Tabular Data | arXiv | 国立成功大学 | <a href="http://arxiv.org/abs/2305.18446">Link</a> |  |
+| 3 |  | avXiv |  | <a href="">Link</a> |  |
 
 ### 大模型与图
-|序号|题目|期刊|作者|机构|网址|简介|
-|-|-|-|-|-|-|-|
-| 1 | Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph | arXiv |  |  | <a href="https://arxiv.org/abs/2307.07697">Link</a> | 大模型与知识图谱 |
-| 2 |  | avXiv |  |  | <a href="">Link</a> |  |
+|序号|题目|期刊|机构|网址|简介|
+|-|-|-|-|-|-|
+| 1 | Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph | arXiv |  | <a href="https://arxiv.org/abs/2307.07697">Link</a> | 大模型与知识图谱 |
+| 2 |  | avXiv |  | <a href="">Link</a> |  |
 
 ### AI Agents
-|序号|题目|期刊|作者|机构|网址|简介|
-|-|-|-|-|-|-|-|
-| 1 | Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus? | avXiv |  |  | <a href="http://arxiv.org/abs/2301.07543">Link</a> | ABM，模拟人类行为 |
-| 2 | War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars | avXiv |  |  | <a href="https://arxiv.org/abs/2311.17227">Link</a> | 基于LLM的企业风险传染？基于大语言模型的多智能体仿真世界大战 |
-| 3 | **Large Language Models Empowered Agent-basedModeling and Simulation: A Survey and Perspectives** | avXiv |  | 清华 | <a href="https://arxiv.org/abs/2312.11970">Link</a> | 对ABM和LLM的综述 |
-| 4 | Generative Agents: Interactive Simulacra of Human Behavior | avXiv |  |  | <a href="https://arxiv.org/abs/2304.03442">Link</a> | 让大模型玩模拟人生 |
-| 5 |  | avXiv |  |  | <a href="">Link</a> |  |
+|序号|题目|期刊|机构|网址|简介|
+|-|-|-|-|-|-|
+| 1 | Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus? | avXiv |  | <a href="http://arxiv.org/abs/2301.07543">Link</a> | ABM，模拟人类行为 |
+| 2 | War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars | avXiv |  | <a href="https://arxiv.org/abs/2311.17227">Link</a> | 基于LLM的企业风险传染？基于大语言模型的多智能体仿真世界大战 |
+| 3 | **Large Language Models Empowered Agent-basedModeling and Simulation: A Survey and Perspectives** | avXiv | 清华 | <a href="https://arxiv.org/abs/2312.11970">Link</a> | 对ABM和LLM的综述 |
+| 4 | Generative Agents: Interactive Simulacra of Human Behavior | avXiv |  | <a href="https://arxiv.org/abs/2304.03442">Link</a> | 让大模型玩模拟人生 |
+| 5 |  | avXiv |  | <a href="">Link</a> |  |
 
 ### 技术报告
-|序号|题目|期刊|作者|机构|网址|简介|
-|-|-|-|-|-|-|-|
-| 1 |  |  |  | 谷歌 | <a href="https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf">Link</a> | Gemini |
-| 2 |  |  |  | 微软 | <a href="https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/">Link</a> | Phi2 |
-| 3 |  |  |  |  | <a href="https://mistral.ai/news/mixtral-of-experts/">Link</a> | Mixtral 8*7B |
-| 4 |  |  |  |  | <a href="">Link</a> |  |
+|序号|题目|期刊|机构|网址|简介|
+|-|-|-|-|-|-|
+| 1 |  |  | 谷歌 | <a href="https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf">Link</a> | Gemini |
+| 2 |  |  | 微软 | <a href="https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/">Link</a> | Phi2 |
+| 3 |  |  |  | <a href="https://mistral.ai/news/mixtral-of-experts/">Link</a> | Mixtral 8*7B |
+| 4 |  |  |  | <a href="">Link</a> |  |
 
 ### Prompting Engineering
-|序号|题目|期刊|作者|机构|网址|简介|
-|-|-|-|-|-|-|-|
-| 1 | **Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine** | avXiv |  | 微软 | <a href="https://arxiv.org/abs/2311.16452">Link</a> | **医学领域使用GPT-4的prompt工程** |
-| 2 | Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4 | avXiv |  |  | <a href="https://arxiv.org/abs/2312.16171">Link</a> |  |
+|序号|题目|期刊|机构|网址|简介|
+|-|-|-|-|-|-|
+| 1 | **Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine** | avXiv | 微软 | <a href="https://arxiv.org/abs/2311.16452">Link</a> | **医学领域使用GPT-4的prompt工程** |
+| 2 | Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4 | avXiv |  | <a href="https://arxiv.org/abs/2312.16171">Link</a> |  |
 
 ### 大模型与主题模型
-|序号|题目|期刊|作者|机构|网址|简介|
-|-|-|-|-|-|-|-|
-| 1 | **TopicGPT: A Prompt-based Topic Modeling Framework** | avXiv |  |  | <a href="https://arxiv.org/abs/2311.01449">Link</a> | **<a href="https://mp.weixin.qq.com/s/vpnTiA5t3xis49NpZRNgpA">中文概述</a>** |
-| 2 | **Prompting Large Language Models for Topic Modeling** | avXiv |  |  | <a href="http://arxiv.org/abs/2312.09693">Link</a> | **<a href="https://mp.weixin.qq.com/s/sbo9FmGgfyjy9QVbVeHn0Q">中文概述</a>** |
+|序号|题目|期刊|机构|网址|简介|
+|-|-|-|-|-|-|
+| 1 | **TopicGPT: A Prompt-based Topic Modeling Framework** | avXiv |  | <a href="https://arxiv.org/abs/2311.01449">Link</a> | **<a href="https://mp.weixin.qq.com/s/vpnTiA5t3xis49NpZRNgpA">中文概述</a>** |
+| 2 | **Prompting Large Language Models for Topic Modeling** | avXiv |  | <a href="http://arxiv.org/abs/2312.09693">Link</a> | **<a href="https://mp.weixin.qq.com/s/sbo9FmGgfyjy9QVbVeHn0Q">中文概述</a>** |
 
 ### Other
-|序号|题目|期刊|作者|机构|网址|简介|
-|-|-|-|-|-|-|-|
-| 1 | GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond | avXiv |  |  | <a href="https://arxiv.org/abs/2309.16583">Link</a> | OpenAI进化之路与大模型能力来源探析（<a href="https://mp.weixin.qq.com/s/-AWkDzAzoyQNmgYXuC6B4w">中文解读</a>） |
-| 2 | Can large language models provide useful feedback on research papers? A large-scale empirical analysis | avXiv |  | 斯坦福 | <a href="https://arxiv.org/abs/2310.01783">Link</a> | 大模型与审稿（<a href="https://mp.weixin.qq.com/s/9-F6cC9nB5kPO9rBBVmBuw">中文解读</a>） |
-| 3 | When ChatGPT is gone: Creativity reverts and homogeneity persists | avXiv |  | 北京大学 | <a href="https://arxiv.org/abs/2401.06816">Link</a> | 大模型对长期创新能力的抑制（<a href="https://mp.weixin.qq.com/s/uQAubTdgaPmhbQbC6dhMUg">中文解读</a>） |
-| 4 | Resolving the Imbalance Issue in Hierarchical Disciplinary Topic Inference via LLM-based Data Augmentation | avXiv |  |  | <a href="https://arxiv.org/abs/2310.05318">Link</a> | 样本不均衡问题（<a href="https://mp.weixin.qq.com/s/1Y9gPKl2iFLBAUQ3lsjXHQ">中文解读</a>） |
-| 5 | Segmented Harmonic Loss: Handling Class-Imbalanced Multi-Label Clinical Data for Medical Coding with Large Language Models | avXiv |  |  | <a href="https://arxiv.org/abs/2310.04595">Link</a> | 样本不均衡问题（<a href="https://mp.weixin.qq.com/s/1Y9gPKl2iFLBAUQ3lsjXHQ">中文解读</a>） |
+|序号|题目|期刊|机构|网址|简介|
+|-|-|-|-|-|-|
+| 1 | GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond | avXiv |  | <a href="https://arxiv.org/abs/2309.16583">Link</a> | OpenAI进化之路与大模型能力来源探析（<a href="https://mp.weixin.qq.com/s/-AWkDzAzoyQNmgYXuC6B4w">中文解读</a>） |
+| 2 | Can large language models provide useful feedback on research papers? A large-scale empirical analysis | avXiv | 斯坦福 | <a href="https://arxiv.org/abs/2310.01783">Link</a> | 大模型与审稿（<a href="https://mp.weixin.qq.com/s/9-F6cC9nB5kPO9rBBVmBuw">中文解读</a>） |
+| 3 | When ChatGPT is gone: Creativity reverts and homogeneity persists | avXiv | 北京大学 | <a href="https://arxiv.org/abs/2401.06816">Link</a> | 大模型对长期创新能力的抑制（<a href="https://mp.weixin.qq.com/s/uQAubTdgaPmhbQbC6dhMUg">中文解读</a>） |
+| 4 | Resolving the Imbalance Issue in Hierarchical Disciplinary Topic Inference via LLM-based Data Augmentation | avXiv |  | <a href="https://arxiv.org/abs/2310.05318">Link</a> | 样本不均衡问题（<a href="https://mp.weixin.qq.com/s/1Y9gPKl2iFLBAUQ3lsjXHQ">中文解读</a>） |
+| 5 | Segmented Harmonic Loss: Handling Class-Imbalanced Multi-Label Clinical Data for Medical Coding with Large Language Models | avXiv |  | <a href="https://arxiv.org/abs/2310.04595">Link</a> | 样本不均衡问题（<a href="https://mp.weixin.qq.com/s/1Y9gPKl2iFLBAUQ3lsjXHQ">中文解读</a>） |
 
 
 ## GitHub / Hugging Face
