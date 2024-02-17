@@ -4,51 +4,51 @@ A resource-set about LLM for CASRIMAT.
 
 ## 论文
 ### 发表在顶刊or会计、金融领域期刊上的
-|序号|题目|期刊|作者|机构|网址|简介|
-|-|-|-|-|-|-|-|
-| 1 | **FinBERT: A Large Language Model for Extracting Information from Financial Text** | **Contemporary Accounting Research（ABS 4）** |  |  | <a href="https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832">Link</a> | 英文语料库上预训练的BERT |
-| 2 | GPT has become financially literate: Insights from financial literacy tests of GPT and a preliminary test of how people use it as a source of advice | Financial Research Letters（ABS 2） |  |  | <a href="https://www.sciencedirect.com/science/article/pii/S1544612323007055">Link</a> |  |
-| 3 | ChatGPT for (Finance) research: The Bananarama Conjecture | Financial Research Letters（ABS 2） |  |  | <a href="https://www.sciencedirect.com/science/article/pii/S1544612323000363">Link</a> |  |
-| 4 | **Generative AI for Economic Research: Use Cases and Implications for Economists** | **Journal of Economic Literature（ABS 4）** |  |  | <a href="https://www.dropbox.com/scl/fi/kk6duothtufsa8dhs3yat/LLMs_final.pdf?rlkey=bfadp97ej13ruceggecfeeiyi&dl=0">Link</a> | LLM如何应用于经济学研究 |
+|序号|题目|期刊|机构|网址|简介|
+|-|-|-|-|-|-|
+| 1 | **FinBERT: A Large Language Model for Extracting Information from Financial Text** | **Contemporary Accounting Research（ABS 4）** |  | <a href="https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832">Link</a> | 英文语料库上预训练的BERT |
+| 2 | GPT has become financially literate: Insights from financial literacy tests of GPT and a preliminary test of how people use it as a source of advice | Financial Research Letters（ABS 2） |  | <a href="https://www.sciencedirect.com/science/article/pii/S1544612323007055">Link</a> |  |
+| 3 | ChatGPT for (Finance) research: The Bananarama Conjecture | Financial Research Letters（ABS 2） |  | <a href="https://www.sciencedirect.com/science/article/pii/S1544612323000363">Link</a> |  |
+| 4 | **Generative AI for Economic Research: Use Cases and Implications for Economists** | **Journal of Economic Literature（ABS 4）** |  | <a href="https://www.dropbox.com/scl/fi/kk6duothtufsa8dhs3yat/LLMs_final.pdf?rlkey=bfadp97ej13ruceggecfeeiyi&dl=0">Link</a> | LLM如何应用于经济学研究 |
 
 ### 综述类
 |序号|题目|期刊|作者|机构|网址|简介|
 |-|-|-|-|-|-|-|
-| 1 | **Large Language Models: A Survey** | arXiv |  | 人大 | <a href="https://github.com/RUCAIBox/LLMSurvey">Link</a> | **LLM综述** |
-| 2 | Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond | arXiv |  | Amazon & 德州农工大学 & 莱斯大学 | <a href="https://github.com/Mooler0410/LLMsPracticalGuide">Link</a> | LLM综述 |
-| 3 | **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** | arXiv |  | 哈工大 | <a href="https://arxiv.org/abs/2309.15402">Link</a> | **思维链综述** |
-| 4 | A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions | arXiv |  |  | <a href="https://arxiv.org/abs/2311.05232">Link</a> | 大模型幻觉综述 |
-| 5 | Evaluating Large Language Models: A Comprehensive Survey | arXiv |  | 天大 | <a href="https://arxiv.org/abs/2310.19736">Link</a> | 大模型评价方法综述 |
-| 6 | Challenges and Applications of Large Language Models | arXiv |  |  | <a href="https://arxiv.org/abs/2307.10169">Link</a> | 大模型的应用和挑战 |
-| 7 | **Explainability for Large Language Models: A Survey** | arXiv |  | 新泽西理工学院、约翰霍普金斯大学等 | <a href="https://arxiv.org/abs/2309.01029">Link</a> | **大模型可解释性综述** |
-| 8 | **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning** | arXiv |  |  | <a href="https://arxiv.org/abs/2303.10475">Link</a> | **Instruction Tuning综述** |
-| 9 | Large Language Models on Graphs: A Comprehensive Survey | arXiv |  | 伊利诺伊大学厄巴纳香槟分校 | <a href="https://arxiv.org/abs/2312.02783">Link</a> | 图与LLM综述 |
-| 10 | Data Management For Large Language Models: A Survey | arXiv |  | 北大 | <a href="https://arxiv.org/abs/2312.01700">Link</a> | LLM数据管理综述 |
-| 11 | Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents | arXiv |  |  | <a href="https://arxiv.org/abs/2311.11797">Link</a> | 思维链与AI Agent综述 |
-| 12 | Efficient Large Language Models: A Survey | arXiv |  |  | <a href="https://arxiv.org/abs/2312.03863">Link</a> | 提高LLMs的计算效率和资源利用效率综述（<a href="https://mp.weixin.qq.com/s/_CS5qcCO_86AMoj0GnmmUw">中文推荐</a>） |
-| 13 | The Rise and Potential of Large Language Model Based Agents: A Survey | arXiv |  | 复旦NLP | <a href="https://arxiv.org/abs/2309.07864">Link</a> | 大模型Agent综述 |
-| 14 | A Survey of Reasoning with Foundation Models | arXiv |  | 港大、华为Nuah等 | <a href="https://arxiv.org/abs/2312.11562">Link</a> | 大模型推理综述（<a href="https://mp.weixin.qq.com/s/HK29hRpMiblDntA6MB72Pw">中文推荐</a>） |
-| 15 | A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models | arXiv |  | UCLA | <a href="https://arxiv.org/abs/2401.07187">Link</a> | 深度学习统计理论综述（<a href="https://mp.weixin.qq.com/s/8gl3bcRkysJrW2ds14W0iA">中文推荐</a>） |
-| 16 | Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling | arXiv |  | Eleuther AI、耶鲁 | <a href="https://arxiv.org/abs/2304.01373">Link</a> | 大模型训练手册（<a href="https://mp.weixin.qq.com/s/uLIzc2fRUY4T232tqHyo5Q">中文推荐</a>） |
-| 17 | TrustLLM: Trustworthiness in Large Language Models | arXiv |  |  | <a href="https://arxiv.org/abs/2401.05561">Link</a> | 可信任性综述 |
-| 18 | **A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications** | arXiv |  | 印度理工学院、斯坦福、Amazon | <a href="https://arxiv.org/abs/2402.07927">Link</a> | **Prompt Engineering综述（<a href="https://mp.weixin.qq.com/s/va1Ua3koedNWKkln4v6Vvg">中文推荐</a>）** |
+| 1 | **Large Language Models: A Survey** | arXiv | 人大 | <a href="https://github.com/RUCAIBox/LLMSurvey">Link</a> | **LLM综述** |
+| 2 | Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond | arXiv | Amazon & 德州农工大学 & 莱斯大学 | <a href="https://github.com/Mooler0410/LLMsPracticalGuide">Link</a> | LLM综述 |
+| 3 | **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** | arXiv | 哈工大 | <a href="https://arxiv.org/abs/2309.15402">Link</a> | **思维链综述** |
+| 4 | A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions | arXiv |  | <a href="https://arxiv.org/abs/2311.05232">Link</a> | 大模型幻觉综述 |
+| 5 | Evaluating Large Language Models: A Comprehensive Survey | arXiv | 天大 | <a href="https://arxiv.org/abs/2310.19736">Link</a> | 大模型评价方法综述 |
+| 6 | Challenges and Applications of Large Language Models | arXiv |  | <a href="https://arxiv.org/abs/2307.10169">Link</a> | 大模型的应用和挑战 |
+| 7 | **Explainability for Large Language Models: A Survey** | arXiv | 新泽西理工学院、约翰霍普金斯大学等 | <a href="https://arxiv.org/abs/2309.01029">Link</a> | **大模型可解释性综述** |
+| 8 | **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning** | arXiv |  | <a href="https://arxiv.org/abs/2303.10475">Link</a> | **Instruction Tuning综述** |
+| 9 | Large Language Models on Graphs: A Comprehensive Survey | arXiv | 伊利诺伊大学厄巴纳香槟分校 | <a href="https://arxiv.org/abs/2312.02783">Link</a> | 图与LLM综述 |
+| 10 | Data Management For Large Language Models: A Survey | arXiv | 北大 | <a href="https://arxiv.org/abs/2312.01700">Link</a> | LLM数据管理综述 |
+| 11 | Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents | arXiv |  | <a href="https://arxiv.org/abs/2311.11797">Link</a> | 思维链与AI Agent综述 |
+| 12 | Efficient Large Language Models: A Survey | arXiv |  | <a href="https://arxiv.org/abs/2312.03863">Link</a> | 提高LLMs的计算效率和资源利用效率综述（<a href="https://mp.weixin.qq.com/s/_CS5qcCO_86AMoj0GnmmUw">中文推荐</a>） |
+| 13 | The Rise and Potential of Large Language Model Based Agents: A Survey | arXiv | 复旦NLP | <a href="https://arxiv.org/abs/2309.07864">Link</a> | 大模型Agent综述 |
+| 14 | A Survey of Reasoning with Foundation Models | arXiv | 港大、华为Nuah等 | <a href="https://arxiv.org/abs/2312.11562">Link</a> | 大模型推理综述（<a href="https://mp.weixin.qq.com/s/HK29hRpMiblDntA6MB72Pw">中文推荐</a>） |
+| 15 | A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models | arXiv | UCLA | <a href="https://arxiv.org/abs/2401.07187">Link</a> | 深度学习统计理论综述（<a href="https://mp.weixin.qq.com/s/8gl3bcRkysJrW2ds14W0iA">中文推荐</a>） |
+| 16 | Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling | arXiv | Eleuther AI、耶鲁 | <a href="https://arxiv.org/abs/2304.01373">Link</a> | 大模型训练手册（<a href="https://mp.weixin.qq.com/s/uLIzc2fRUY4T232tqHyo5Q">中文推荐</a>） |
+| 17 | TrustLLM: Trustworthiness in Large Language Models | arXiv |  | <a href="https://arxiv.org/abs/2401.05561">Link</a> | 可信任性综述 |
+| 18 | **A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications** | arXiv | 印度理工学院、斯坦福、Amazon | <a href="https://arxiv.org/abs/2402.07927">Link</a> | **Prompt Engineering综述（<a href="https://mp.weixin.qq.com/s/va1Ua3koedNWKkln4v6Vvg">中文推荐</a>）** |
 
 ### 技术类
-|序号|题目|期刊|作者|机构|网址|简介|
-|-|-|-|-|-|-|-|
-| 1 | **Attention Is All You Need** | arXiv |  |  | <a href="https://arxiv.org/abs/1706.03762">Link</a> | **Transformer** |
-| 2 |  | arXiv |  |  | <a href="https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf">Link</a> | GPT-1 |
-| 3 | **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** | arXiv |  |  | <a href="https://arxiv.org/abs/1810.04805">Link</a> | **BERT** |
-| 4 |  | arXiv |  |  | <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">Link</a> | GPT-2 |
-| 5 |  | arXiv |  |  | <a href="https://arxiv.org/abs/2005.14165">Link</a> | GPT-3 |
-| 6 | White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is? | arXiv |  |  | <a href="https://arxiv.org/abs/2311.13110">Link</a> | 白盒Transformer |
-| 7 | **Distilling the Knowledge in a Neural Network** | arXiv |  |  | <a href="https://arxiv.org/abs/1503.02531">Link</a> | **知识蒸馏的开山之作** |
-| 8 | **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning** | arXiv |  |  | <a href="https://arxiv.org/abs/2303.10475">Link</a> | **Instruction Tuning综述** |
-| 9 | A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models | arXiv |  |  | <a href="https://arxiv.org/abs/2310.10505">Link</a> | ReMax |
-| 10 | Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models | arXiv |  |  | <a href="https://arxiv.org/abs/2312.06585">Link</a> | 大模型自我构建数据进行训练 |
-| 11 | PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU | arXiv |  | 上交 | <a href="https://arxiv.org/abs/2311.11797">Link</a> | 使用RTX 4090跑175B大模型 |
-| 12 | StructGPT: A General Framework for Large Language Model to Reason over Structured Data | arXiv |  |  | <a href="https://arxiv.org/abs/2305.09645">Link</a> | 面向结构化数据的大模型推理框架 |
-| 13 |  | arXiv |  |  | <a href="">Link</a> |  |
+|序号|题目|期刊|机构|网址|简介|
+|-|-|-|-|-|-|
+| 1 | **Attention Is All You Need** | arXiv |  | <a href="https://arxiv.org/abs/1706.03762">Link</a> | **Transformer** |
+| 2 |  | arXiv |  | <a href="https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf">Link</a> | GPT-1 |
+| 3 | **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** | arXiv |  | <a href="https://arxiv.org/abs/1810.04805">Link</a> | **BERT** |
+| 4 |  | arXiv |  | <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">Link</a> | GPT-2 |
+| 5 |  | arXiv |  | <a href="https://arxiv.org/abs/2005.14165">Link</a> | GPT-3 |
+| 6 | White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is? | arXiv |  | <a href="https://arxiv.org/abs/2311.13110">Link</a> | 白盒Transformer |
+| 7 | **Distilling the Knowledge in a Neural Network** | arXiv |  | <a href="https://arxiv.org/abs/1503.02531">Link</a> | **知识蒸馏的开山之作** |
+| 8 | **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning** | arXiv |  | <a href="https://arxiv.org/abs/2303.10475">Link</a> | **Instruction Tuning综述** |
+| 9 | A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models | arXiv |  | <a href="https://arxiv.org/abs/2310.10505">Link</a> | ReMax |
+| 10 | Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models | arXiv |  | <a href="https://arxiv.org/abs/2312.06585">Link</a> | 大模型自我构建数据进行训练 |
+| 11 | PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU | arXiv | 上交 | <a href="https://arxiv.org/abs/2311.11797">Link</a> | 使用RTX 4090跑175B大模型 |
+| 12 | StructGPT: A General Framework for Large Language Model to Reason over Structured Data | arXiv |  | <a href="https://arxiv.org/abs/2305.09645">Link</a> | 面向结构化数据的大模型推理框架 |
+| 13 |  | arXiv |  | <a href="">Link</a> |  |
 
 ### 领域大模型构建
 |序号|题目|期刊|作者|机构|网址|简介|
