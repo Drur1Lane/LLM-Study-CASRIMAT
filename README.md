@@ -51,8 +51,8 @@ A resource-set about LLM for CASRIMAT.
 | 13 |  | arXiv |  | <a href="">Link</a> |  |
 
 ### 领域大模型构建
-|序号|题目|期刊|作者|机构|网址|简介|
-|-|-|-|-|-|-|-|
+|序号|题目|期刊|机构|网址|简介|
+|-|-|-|-|-|-|
 | 1 |  | arXiv | 港大 & 达摩院 | <a href="https://arxiv.org/abs/2308.00065">Link</a> | 金融风险大模型FinPT |
 | 2 |  | arXiv | 彭博社 | <a href="https://arxiv.org/abs/2303.17564">Link</a> | 金融大模型BloombergGPT |
 | 3 |  | arXiv | 度小满 | <a href="https://arxiv.org/abs/2305.12002">Link</a> | 金融大模型“轩辕” |
