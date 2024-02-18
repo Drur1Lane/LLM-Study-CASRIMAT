@@ -160,6 +160,7 @@ A resource-set about LLM for CASRIMAT.
 | 4 | AINLPer | Prompt链式总结 | <a href="https://mp.weixin.qq.com/s/RMtb0NopdzjrEsEZN-b1bA">Link</a> |  |
 | 5 | 金融科技实战 | 金融领域Prompt工程方法浅析 | <a href="https://mp.weixin.qq.com/s/WXqZsl0a-WUCkJEvkZ8S7w">Link</a> | 是不是可以Prompting Engineering in Finance: A Survey？ |
 | 6 | AI洞察笔记 | 一文汇总大语言模型LLM所有prompt提示词框架的论文出处 | <a href="https://mp.weixin.qq.com/s/6l1UBJ8xYhDV2ewQAQOZgw">Link</a> | **Reasoning论文汇总与arXiv两个技巧** |
+| 7 | AIwithGary | 第三篇：要真正入门AI，OpenAI的官方Prompt工程指南肯定还不够，您必须了解的强大方法论和框架！！！ | <a href="https://mp.weixin.qq.com/s/R71hfmNAnMghvH89e_Tmww">Link</a> |  |
 
 ### Other
 |序号|博主|名称|链接|备注|
