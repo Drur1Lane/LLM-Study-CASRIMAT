@@ -376,7 +376,7 @@ A resource-set about LLM for CASRIMAT.
 | 7 |  | 一文看懂学习率Learning Rate，从入门到CLR | <a href="https://blog.csdn.net/u012526436/article/details/90486021">Link</a> |  |
 | 8 | Oldpan个人博客 | **关于训练神经网路的诸多技巧Tricks(完全总结版)** | <a href="https://oldpan.me/archives/how-to-use-tricks-to-train-network">Link</a> |  |
 | 9 | **OpenAI** | **Prompt Engineering官方文档** | <a href="https://platform.openai.com/docs/guides/prompt-engineering">Link</a> | <a href="https://mp.weixin.qq.com/s/jOU2qT5o88tuZC1p6vLkJw">中文简介</a> |
-| 10 | **腾讯云** | **Prompt、RAG、微调还是重新训练？选择正确的生成式 AI 的方法指南** | <a href="https://cloud.tencent.com/developer/article/2313660">Link</a> |  |
+| 10 | **腾讯云** | **Prompt、RAG、微调还是重新训练？选择正确的生成式 AI 的方法指南** | <a href="https://cloud.tencent.com/developer/article/2313660">Link</a> | **从回答准确性、实施复杂性、维护成本、所需要投入的努力、灵活应对变化的能力5个方面对prompt engineering, RAG, fine-tune, pre-training 4种应用LLM的方式进行了对比** |
 
 
 ## Something Interesting Beside LLM
