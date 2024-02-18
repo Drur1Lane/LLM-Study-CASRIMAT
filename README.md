@@ -151,45 +151,50 @@ A resource-set about LLM for CASRIMAT.
 
 
 ## 微信
+### Prompt Engineering
+|序号|博主|名称|链接|备注|
+|-|-|-|-|-|
+| 1 | 老刘说NLP | PromptSource等代表性NLP开源Prompt数据集 | <a href="https://mp.weixin.qq.com/s/eWEjVhXfySppOQk_y6mduw">Link</a> |  |
+| 2 | 老刘说NLP | 再看大模型ICL推理范式中的prompt策略：从动态Few-shot到KNN选择再到Shuffling Ensemble | <a href="https://mp.weixin.qq.com/s/qXfeLfByZ8IVLgqo754U-Q">Link</a> |  |
+| 3 | AINLPer | Prompt工程总结 | <a href="https://mp.weixin.qq.com/s/lTRp02t-4-2WFTu9RpuzLw">Link</a> |  |
+| 4 | AINLPer | Prompt链式总结 | <a href="https://mp.weixin.qq.com/s/RMtb0NopdzjrEsEZN-b1bA">Link</a> |  |
+| 5 | 金融科技实战 | 金融领域Prompt工程方法浅析 | <a href="https://mp.weixin.qq.com/s/WXqZsl0a-WUCkJEvkZ8S7w">Link</a> | 是不是可以Prompting Engineering in Finance: A Survey？ |
+| 6 | AI洞察笔记 | 一文汇总大语言模型LLM所有prompt提示词框架的论文出处 | <a href="https://mp.weixin.qq.com/s/6l1UBJ8xYhDV2ewQAQOZgw">Link</a> | **Reasoning论文汇总与arXiv两个技巧** |
+
+### Other
 |序号|博主|名称|链接|备注|
 |-|-|-|-|-|
 | 1 | 老刘说NLP | 再谈大模型行业问答落地中的文档智能技术：现有多模态预训练模型及相关数据集汇总 | <a href="https://mp.weixin.qq.com/s/GnGwllYjecinZxh3yybqtw">Link</a> |  |
 | 2 | 老刘说NLP | 再看业界大模型行业问答的困难及若干业界实践：兼看智能客服常用路线及多场景prompt | <a href="https://mp.weixin.qq.com/s/dQ35J5eg5Cq7rY7zaa6wrw">Link</a> |  |
 | 3 | 老刘说NLP | 大模型微调数据质量评价 | <a href="https://mp.weixin.qq.com/s/ZEzc1VaXFaR7M0zXNRWfwQ">Link</a> |  |
-| 4 | 老刘说NLP | PromptSource等代表性NLP开源Prompt数据集 | <a href="https://mp.weixin.qq.com/s/eWEjVhXfySppOQk_y6mduw">Link</a> |  |
-| 5 | 老刘说NLP | 垂域微调大模型非最全汇总：12大领域、57个领域微调模型概述及对垂直行业问答的一些讨论 | <a href="https://mp.weixin.qq.com/s/ur47_5Zx9IQUUduciEO3jQ">Link</a> |  |
-| 6 | 老刘说NLP | 再看大模型ICL推理范式中的prompt策略：从动态Few-shot到KNN选择再到Shuffling Ensemble | <a href="https://mp.weixin.qq.com/s/qXfeLfByZ8IVLgqo754U-Q">Link</a> |  |
-| 7 | 哈工大SCIR实验室 | 赛尔笔记 | 面向表格数据的大模型推理综述 | <a href="https://mp.weixin.qq.com/s/sXeyH2Ob8-CbGwHHBYOYfQ">Link</a> |  |
-| 8 | 机器之心 |  | <a href="https://mp.weixin.qq.com/s/0I-y1dGM08n8KF1Kwv2diw">Link</a> | 李航：LLM思考 |
-| 9 | 何枝 | 从零详细地梳理一个完整的 LLM 训练流程 | <a href="https://mp.weixin.qq.com/s/Et2NAwAzg2iHrpjDgsx-Hg">Link</a> |  |
-| 10 | 人工智能前沿讲习 | LangChain | <a href="https://mp.weixin.qq.com/s/r5w69f_2jYAkBqCRG-RVpA">Link</a> |  |
-| 11 | 人工智能前沿讲习 | 思维链 | <a href="https://mp.weixin.qq.com/s/BMv_FVJ3j6q71LqA4fUYUA">Link</a> |  |
-| 12 | AINLPer | Prompt工程总结 | <a href="https://mp.weixin.qq.com/s/lTRp02t-4-2WFTu9RpuzLw">Link</a> |  |
-| 13 | AINLPer | Prompt链式总结 | <a href="https://mp.weixin.qq.com/s/RMtb0NopdzjrEsEZN-b1bA">Link</a> |  |
-| 14 | 运筹OR帷幄 | **机器学习模型可解释性综述** | <a href="https://mp.weixin.qq.com/s/Jmm84eYrtlfFLuQaWcAZCA">Link</a> |  |
-| 15 |  | RAG简介 | <a href="https://mp.weixin.qq.com/s/j141XTfCmpyc7JKwNQuNJA">Link</a> |  |
-| 16 |  |  | <a href="https://mp.weixin.qq.com/s/WXqZsl0a-WUCkJEvkZ8S7w">Link</a> | 是不是可以Prompting Engineering in Finance: A Survey？ |
-| 17 |  | 有关垂直和通用大模型最近被问比较多的几个问题 | <a href="https://mp.weixin.qq.com/s/xhuaPWIpzzNWGIm8yshA8g">Link</a> |  |
-| 18 | PaerWeekly |  | <a href="https://mp.weixin.qq.com/s/Aa8jYs4xgcI4clwie-wO1g">Link</a> | 微调经验 |
-| 19 |  | 2024 大模型面试指南：兄弟们，冲啊 | <a href="https://mp.weixin.qq.com/s/C5TFSxIis0rtrIgy-MREkQ">Link</a> |  |
-| 20 | 银融时代 |  | <a href="https://mp.weixin.qq.com/s/v2HLfBCreHqPYJW47VNZaQ">Link</a> | ChatGPT+金融：国外八大应用案例 |
-| 21 |  | 周鸿祎：“垂直化”是大模型未来发展趋势 | <a href="https://mp.weixin.qq.com/s/Ktcu7AS5bKAmRUG5P29Y7g">Link</a> |  |
-| 22 | 扬奇智能社区 | 2023.9值得关注的大模型相关研究 | <a href="https://mp.weixin.qq.com/s/MA36pVL0bSCgsF6EDH8jVw">Link</a> |  |
-| 23 |  | 调用API：像用OpenAI一样使用Mixtral 8x7B | <a href="https://mp.weixin.qq.com/s/pffu9zAk-i2Yw2VHj2iiZg">Link</a> |  |
-| 24 |  |  | <a href="https://mp.weixin.qq.com/s/Se3-DNOtOGTZnWy3BTGX8g">Link</a> | **字节调用OpenAI** |
-| 25 |  |  | <a href="https://mp.weixin.qq.com/s/xj2h7kVAm9VV7GPQF4lTDQ">Link</a> | **Gemini调用文心一言** |
-| 26 |  | State of GPT | <a href="https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg">Link</a> | 大神Andrej Karpthy揭秘OpenAI大模型原理和训练过程 |
-| 27 | 海外独角兽 | 专访月之暗面杨植麟：lossless long context is everything | <a href="https://mp.weixin.qq.com/s/UMY0qZsCGh87KnW4wjfvoA">Link</a> | 月之暗面Moonshot AI对LLM前景的看法：①注重用户数据scaling的提升、而不是base model；②**可解释性**：只要哦数据量够大，肯定可以解决；③**历史上所有的架构演进本质上都是在提升有效的 context length**。word2vec 最近拿了 NeurIPS 的 Test of Time 奖。它在 10 年前用一个词去预测周围的词，相当于 context length 是 5。RNN 把有效的 context length 提升到了 20。LSTM 涨到大几十。transformer 到了几千。现在我们能做到几十万。**如果你有 10 亿的 context length，今天看到的问题都不是问题**；④未来模型基于**自我生成的数据**进行训练是关键；⑤**模型的微调可能不存在**：终究能达成，用户只需要指令的方式就能实现个性化的应用；⑤**人才的经验很重要** |
-| 28 | AI算法科研 | **如何将大模型与小模型结合？这8种常用策略必看！附17篇案例论文和代码** | <a href="https://mp.weixin.qq.com/s/_9NLa0wZPVq_0Pu0a-jQlg">Link</a> |  |
-| 29 | 麦哲智界 | **大模型如何改变金融行业** | <a href="https://mp.weixin.qq.com/s/2XIWJfek6y6t8cQ2bHs9cg">Link</a> |  |
-| 30 | 腾讯研究院 | AI Agent，为什么是AIGC最后的杀手锏？ | <a href="https://mp.weixin.qq.com/s/DA3oNdu88LtM-BlqzGM03g">Link</a> | AI Agent简介 |
-| 31 | 包包算法笔记 | 大模型微调数据选择和构造技巧 | <a href="https://mp.weixin.qq.com/s/Sf2erEthOZQ3IFMfHMdHKQ">Link</a> | **数据的多样性、不确定性** |
-| 32 | AI洞察笔记 | 一文汇总大语言模型LLM所有prompt提示词框架的论文出处 | <a href="https://mp.weixin.qq.com/s/6l1UBJ8xYhDV2ewQAQOZgw">Link</a> | **Reasoning论文汇总与arXiv两个技巧** |
-| 33 | 新智元 | **AI智能体卷爆大模型！AutoGPT等4大Agent打擂，「西部世界」谁将成为软件2.0？** | <a href="https://mp.weixin.qq.com/s/b04F8oQfRaY2z-FjzA4pMw">Link</a> | **对于Agent的全面介绍** |
-| 34 | InfoQ | **金融业采用大模型，是“用大炮轰蚊子”吗** | <a href="https://mp.weixin.qq.com/s/g0e3qVqNzPVnUovGdYBPew">Link</a> |  |
-| 35 | NLP工作站 | 1-2B参数规模大模型使用心得及模型汇总 | <a href="https://mp.weixin.qq.com/s/Jnc3fhd-jf0XK4b9PrbZzg">Link</a> |  |
-| 36 | NLP工作站 | 回望做大模型一年后的感悟 | <a href="https://mp.weixin.qq.com/s/CfAY8FCrQKKIrQx3U10EcQ">Link</a> |  |
-| 37 | NewBeeNLP | **LLM 盛行，如何优雅地训练大模型？** | <a href="https://mp.weixin.qq.com/s/hpdGB-2oNH4R8j0zuPj7hA">Link</a> |  |
+| 4 | 老刘说NLP | 垂域微调大模型非最全汇总：12大领域、57个领域微调模型概述及对垂直行业问答的一些讨论 | <a href="https://mp.weixin.qq.com/s/ur47_5Zx9IQUUduciEO3jQ">Link</a> |  |
+| 5 | 哈工大SCIR实验室 | 赛尔笔记：面向表格数据的大模型推理综述 | <a href="https://mp.weixin.qq.com/s/sXeyH2Ob8-CbGwHHBYOYfQ">Link</a> |  |
+| 6 | 机器之心 |  | <a href="https://mp.weixin.qq.com/s/0I-y1dGM08n8KF1Kwv2diw">Link</a> | 李航：LLM思考 |
+| 7 | 何枝 | 从零详细地梳理一个完整的 LLM 训练流程 | <a href="https://mp.weixin.qq.com/s/Et2NAwAzg2iHrpjDgsx-Hg">Link</a> |  |
+| 8 | 人工智能前沿讲习 | LangChain | <a href="https://mp.weixin.qq.com/s/r5w69f_2jYAkBqCRG-RVpA">Link</a> |  |
+| 9 | 人工智能前沿讲习 | 思维链 | <a href="https://mp.weixin.qq.com/s/BMv_FVJ3j6q71LqA4fUYUA">Link</a> |  |
+| 10 | 运筹OR帷幄 | **机器学习模型可解释性综述** | <a href="https://mp.weixin.qq.com/s/Jmm84eYrtlfFLuQaWcAZCA">Link</a> |  |
+| 11 |  | RAG简介 | <a href="https://mp.weixin.qq.com/s/j141XTfCmpyc7JKwNQuNJA">Link</a> |  |
+| 12 |  | 有关垂直和通用大模型最近被问比较多的几个问题 | <a href="https://mp.weixin.qq.com/s/xhuaPWIpzzNWGIm8yshA8g">Link</a> |  |
+| 13 | PaerWeekly |  | <a href="https://mp.weixin.qq.com/s/Aa8jYs4xgcI4clwie-wO1g">Link</a> | 微调经验 |
+| 14 |  | 2024 大模型面试指南：兄弟们，冲啊 | <a href="https://mp.weixin.qq.com/s/C5TFSxIis0rtrIgy-MREkQ">Link</a> |  |
+| 15 | 银融时代 |  | <a href="https://mp.weixin.qq.com/s/v2HLfBCreHqPYJW47VNZaQ">Link</a> | ChatGPT+金融：国外八大应用案例 |
+| 16 |  | 周鸿祎：“垂直化”是大模型未来发展趋势 | <a href="https://mp.weixin.qq.com/s/Ktcu7AS5bKAmRUG5P29Y7g">Link</a> |  |
+| 17 | 扬奇智能社区 | 2023.9值得关注的大模型相关研究 | <a href="https://mp.weixin.qq.com/s/MA36pVL0bSCgsF6EDH8jVw">Link</a> |  |
+| 18 |  | 调用API：像用OpenAI一样使用Mixtral 8x7B | <a href="https://mp.weixin.qq.com/s/pffu9zAk-i2Yw2VHj2iiZg">Link</a> |  |
+| 19 |  |  | <a href="https://mp.weixin.qq.com/s/Se3-DNOtOGTZnWy3BTGX8g">Link</a> | **字节调用OpenAI** |
+| 20 |  |  | <a href="https://mp.weixin.qq.com/s/xj2h7kVAm9VV7GPQF4lTDQ">Link</a> | **Gemini调用文心一言** |
+| 21 |  | State of GPT | <a href="https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg">Link</a> | 大神Andrej Karpthy揭秘OpenAI大模型原理和训练过程 |
+| 22 | 海外独角兽 | 专访月之暗面杨植麟：lossless long context is everything | <a href="https://mp.weixin.qq.com/s/UMY0qZsCGh87KnW4wjfvoA">Link</a> | 月之暗面Moonshot AI对LLM前景的看法：①注重用户数据scaling的提升、而不是base model；②**可解释性**：只要哦数据量够大，肯定可以解决；③**历史上所有的架构演进本质上都是在提升有效的 context length**。word2vec 最近拿了 NeurIPS 的 Test of Time 奖。它在 10 年前用一个词去预测周围的词，相当于 context length 是 5。RNN 把有效的 context length 提升到了 20。LSTM 涨到大几十。transformer 到了几千。现在我们能做到几十万。**如果你有 10 亿的 context length，今天看到的问题都不是问题**；④未来模型基于**自我生成的数据**进行训练是关键；⑤**模型的微调可能不存在**：终究能达成，用户只需要指令的方式就能实现个性化的应用；⑤**人才的经验很重要** |
+| 23 | AI算法科研 | **如何将大模型与小模型结合？这8种常用策略必看！附17篇案例论文和代码** | <a href="https://mp.weixin.qq.com/s/_9NLa0wZPVq_0Pu0a-jQlg">Link</a> |  |
+| 24 | 麦哲智界 | **大模型如何改变金融行业** | <a href="https://mp.weixin.qq.com/s/2XIWJfek6y6t8cQ2bHs9cg">Link</a> |  |
+| 25 | 腾讯研究院 | AI Agent，为什么是AIGC最后的杀手锏？ | <a href="https://mp.weixin.qq.com/s/DA3oNdu88LtM-BlqzGM03g">Link</a> | AI Agent简介 |
+| 26 | 包包算法笔记 | 大模型微调数据选择和构造技巧 | <a href="https://mp.weixin.qq.com/s/Sf2erEthOZQ3IFMfHMdHKQ">Link</a> | **数据的多样性、不确定性** |
+| 27 | 新智元 | **AI智能体卷爆大模型！AutoGPT等4大Agent打擂，「西部世界」谁将成为软件2.0？** | <a href="https://mp.weixin.qq.com/s/b04F8oQfRaY2z-FjzA4pMw">Link</a> | **对于Agent的全面介绍** |
+| 28 | InfoQ | **金融业采用大模型，是“用大炮轰蚊子”吗** | <a href="https://mp.weixin.qq.com/s/g0e3qVqNzPVnUovGdYBPew">Link</a> |  |
+| 29 | NLP工作站 | 1-2B参数规模大模型使用心得及模型汇总 | <a href="https://mp.weixin.qq.com/s/Jnc3fhd-jf0XK4b9PrbZzg">Link</a> |  |
+| 30 | NLP工作站 | 回望做大模型一年后的感悟 | <a href="https://mp.weixin.qq.com/s/CfAY8FCrQKKIrQx3U10EcQ">Link</a> |  |
+| 31 | NewBeeNLP | **LLM 盛行，如何优雅地训练大模型？** | <a href="https://mp.weixin.qq.com/s/hpdGB-2oNH4R8j0zuPj7hA">Link</a> |  |
 
 
 ## 个人博客/团队账号
@@ -205,7 +210,6 @@ A resource-set about LLM for CASRIMAT.
 
 
 ## 电子书
-## 其他
 |序号|来源|名称|链接|备注|
 |-|-|-|-|-|
 | 1 | 复旦 | 大规模语言模型：从理论到实践 | <a href="https://intro-llm.github.io/">Link</a> |  |
