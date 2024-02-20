@@ -6,9 +6,7 @@ A resource-set about LLM for CASRIMAT.
 ### 开源大模型
 |序号|名称|机构|Github|Hugging Face|
 |-|-|-|-|-|
-| 1 | Baichuan-7B |  | <a href="https://github.com/baichuan-inc/Baichuan-7B">Link</a> | <a href="https://huggingface.co/baichuan-inc/Baichuan-7B">Link</a> |
-| 2 | Baichuan-13B |  | <a href="https://github.com/baichuan-inc/Baichuan-13B">Link</a> |  |
-| 3 | Baichuan2 |  | <a href="https://github.com/baichuan-inc/Baichuan2">Link</a> |  |
+| 1 | Baichuan系列 | 百川智能 | <a href="https://github.com/baichuan-inc/Baichuan-7B">Baichuan-7B</a>，<a href="https://github.com/baichuan-inc/Baichuan-13B">Baichuan-13B</a>，<a href="https://github.com/baichuan-inc/Baichuan2">Baichuan2</a> | <a href="https://huggingface.co/baichuan-inc">Link</a> |
 | 4 | ChatGLM |  | <a href="https://github.com/THUDM/ChatGLM-6B">Link</a> |  |
 | 5 | ChatGLM2 |  | <a href="https://github.com/THUDM/ChatGLM2-6B">Link</a> |  |
 | 6 | ChatGLM3 |  | <a href="https://github.com/THUDM/ChatGLM3">Link</a> |  |
