@@ -1,5 +1,5 @@
 # LLM-Study-CASRIMAT
-A resource-set about LLM for CASRIMAT.
+中国科学院大学经济与管理学院大数据与金融风险研究团队的大模型学习资料整理。
 
 
 ## GitHub / Hugging Face
