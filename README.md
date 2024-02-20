@@ -4,24 +4,24 @@ A resource-set about LLM for CASRIMAT.
 
 ## GitHub / Hugging Face
 ### 开源大模型
-|序号|名称|机构|Github|Hugging Face|
-|-|-|-|-|-|
-| 1 | Baichuan系列 | 百川智能 | <a href="https://github.com/baichuan-inc/Baichuan-7B">Baichuan-7B</a>，<a href="https://github.com/baichuan-inc/Baichuan-13B">Baichuan-13B</a>，<a href="https://github.com/baichuan-inc/Baichuan2">Baichuan2</a> | <a href="https://huggingface.co/baichuan-inc">Link</a> |
-| 4 | ChatGLM |  | <a href="https://github.com/THUDM/ChatGLM-6B">Link</a> |  |
-| 5 | ChatGLM2 |  | <a href="https://github.com/THUDM/ChatGLM2-6B">Link</a> |  |
-| 6 | ChatGLM3 |  | <a href="https://github.com/THUDM/ChatGLM3">Link</a> |  |
-| 7 | LLaMA | Meta | <a href="https://github.com/facebookresearch/llama">Link</a> |  |
-| 8 | LLaMA2 | Meta |  | <a href="https://huggingface.co/daryl149/llama-2-7b-chat-hf">Link</a> |
-| 9 | 中文llama2 & Alpaca | 科大讯飞 | <a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca">Link</a> |  |
-| 10 | 中文llama2 & Alpaca 2 | 科大讯飞 | <a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca-2">Link</a> |  |
-| 11 | Mistral系列 |  |  | <a href="https://huggingface.co/mistralai">Link</a> |
-| 12 | Yi | 李开复零一万物 | <a href="https://github.com/01-ai/Yi">Link</a> |  |
-| 13 | Bloomz系列 |  |  | <a href="https://huggingface.co/bigscience/bloomz-560m">Link</a> |
-| 14 | Qwen、Qwen-1.5 | 阿里 | <a href="https://github.com/QwenLM/Qwen">Link</a> | <a href="https://huggingface.co/collections/Qwen/qwen15-65c0a2f577b1ecb76d786524">Link</a> |
-| 15 | OLMo **（第一个完全开源大模型：代码、数据、权重、评估、适配）** <a href="https://mp.weixin.qq.com/s/v-xCzo6j7sfVK5SF9iLg_A">中文推荐</a> | 艾伦AI研究所等 | <a href="https://github.com/allenai/OLMo">Link</a> | <a href="https://huggingface.co/allenai/OLMo-7B/tree/main">Link</a> |
-| 16 | MiniCPM **（参数量2.4B）** | 面壁智能、清华NLP实验室 | <a href="https://github.com/OpenBMB/MiniCPM?tab=readme-ov-file">Link</a> |  |
-| 17 | Vary-toy **（参数量1.8B）** |  | <a href="https://github.com/Ucas-HaoranWei/Vary-toy">Link</a> | 多模态大模型（<a href="https://zhuanlan.zhihu.com/p/679447793">中文推荐</a> |
-| 18 | Phi-2 | 微软 |  | <a href="https://huggingface.co/microsoft/phi-2">Link</a> |
+|序号|名称|机构|Github|Hugging Face|简介|
+|-|-|-|-|-|-|
+| 1 | Baichuan系列 | 百川智能 | <a href="https://github.com/baichuan-inc/Baichuan-7B">Baichuan-7B</a>，<a href="https://github.com/baichuan-inc/Baichuan-13B">Baichuan-13B</a>，<a href="https://github.com/baichuan-inc/Baichuan2">Baichuan2</a> | <a href="https://huggingface.co/baichuan-inc">Link</a> |  |
+| 4 | ChatGLM |  | <a href="https://github.com/THUDM/ChatGLM-6B">Link</a> |  |  |
+| 5 | ChatGLM2 |  | <a href="https://github.com/THUDM/ChatGLM2-6B">Link</a> |  |  |
+| 6 | ChatGLM3 |  | <a href="https://github.com/THUDM/ChatGLM3">Link</a> |  |  |
+| 7 | LLaMA | Meta | <a href="https://github.com/facebookresearch/llama">Link</a> |  |  |
+| 8 | LLaMA2 | Meta |  | <a href="https://huggingface.co/daryl149/llama-2-7b-chat-hf">Link</a> |  |
+| 9 | 中文llama2 & Alpaca | 科大讯飞 | <a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca">Link</a> |  |  |
+| 10 | 中文llama2 & Alpaca 2 | 科大讯飞 | <a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca-2">Link</a> |  |  |
+| 11 | Mistral系列 |  |  | <a href="https://huggingface.co/mistralai">Link</a> |  |
+| 12 | Yi | 李开复零一万物 | <a href="https://github.com/01-ai/Yi">Link</a> |  |  |
+| 13 | Bloomz系列 |  |  | <a href="https://huggingface.co/bigscience/bloomz-560m">Link</a> |  |
+| 14 | Qwen、Qwen-1.5 | 阿里 | <a href="https://github.com/QwenLM/Qwen">Link</a> | <a href="https://huggingface.co/collections/Qwen/qwen15-65c0a2f577b1ecb76d786524">Link</a> |  |
+| 15 | OLMo | 艾伦AI研究所等 | <a href="https://github.com/allenai/OLMo">Link</a> | <a href="https://huggingface.co/allenai/OLMo-7B/tree/main">Link</a> | **（第一个完全开源大模型：代码、数据、权重、评估、适配）** <a href="https://mp.weixin.qq.com/s/v-xCzo6j7sfVK5SF9iLg_A">中文推荐</a> |
+| 16 | MiniCPM **（参数量2.4B）** | 面壁智能、清华NLP实验室 | <a href="https://github.com/OpenBMB/MiniCPM?tab=readme-ov-file">Link</a> |  |  |
+| 17 | Vary-toy **（参数量1.8B）** |  | <a href="https://github.com/Ucas-HaoranWei/Vary-toy">Link</a> | 多模态大模型（<a href="https://zhuanlan.zhihu.com/p/679447793">中文推荐</a> |  |
+| 18 | Phi-2 | 微软 |  | <a href="https://huggingface.co/microsoft/phi-2">Link</a> |  |
 
 ### 微调大模型
 |序号|名称|机构|Github|Hugging Face|
