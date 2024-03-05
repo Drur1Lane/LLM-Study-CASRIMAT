@@ -45,12 +45,12 @@
 |序号|名称|Github|Hugging Face|备注|
 |-|-|-|-|-|
 | 1 | baby-llama2-chinese | <a href="https://github.com/DLLXW/baby-llama2-chinese">Link</a> |  |  |
-| 2 | nanoGPT | <a href="https://github.com/karpathy/nanoGPT">Link</a> |  | <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">配套视频</a> |
+| 2 | **nanoGPT** | <a href="https://github.com/karpathy/nanoGPT">Link</a> |  | <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">配套视频</a> |
 | 3 | Standford_alpaca | <a href="https://github.com/tatsu-lab/stanford_alpaca">Link</a> |  |  |
 | 4 | alpaca-lora | <a href="https://github.com/tloen/alpaca-lora">Link</a> |  |  |
 | 5 | MiniGPT-4 | <a href="https://github.com/Vision-CAIR/MiniGPT-4">Link</a> |  |  |
 | 6 | TinyLLaMA | <a href="https://github.com/jzhang38/TinyLlama">Link</a> |  |  |
-| 7 |  |  |  |  |
+| 7 | **minbpe** | <a href="https://github.com/karpathy/minbpe">Link</a> |  | <a href="https://www.youtube.com/watch?v=zduSFxRajkE">配套视频</a> |
 
 ### Prompt Engineering
 |序号|名称|Github or Hugging Face|备注|
