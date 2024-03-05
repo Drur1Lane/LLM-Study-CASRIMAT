@@ -389,6 +389,7 @@
 | 3 | When ChatGPT is gone: Creativity reverts and homogeneity persists | avXiv | 北京大学 | <a href="https://arxiv.org/abs/2401.06816">Link</a> | 大模型对长期创新能力的抑制（<a href="https://mp.weixin.qq.com/s/uQAubTdgaPmhbQbC6dhMUg">中文解读</a>） |
 | 4 | Resolving the Imbalance Issue in Hierarchical Disciplinary Topic Inference via LLM-based Data Augmentation | avXiv |  | <a href="https://arxiv.org/abs/2310.05318">Link</a> | 样本不均衡问题（<a href="https://mp.weixin.qq.com/s/1Y9gPKl2iFLBAUQ3lsjXHQ">中文解读</a>） |
 | 5 | Segmented Harmonic Loss: Handling Class-Imbalanced Multi-Label Clinical Data for Medical Coding with Large Language Models | avXiv |  | <a href="https://arxiv.org/abs/2310.04595">Link</a> | 样本不均衡问题（<a href="https://mp.weixin.qq.com/s/1Y9gPKl2iFLBAUQ3lsjXHQ">中文解读</a>） |
+| 6 | When Advanced AI Isn't Enough: Human Factors as Drivers of Success in Generative AI-Human Collaborations | SSRN |  | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4738829">Link</a> | ChatGPT时代的人机交互对绩效的影响研究（<a href="https://mp.weixin.qq.com/s/j_k-_DQqs-nDCS8XRJMQ5Q">中文简介</a>） |
 
 
 ## Something Interesting Beside LLM
