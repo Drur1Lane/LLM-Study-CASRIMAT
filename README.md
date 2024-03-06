@@ -406,3 +406,4 @@
 | 5 | 索尼 |  | <a href="https://www.suno.ai">Link</a> | **为你的朋友制作歌曲** |
 | 6 | 小红书 | InstantID | <a href="https://instantid.github.io/">Link</a> | **不需要进行任何额外训练，就能得到一个既符合文本描述又保留个人身份特征的定制图像** |
 | 7 | 字节跳动 | MagicVideo | <a href="https://magicvideov2.github.io/">Link</a> | **文字生成动图** |
+| 8 | **骆昊** | **Python 100天从新手到大师** | <a href="https://github.com/jackfrued/Python-100-Days">Link</a> |  |
