@@ -2,6 +2,10 @@
 中国科学院大学-经济与管理学院-大数据与金融风险研究团队，大模型学习资料整理。
 
 
+## 重要网站
+1. <a href="https://blog.waytoagi.com/">通往AGI之路</a>
+2. 
+
 ## GitHub / Hugging Face
 ### 开源大模型
 |序号|名称|机构|Github|Hugging Face|简介|
