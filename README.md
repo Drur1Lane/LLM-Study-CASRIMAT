@@ -93,8 +93,6 @@
 | 14 |  | <a href="https://github.com/xcanwin/KeepChatGPT">Link</a> | ChatGPT插件 |
 | 15 | LoRA | <a href="https://github.com/microsoft/LoRA">Link</a> |  |
 | 16 | QLoRA | <a href="https://github.com/artidoro/qlora">Link</a> |  |
-| 17 | 国科大论文模板 | <a href="https://github.com/mohuangrui/ucasthesis">Link</a> |  |
-| 18 | **Project-based Learning** | <a href="https://github.com/practical-tutorials/project-based-learning">Link</a> |  |
 | 19 |  | <a href="https://github.com/HqWu-HITCS/Awesome-Chinese-LLM?tab=readme-ov-file#%E9%87%91%E8%9E%8D">Link</a> | 各行业中文开源金融大模型整理 |
 | 20 | PowerInfer | <a href="https://github.com/SJTU-IPADS/PowerInfer">Link</a> |  |
 | 21 |  | <a href="https://github.com/mistralai/client-python">Link</a> | 调用Mistral API |
@@ -407,3 +405,5 @@
 | 6 | 小红书 | InstantID | <a href="https://instantid.github.io/">Link</a> | **不需要进行任何额外训练，就能得到一个既符合文本描述又保留个人身份特征的定制图像** |
 | 7 | 字节跳动 | MagicVideo | <a href="https://magicvideov2.github.io/">Link</a> | **文字生成动图** |
 | 8 | **骆昊** | **Python 100天从新手到大师** | <a href="https://github.com/jackfrued/Python-100-Days">Link</a> |  |
+| 17 |  | 国科大论文模板 | <a href="https://github.com/mohuangrui/ucasthesis">Link</a> |  |
+| 18 |  | **Project-based Learning** | <a href="https://github.com/practical-tutorials/project-based-learning">Link</a> |  |
