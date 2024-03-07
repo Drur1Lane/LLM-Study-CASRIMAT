@@ -380,13 +380,13 @@
 |序号|来源|名称|链接|备注|
 |-|-|-|-|-|
 | 1 | **复旦自然语言处理实验室** | **入组第一堂代码课** | <a href="https://github.com/FudanNLP/nlp-beginner">Link</a> |  |
-| 2 |  | nlp研究生不会自己写代码怎么办 | <a href="https://www.zhihu.com/question/615441114">Link</a> |  |
+| 2 | 知乎 | nlp研究生不会自己写代码怎么办 | <a href="https://www.zhihu.com/question/615441114">Link</a> |  |
 | 3 | 知乎 | 小王同学在积累的Github学习资料 | <a href="https://github.com/AccumulateMore/CV">Link</a> |  |
 | 4 | CSDN | SHAP：解释模型预测的通用方法 | <a href="https://blog.csdn.net/qq_40943760/article/details/123938209">Link</a> |  |
-| 5 | 索尼 |  | <a href="https://www.suno.ai">Link</a> | **为你的朋友制作歌曲** |
+| 5 | 索尼 | SunoAI | <a href="https://www.suno.ai">Link</a> | **为你的朋友制作歌曲** |
 | 6 | 小红书 | InstantID | <a href="https://instantid.github.io/">Link</a> | **不需要进行任何额外训练，就能得到一个既符合文本描述又保留个人身份特征的定制图像** |
 | 7 | 字节跳动 | MagicVideo | <a href="https://magicvideov2.github.io/">Link</a> | **文字生成动图** |
-| 8 | **骆昊** | **Python 100天从新手到大师** | <a href="https://github.com/jackfrued/Python-100-Days">Link</a> |  |
-| 9 |  | 国科大论文模板 | <a href="https://github.com/mohuangrui/ucasthesis">Link</a> |  |
-| 10 |  | **Project-based Learning** | <a href="https://github.com/practical-tutorials/project-based-learning">Link</a> |  |
-| 11 |  | **跟李沐学AI** | <a href="https://github.com/mli/paper-reading">Link</a> |  |
+| 8 | **Github骆昊** | **Python 100天从新手到大师** | <a href="https://github.com/jackfrued/Python-100-Days">Link</a> |  |
+| 9 | Github | 国科大论文模板 | <a href="https://github.com/mohuangrui/ucasthesis">Link</a> |  |
+| 10 | Github | **Project-based Learning** | <a href="https://github.com/practical-tutorials/project-based-learning">Link</a> |  |
+| 11 | **Github李沐** | **跟李沐学AI** | <a href="https://github.com/mli/paper-reading">Link</a> |  |
