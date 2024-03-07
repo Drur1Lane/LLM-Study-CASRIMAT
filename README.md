@@ -12,11 +12,11 @@
 |-|-|-|-|-|-|
 | 1 | Baichuan系列 | 百川智能 | <a href="https://github.com/baichuan-inc/Baichuan-7B">Baichuan-7B</a>，<a href="https://github.com/baichuan-inc/Baichuan-13B">Baichuan-13B</a>，<a href="https://github.com/baichuan-inc/Baichuan2">Baichuan2</a> | <a href="https://huggingface.co/baichuan-inc">Link</a> |  |
 | 2 | ChatGLM系列 | 智谱AI | <a href="https://github.com/THUDM/ChatGLM-6B">ChatGLM-6B</a>，<a href="https://github.com/THUDM/ChatGLM2-6B">ChatGLM2-6B</a>，<a href="https://github.com/THUDM/ChatGLM3">ChatGLM3-6B</a> | <a href="https://huggingface.co/THUDM/chatglm-6b">ChatGLM-6B</a>，<a href="https://huggingface.co/THUDM/chatglm2-6b">ChatGLM2-6B</a>，<a href="https://huggingface.co/THUDM/chatglm3-6b">ChatGLM3-6B</a> |  |
-| 3 | LLaMA系列 | Meta | <a href="https://github.com/facebookresearch/llama">LLaMA</a>，<a href="https://huggingface.co/daryl149/llama-2-7b-chat-hf">LLaMA2-7B-Chat民间分享</a>，<a href="https://huggingface.co/meta-llama">LLaMA2官方</a> |  |  |
+| 3 | LLaMA系列 | Meta | <a href="https://github.com/facebookresearch/llama">LLaMA</a> | <a href="https://huggingface.co/daryl149/llama-2-7b-chat-hf">LLaMA2-7B-Chat民间分享</a>，<a href="https://huggingface.co/meta-llama">LLaMA2官方</a> |  |
 | 4 | 中文LLaMA系列 | 科大讯飞 | <a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca">Chinese-LLaMA-Alpaca</a>，<a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca-2">Chinese-LLaMA-Alpaca-2</a> |  |  |
-| 5 | Mistral系列 |  |  | <a href="https://huggingface.co/mistralai">Link</a> |  |
-| 6 | Yi | 李开复零一万物 | <a href="https://github.com/01-ai/Yi">Link</a> |  |  |
-| 7 | Bloomz系列 |  |  | <a href="https://huggingface.co/bigscience/bloomz-560m">Link</a> |  |
+| 5 | Mistral系列 | Mistral AI |  | <a href="https://huggingface.co/mistralai">Link</a> |  |
+| 6 | Yi | 01-AI（李开复零一万物） | <a href="https://github.com/01-ai/Yi">Link</a> | <a href="https://huggingface.co/01-ai">Link</a> |  |
+| 7 | Bloomz系列 | BigScience（许多志愿科学家自己搞的） |  | <a href="https://huggingface.co/bigscience/bloomz-560m">Link</a> |  |
 | 8 | Qwen系列 | 阿里 | <a href="https://github.com/QwenLM/Qwen">Link</a> | <a href="https://huggingface.co/collections/Qwen/qwen15-65c0a2f577b1ecb76d786524">Link</a> |  |
 | 9 | OLMo | 艾伦AI研究所等 | <a href="https://github.com/allenai/OLMo">Link</a> | <a href="https://huggingface.co/allenai/OLMo-7B/tree/main">Link</a> | **（第一个完全开源大模型：代码、数据、权重、评估、适配）** <a href="https://mp.weixin.qq.com/s/v-xCzo6j7sfVK5SF9iLg_A">中文推荐</a> |
 | 10 | MiniCPM | 面壁智能、清华NLP实验室 | <a href="https://github.com/OpenBMB/MiniCPM?tab=readme-ov-file">Link</a> |  | **（参数量2.4B）** |
