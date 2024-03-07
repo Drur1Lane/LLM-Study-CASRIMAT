@@ -26,21 +26,21 @@
 ### 微调大模型（金融为主）
 |序号|名称|机构|Github|Hugging Face|
 |-|-|-|-|-|
-| 1 | **金融风险大模型FinPT** | 港大 & 达摩院 | <a href="https://github.com/YuweiYin/FinPT">Link</a> |  |
-| 2 | **FinBERT** |  | <a href="https://github.com/yya518/FinBERT">Link</a> |  |
-| 3 | **金融大模型XuanYuan** | 度小满 | <a href="https://github.com/Duxiaoman-DI/XuanYuan">Link</a> |  |
+| 1 | **FinPT** | 港大 & 达摩院 | <a href="https://github.com/YuweiYin/FinPT">Link</a> |  |
+| 2 | **2023年的FinBERT** |  | <a href="https://github.com/yya518/FinBERT">Link</a> |  |
+| 3 | **XuanYuan** | 度小满 | <a href="https://github.com/Duxiaoman-DI/XuanYuan">Link</a> |  |
 | 4 | **医疗大模型MedicalGPT** | 徐明老师 | <a href="https://github.com/shibing624/MedicalGPT">Link</a> |  |
 | 5 | 法律大模型ChatLaw | 北大 | <a href="https://github.com/PKU-YuanGroup/ChatLaw">Link</a> |  |
-| 6 | **金融大模型“聚宝盆Cornucopia”** | 中科院成都计算机应用研究所 | <a href="https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese">Link</a> |  |
+| 6 | **聚宝盆Cornucopia** | 中科院成都计算机应用研究所 | <a href="https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese">Link</a> |  |
 | 7 | 医疗大模型“华驼” |  | <a href="https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese">Link</a> |  |
-| 8 | **金融大模型FinGPT** | 哥大刘小洋 | <a href="https://github.com/AI4Finance-Foundation/FinGPT">Link</a> |  |
-| 9 | **金融大模型FinVisGPT（多模态）** | 哈工深 | <a href="https://github.com/wwwadx/FinVis-GPT">Link</a> |  |
-| 10 | **金融大模型FinTuo** | 华中师范大学陈启源 | <a href="https://github.com/qiyuan-chen/FinTuo-Chinese-Finance-LLM">Link</a> |  |
+| 8 | **FinGPT** | 哥大刘小洋 | <a href="https://github.com/AI4Finance-Foundation/FinGPT">Link</a> |  |
+| 9 | **FinVisGPT（多模态）** | 哈工深 | <a href="https://github.com/wwwadx/FinVis-GPT">Link</a> |  |
+| 10 | **FinTuo** | 华中师范大学陈启源 | <a href="https://github.com/qiyuan-chen/FinTuo-Chinese-Finance-LLM">Link</a> |  |
 | 11 | 骆驼项目：大模型集合 | 商汤科技+华中师范大学 | <a href="https://github.com/LC1332/Luotuo-Chinese-LLM">Link</a> |  |
-| 12 | **金融大模型PIXIU** | 武大、中山等 | <a href="https://github.com/chancefocus/PIXIU">Link</a> |  |
-| 13 | **金融资讯大模型DISC-FinLLM** | 复旦 | <a href="https://github.com/FudanDISC/DISC-FinLLM">Link</a> |  |
+| 12 | **PIXIU** | 武大、中山等 | <a href="https://github.com/chancefocus/PIXIU">Link</a> |  |
+| 13 | **DISC-FinLLM** | 复旦 | <a href="https://github.com/FudanDISC/DISC-FinLLM">Link</a> |  |
 | 14 | **2023 ChatGLM金融大模型挑战赛** | 阿里 | <a href="https://github.com/MetaGLM/FinGLM?tab=readme-ov-file">Link</a> | **<a href="https://mp.weixin.qq.com/s/FML3mx7McW735Qt0pgy6TQ">中文推文</a>** |
-| 15 | **金融大模型CFGPT** | 同济 | <a href="https://github.com/TongjiFinLab/CFGPT">Link</a> |  |
+| 15 | **CFGPT** | 同济 | <a href="https://github.com/TongjiFinLab/CFGPT">Link</a> |  |
 | 16 | **ChatGLM微调** | 刘聪NLP | <a href="https://github.com/liucongg/ChatGLM-Finetuning">Link</a> |  |
 
 ### 练手小大模型
@@ -52,7 +52,7 @@
 | 4 | alpaca-lora | <a href="https://github.com/tloen/alpaca-lora">Link</a> |  |  |
 | 5 | MiniGPT-4 | <a href="https://github.com/Vision-CAIR/MiniGPT-4">Link</a> |  |  |
 | 6 | TinyLLaMA | <a href="https://github.com/jzhang38/TinyLlama">Link</a> |  |  |
-| 7 | **minbpe** | <a href="https://github.com/karpathy/minbpe">Link</a> |  | <a href="https://www.youtube.com/watch?v=zduSFxRajkE">配套视频</a>, <a href="https://mp.weixin.qq.com/s/IFlSPdoQk5HqWTfvfgoG2Q">中文介绍</a> |
+| 7 | **minbpe** | <a href="https://github.com/karpathy/minbpe">Link</a> |  | By Karpathy，<a href="https://www.youtube.com/watch?v=zduSFxRajkE">配套视频</a>, <a href="https://mp.weixin.qq.com/s/IFlSPdoQk5HqWTfvfgoG2Q">中文介绍</a> |
 
 ### Prompt Engineering
 |序号|名称|Github or Hugging Face|备注|
