@@ -71,33 +71,28 @@
 | 4 | FinCorpus |  | <a href="https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus">Link</a> | 中文 | 上市公司公告、金融新闻、金融试题 |
 | 5 | BBT-FinCorpus & CFLEB | <a href="https://github.com/ssymmetry/BBT-FinCUGE-Applications">Link</a> |  | 中文 | 金融领域语料库 & 中文金融自然语言处理评测基准 |
 | 6 | ChineseNlpCorpus | <a href="https://github.com/InsaneLife/ChineseNLPCorpus">Link</a> |  | 中文 | 中文NLP数据集整合 |
+| 7 | FinNLP | <a href="https://github.com/AI4Finance-Foundation/FinNLP">Link</a> |  |
 
 ### Other
 |序号|名称|链接|备注|
 |-|-|-|-|
 | 1 | **Chatbot Arena Leaderboard** | <a href="https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard">Link</a> | **FastChat给出的LLM排名** |
-| 2 | **FastChat** | <a href="https://github.com/lm-sys/FastChat">Link</a> | **训练、部署和评估大模型的开源平台** |
-| 3 |  | <a href="https://github.com/binary-husky/gpt_academic">Link</a> | 学术ChatGPT |
+| 2 | FastChat | <a href="https://github.com/lm-sys/FastChat">Link</a> | 训练、部署和评估大模型的开源平台 |
+| 3 | GPT Academic | <a href="https://github.com/binary-husky/gpt_academic">Link</a> | 学术ChatGPT |
 | 4 | **Awesome-LLM** | <a href="https://github.com/Hannibal046/Awesome-LLM">Link</a> | **资源集合** |
 | 5 | **LLMs九层妖塔** | <a href="https://github.com/km1994/LLMsNineStoryDemonTower">Link</a> | **另一位同仁的学习笔记** |
 | 6 | **LLM-Action** | <a href="https://github.com/liguodongiot/llm-action">Link</a> | **资源集合** |
-| 7 | **跟李沐学AI** | <a href="https://github.com/mli/paper-reading">Link</a> |  |
-| 8 |  | <a href="https://github.com/eosphoros-ai/DB-GPT">Link</a> | 打造本地的私人GPT |
-| 9 | AIGC Progress | <a href="https://github.com/kinghuin/AIGC-progress">Link</a> | 资源集合 |
-| 10 | tiktoken | <a href="https://github.com/openai/tiktoken">Link</a> | OpenAI的tokenize方式 |
-| 11 | FinNLP | <a href="https://github.com/AI4Finance-Foundation/FinNLP">Link</a> |  |
-| 12 |  | <a href="https://github.com/liucongg/ChatGLM-Finetuning">Link</a> | ChatGLM微调实践 |
-| 13 | sentencepiece | <a href="https://github.com/google/sentencepiece">Link</a> | Google的tokenizer |
-| 14 |  | <a href="https://github.com/xcanwin/KeepChatGPT">Link</a> | ChatGPT插件 |
-| 15 | LoRA | <a href="https://github.com/microsoft/LoRA">Link</a> |  |
-| 16 | QLoRA | <a href="https://github.com/artidoro/qlora">Link</a> |  |
-| 17 |  | <a href="https://github.com/HqWu-HITCS/Awesome-Chinese-LLM?tab=readme-ov-file#%E9%87%91%E8%9E%8D">Link</a> | 各行业中文开源金融大模型整理 |
-| 18 | PowerInfer | <a href="https://github.com/SJTU-IPADS/PowerInfer">Link</a> |  |
-| 19 |  | <a href="https://github.com/mistralai/client-python">Link</a> | 调用Mistral API |
-| 20 | **面向开发者的LLM入门课程** | <a href="https://github.com/datawhalechina/prompt-engineering-for-developers?tab=readme-ov-file">Link</a> | **吴恩达LLM课程中文版** |
-| 21 | **Top-conference-paper-list** | <a href="https://github.com/RUCAIBox/Top-conference-paper-list?tab=readme-ov-file">Link</a> | **RUC AI BOX大模型论文100篇推荐** |
-| 22 | **OpenCompass** | <a href="https://github.com/open-compass/OpenCompass/">Link</a> | **上海AI实验室LLM排名** |
-| 23 | **Open LLM LeaderBoard** | <a href="https://huggingface.co/open-llm-leaderboard">Link</a> |  |
+| 7 | **AIGC Progress** | <a href="https://github.com/kinghuin/AIGC-progress">Link</a> | **资源集合** |
+| 8 | tiktoken | <a href="https://github.com/openai/tiktoken">Link</a> | OpenAI的tokenize方式 |
+| 9 | sentencepiece | <a href="https://github.com/google/sentencepiece">Link</a> | Google的tokenizer |
+| 10 | KeepChatGPT | <a href="https://github.com/xcanwin/KeepChatGPT">Link</a> | 提高ChatGPT的数据安全能力和效率的插件 |
+| 11 | LoRA | <a href="https://github.com/microsoft/LoRA">Link</a> |  |
+| 12 | QLoRA | <a href="https://github.com/artidoro/qlora">Link</a> |  |
+| 13 | **Awesome Chinese LLMs** | <a href="https://github.com/HqWu-HITCS/Awesome-Chinese-LLM?tab=readme-ov-file#%E9%87%91%E8%9E%8D">Link</a> | **各行业中文开源金融大模型整理** |
+| 14 | PowerInfer | <a href="https://github.com/SJTU-IPADS/PowerInfer">Link</a> |  |
+| 15 | **面向开发者的LLM入门课程** | <a href="https://github.com/datawhalechina/prompt-engineering-for-developers?tab=readme-ov-file">Link</a> | **吴恩达LLM课程中文版** |
+| 16 | **OpenCompass** | <a href="https://github.com/open-compass/OpenCompass/">Link</a> | **上海AI实验室LLM排名** |
+| 17 | **Open LLM LeaderBoard** | <a href="https://huggingface.co/open-llm-leaderboard">Link</a> | **开源大模型榜单** |
 
 
 ## B站
@@ -405,3 +400,4 @@
 | 8 | **骆昊** | **Python 100天从新手到大师** | <a href="https://github.com/jackfrued/Python-100-Days">Link</a> |  |
 | 9 |  | 国科大论文模板 | <a href="https://github.com/mohuangrui/ucasthesis">Link</a> |  |
 | 10 |  | **Project-based Learning** | <a href="https://github.com/practical-tutorials/project-based-learning">Link</a> |  |
+| 11 |  | **跟李沐学AI** | <a href="https://github.com/mli/paper-reading">Link</a> |  |
