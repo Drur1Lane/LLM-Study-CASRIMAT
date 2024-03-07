@@ -104,13 +104,13 @@
 ## 知乎
 |序号|博主|名称|链接|备注|
 |-|-|-|-|-|
-| 1 |  | ChatGLM2-6B微调 | <a href="https://www.zhihu.com/question/596950521">Link</a> |  |
-| 2 |  | ChatGLM2-6B微调 | <a href="https://zhuanlan.zhihu.com/p/641047705">Link</a> |  |
-| 3 |  | 微调经验总结（无代码） | <a href="https://zhuanlan.zhihu.com/p/635710004">Link</a> |  |
-| 4 |  | **大模型LLM领域，有哪些可以作为学术研究方向？** | <a href="https://www.zhihu.com/question/595298808">Link</a> |  |
-| 5 |  | 大模型的微调一般训练多少epoch不会过拟合？ | <a href="https://www.zhihu.com/question/607397171">Link</a> |  |
-| 6 |  | **导师让我搞gpt方向，我该怎么去学？** | <a href="https://www.zhihu.com/question/604134581">Link</a> |  |
-| 7 |  | 为什么现在的LLM都是Decoder only的架构？ | <a href="https://www.zhihu.com/question/588325646">Link</a> |  |
+| 1 | - | ChatGLM2-6B微调 | <a href="https://www.zhihu.com/question/596950521">Link</a> |  |
+| 2 | 一个有毅力的吃货 | ChatGLM2-6B微调 | <a href="https://zhuanlan.zhihu.com/p/641047705">Link</a> |  |
+| 3 | 回旋托马斯x | 微调经验总结（无代码） | <a href="https://zhuanlan.zhihu.com/p/635710004">Link</a> |  |
+| 4 | - | **大模型LLM领域，有哪些可以作为学术研究方向？** | <a href="https://www.zhihu.com/question/595298808">Link</a> |  |
+| 5 | - | 大模型的微调一般训练多少epoch不会过拟合？ | <a href="https://www.zhihu.com/question/607397171">Link</a> |  |
+| 6 | - | **导师让我搞gpt方向，我该怎么去学？** | <a href="https://www.zhihu.com/question/604134581">Link</a> |  |
+| 7 | - | 为什么现在的LLM都是Decoder only的架构？ | <a href="https://www.zhihu.com/question/588325646">Link</a> |  |
 | 8 | 无数据不智能 | 大模型训练之微调篇 | <a href="https://zhuanlan.zhihu.com/p/625896377">Link</a> |  |
 | 9 | 无数据不智能 | 大模型训练之模型篇 | <a href="https://zhuanlan.zhihu.com/p/625894818">Link</a> |  |
 | 10 | 人大AI Box | GPT-4之高考评测 | <a href="https://zhuanlan.zhihu.com/p/614863362">Link</a> |  |
@@ -123,13 +123,13 @@
 | 17 | 包包算法笔记 | 大模型训练的一些坑点和判断 | <a href="https://zhuanlan.zhihu.com/p/500333225">Link</a> |  |
 | 18 | 腾讯 | 大模型微调（finetune）方法总结-LoRA,Adapter,Prefix-tuning，P-tuning，Prompt-tuning | <a href="https://zhuanlan.zhihu.com/p/636481171">Link</a> |  |
 | 19 | 腾讯 | 大模型微调（finetune）方法总结 | <a href="https://zhuanlan.zhihu.com/p/644122818">Link</a> |  |
-| 20 |  | 大模型高效微调综述下： DiffPruning、BitFit、LoRa、AdaLoRA、MAM Adapters、UniPELT | <a href="https://zhuanlan.zhihu.com/p/639068809">Link</a> |  |
+| 20 | 神洛 | 大模型高效微调综述下： DiffPruning、BitFit、LoRa、AdaLoRA、MAM Adapters、UniPELT | <a href="https://zhuanlan.zhihu.com/p/639068809">Link</a> |  |
 | 21 | 马东什么 | Tokenizers小结 | <a href="https://zhuanlan.zhihu.com/p/360290118">Link</a> |  |
-| 22 |  | 想学习大语言模型(LLM)，应该从哪个开源模型开始？ | <a href="https://www.zhihu.com/question/608820310">Link</a> |  |
-| 23 |  | **机器学习中的“可解释性”该作何解释？** | <a href="https://www.zhihu.com/question/505153525/answer/3257841592">Link</a> |  |
+| 22 | - | 想学习大语言模型(LLM)，应该从哪个开源模型开始？ | <a href="https://www.zhihu.com/question/608820310">Link</a> |  |
+| 23 | - | **机器学习中的“可解释性”该作何解释？** | <a href="https://www.zhihu.com/question/505153525/answer/3257841592">Link</a> |  |
 | 24 | 范浩强 | 完蛋！我被大模型包围了 | <a href="https://zhuanlan.zhihu.com/p/665393240">Link</a> |  |
-| 25 |  | Greedy Decoding、Beam Search、Top-k、Top-n | <a href="https://zhuanlan.zhihu.com/p/644184931">Link</a> |  |
-| 26 |  | **Nlp句子分类，句子长度差异特别大，200-5000，200-上万，有什么办法处理或者什么模型可用吗？** | <a href="https://www.zhihu.com/question/421735170">Link</a> |  |
+| 25 | 养生的控制人 | Greedy Decoding、Beam Search、Top-k、Top-n | <a href="https://zhuanlan.zhihu.com/p/644184931">Link</a> |  |
+| 26 | - | **Nlp句子分类，句子长度差异特别大，200-5000，200-上万，有什么办法处理或者什么模型可用吗？** | <a href="https://www.zhihu.com/question/421735170">Link</a> |  |
 | 27 | **文因互联** | **文因互联首席科学家宋劼：大模型+金融：将场景革命进行到底** | <a href="https://zhuanlan.zhihu.com/p/670520666">Link</a> | **值得关注首席科学家：宋劼（<a href="https://blog.csdn.net/csdnnews/article/details/130006506">其他信息</a>）** |
 | 28 | 快乐子涵酱 | **LLM微调经验&认知-2** | <a href="https://zhuanlan.zhihu.com/p/676723672">Link</a> |  |
 | 29 | 李文举说 | **如何在小公司做大模型** | <a href="https://zhuanlan.zhihu.com/p/680708700">Link</a> | **小公司做LLM经验：1.多交流；2.先搞数据，再做具体业务；3.走大路，不要另辟蹊径** |
