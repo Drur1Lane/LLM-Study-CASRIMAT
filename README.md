@@ -24,7 +24,7 @@
 | 12 | Phi-2 | 微软 |  | <a href="https://huggingface.co/microsoft/phi-2">Link</a> |  |
 
 ### 微调大模型（金融为主）
-|序号|名称|机构|Github|Hugging Face|
+|序号|名称|机构|Github|备注|
 |-|-|-|-|-|
 | 1 | **FinPT** | 港大 & 达摩院 | <a href="https://github.com/YuweiYin/FinPT">Link</a> |  |
 | 2 | **2023年的FinBERT** |  | <a href="https://github.com/yya518/FinBERT">Link</a> |  |
