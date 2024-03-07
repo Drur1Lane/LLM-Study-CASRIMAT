@@ -220,7 +220,7 @@
 ### Prompt Engineering
 |序号|来源|名称|链接|备注|
 |-|-|-|-|-|
-| 1 |  | **promptGuide** | <a href="https://www.promptingguide.ai/">Link</a> | **全面介绍提示工程的网站** |
+| 1 | DAIR.AI(Democratizing Artificial Intelligence Research, Education, and Technologies) | **promptGuide** | <a href="https://www.promptingguide.ai/">Link</a> | **全面介绍提示工程的网站** |
 | 2 | Medium | 12 Prompt Engineering Techniques | <a href="https://cobusgreyling.medium.com/12-prompt-engineering-techniques-644481c857aa">Link</a> | 12种提示方式的介绍（<a href="https://mp.weixin.qq.com/s/1qVhcCRmlYvGZcOe3W3r1Q">中文版</a>） |
 | 3 | **OpenAI** | **Prompt Engineering官方文档** | <a href="https://platform.openai.com/docs/guides/prompt-engineering">Link</a> | <a href="https://mp.weixin.qq.com/s/jOU2qT5o88tuZC1p6vLkJw">中文简介</a> |
 | 4 | **微软** | **Prompt Engineering官方文档** | <a href="https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions#specifying-the-output-structure">Link</a> | <a href="https://mp.weixin.qq.com/s/luovRT3AJJd93LhjpxeYRA">中文简介</a> |
@@ -232,7 +232,7 @@
 | 2 | arXiv | Language Models Represent Space and Time | <a href="https://arxiv.org/abs/2310.02207">Link</a> | 大语言模型对于世界的理解（<a href="https://mp.weixin.qq.com/s/WaPqsPI4sCdEZoeID0cdew">中文解释</a>） |
 | 3 | 徐明老师 | **NLP大模型微调答疑** | <a href="https://blog.csdn.net/mingzai624/article/details/130735366?spm=1001.2014.3001.5502">Link</a> |  |
 | 4 | Microsoft | State of GPT | <a href="https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2">Link</a> |  |
-| 5 |  | 一文看懂学习率Learning Rate，从入门到CLR | <a href="https://blog.csdn.net/u012526436/article/details/90486021">Link</a> |  |
+| 5 | CSDN | 一文看懂学习率Learning Rate，从入门到CLR | <a href="https://blog.csdn.net/u012526436/article/details/90486021">Link</a> |  |
 | 6 | Oldpan个人博客 | **关于训练神经网路的诸多技巧Tricks(完全总结版)** | <a href="https://oldpan.me/archives/how-to-use-tricks-to-train-network">Link</a> |  |
 | 7 | **腾讯云** | **Prompt、RAG、微调还是重新训练？选择正确的生成式 AI 的方法指南** | <a href="https://cloud.tencent.com/developer/article/2313660">Link</a> | **从回答准确性、实施复杂性、维护成本、所需要投入的努力、灵活应对变化的能力5个方面对prompt engineering, RAG, fine-tune, pre-training 4种应用LLM的方式进行了对比** |
 
