@@ -99,7 +99,6 @@
 |序号|UP主|名称|链接|备注|
 |-|-|-|-|-|
 | 1 | 贯一智能科技 | **国内外十大语言模型之横向对比评测【模型评测08】** | <a href="https://www.bilibili.com/video/BV1c64y157Qm?vd_source=212a48f118f484bfff9c726b8ee904f2">Link</a> | **主观但实用的LLM测评** |
-| 2 |  |  |  |  |
 
 
 ## 知乎
@@ -208,7 +207,6 @@
 | 1 | 复旦 | 大规模语言模型：从理论到实践 | <a href="https://intro-llm.github.io/">Link</a> |  |
 | 2 | 刘聪NLP | ChatGPT原理与实战：大型语言模型的算法、技术和私有化 | <a href="https://github.com/liucongg/ChatGPTBook">Link</a> |  |
 | 3 | 中国人工智能学会 | 中国人工智能系列白皮书——大模型技术（2023版） | <a href="https://caai.cn/index.php?s=/home/article/detail/id/3172.html">Link</a> |  |
-| 4 |  |  | <a href="">Link</a> |  |
 
 
 ## Kaggle
@@ -285,7 +283,6 @@
 | 10 | Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models | arXiv |  | <a href="https://arxiv.org/abs/2312.06585">Link</a> | 大模型自我构建数据进行训练 |
 | 11 | PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU | arXiv | 上交 | <a href="https://arxiv.org/abs/2311.11797">Link</a> | 使用RTX 4090跑175B大模型 |
 | 12 | StructGPT: A General Framework for Large Language Model to Reason over Structured Data | arXiv |  | <a href="https://arxiv.org/abs/2305.09645">Link</a> | 面向结构化数据的大模型推理框架 |
-| 13 |  | arXiv |  | <a href="">Link</a> |  |
 
 ### 领域大模型构建
 |序号|题目|期刊|机构|网址|简介|
@@ -303,7 +300,6 @@
 | 11 |  | arXiv | 武汉大学、中山大学等 | <a href="https://arxiv.org/abs/2306.05443">Link</a> | 金融大模型PIXIU |
 | 12 | Data-Centric Financial Large Language Models | arXiv | 阿里巴巴、弗吉尼亚大学 | <a href="http://arxiv.org/abs/2310.17784">Link</a> | 金融大模型FLLM |
 | 13 |  | arXiv | 复旦等 | <a href="http://arxiv.org/abs/2302.09432">Link</a> | 金融大模型Fin-T5 |
-| 14 |  | arXiv |  | <a href="">Link</a> |  |
 
 ### 数据集构建
 |序号|题目|期刊|机构|网址|简介|
@@ -311,7 +307,6 @@
 | 1 |  | arXiv |  | <a href="https://arxiv.org/abs/2306.14096">Link</a> | 中文金融情感分析数据集 |
 | 2 |  | arXiv | 哈工深 | <a href="https://arxiv.org/abs/2308.01415">Link</a> | 金融指令调优数据集 |
 | 3 |  | arXiv |  | <a href="http://arxiv.org/abs/2210.03849">Link</a> | ConvFinQA |
-| 4 |  | arXiv |  | <a href="">Link</a> |  |
 
 ### 思维链与大模型推理
 |序号|题目|期刊|机构|网址|简介|
@@ -339,22 +334,19 @@
 |-|-|-|-|-|-|
 | 1 | Table-GPT: Table-tuned GPT for Diverse Table Tasks | arXiv | 微软 | <a href="https://arxiv.org/abs/2310.09263">Link</a> |  |
 | 2 | Trompt: Towards a Better Deep Neural Network for Tabular Data | arXiv | 国立成功大学 | <a href="http://arxiv.org/abs/2305.18446">Link</a> |  |
-| 3 |  | avXiv |  | <a href="">Link</a> |  |
 
 ### 大模型与图
 |序号|题目|期刊|机构|网址|简介|
 |-|-|-|-|-|-|
 | 1 | Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph | arXiv |  | <a href="https://arxiv.org/abs/2307.07697">Link</a> | 大模型与知识图谱 |
-| 2 |  | avXiv |  | <a href="">Link</a> |  |
 
 ### AI Agents
 |序号|题目|期刊|机构|网址|简介|
 |-|-|-|-|-|-|
 | 1 | Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus? | avXiv |  | <a href="http://arxiv.org/abs/2301.07543">Link</a> | ABM，模拟人类行为 |
 | 2 | War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars | avXiv |  | <a href="https://arxiv.org/abs/2311.17227">Link</a> | 基于LLM的企业风险传染？基于大语言模型的多智能体仿真世界大战 |
-| 3 | **Large Language Models Empowered Agent-basedModeling and Simulation: A Survey and Perspectives** | avXiv | 清华 | <a href="https://arxiv.org/abs/2312.11970">Link</a> | 对ABM和LLM的综述 |
+| 3 | **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives** | avXiv | 清华 | <a href="https://arxiv.org/abs/2312.11970">Link</a> | 对ABM和LLM的综述 |
 | 4 | Generative Agents: Interactive Simulacra of Human Behavior | avXiv |  | <a href="https://arxiv.org/abs/2304.03442">Link</a> | 让大模型玩模拟人生 |
-| 5 |  | avXiv |  | <a href="">Link</a> |  |
 
 ### 技术报告
 |序号|题目|期刊|机构|网址|简介|
@@ -362,7 +354,6 @@
 | 1 |  |  | 谷歌 | <a href="https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf">Link</a> | Gemini |
 | 2 |  |  | 微软 | <a href="https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/">Link</a> | Phi2 |
 | 3 |  |  |  | <a href="https://mistral.ai/news/mixtral-of-experts/">Link</a> | Mixtral 8*7B |
-| 4 |  |  |  | <a href="">Link</a> |  |
 
 ### Prompting Engineering
 |序号|题目|期刊|机构|网址|简介|
