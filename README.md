@@ -11,9 +11,8 @@
 |序号|名称|机构|Github|Hugging Face|简介|
 |-|-|-|-|-|-|
 | 1 | Baichuan系列 | 百川智能 | <a href="https://github.com/baichuan-inc/Baichuan-7B">Baichuan-7B</a>，<a href="https://github.com/baichuan-inc/Baichuan-13B">Baichuan-13B</a>，<a href="https://github.com/baichuan-inc/Baichuan2">Baichuan2</a> | <a href="https://huggingface.co/baichuan-inc">Link</a> |  |
-| 4 | ChatGLM系列 |  | <a href="https://github.com/THUDM/ChatGLM-6B">ChatGLM-6B</a>，<a href="https://github.com/THUDM/ChatGLM2-6B">ChatGLM2-6B</a>，<a href="https://github.com/THUDM/ChatGLM3">ChatGLM3-6B</a> | <a href="https://huggingface.co/THUDM/chatglm-6b">ChatGLM-6B</a>，<a href="https://huggingface.co/THUDM/chatglm2-6b">ChatGLM2-6B</a>，<a href="https://huggingface.co/THUDM/chatglm3-6b">ChatGLM3-6B</a> |  |
-| 7 | LLaMA | Meta | <a href="https://github.com/facebookresearch/llama">Link</a> |  |  |
-| 8 | LLaMA2 | Meta |  | <a href="https://huggingface.co/daryl149/llama-2-7b-chat-hf">Link</a> |  |
+| 2 | ChatGLM系列 |  | <a href="https://github.com/THUDM/ChatGLM-6B">ChatGLM-6B</a>，<a href="https://github.com/THUDM/ChatGLM2-6B">ChatGLM2-6B</a>，<a href="https://github.com/THUDM/ChatGLM3">ChatGLM3-6B</a> | <a href="https://huggingface.co/THUDM/chatglm-6b">ChatGLM-6B</a>，<a href="https://huggingface.co/THUDM/chatglm2-6b">ChatGLM2-6B</a>，<a href="https://huggingface.co/THUDM/chatglm3-6b">ChatGLM3-6B</a> |  |
+| 3 | LLaMA系列 | Meta | <a href="https://github.com/facebookresearch/llama">LLaMA</a>，<a href="https://huggingface.co/daryl149/llama-2-7b-chat-hf">LLaMA2</a> |  |  |
 | 9 | 中文llama2 & Alpaca | 科大讯飞 | <a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca">Link</a> |  |  |
 | 10 | 中文llama2 & Alpaca 2 | 科大讯飞 | <a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca-2">Link</a> |  |  |
 | 11 | Mistral系列 |  |  | <a href="https://huggingface.co/mistralai">Link</a> |  |
