@@ -63,15 +63,15 @@
 | 4 | **LangGPT** | <a href="https://github.com/EmbraceAGI/LangGPT?tab=readme-ov-file">Link</a> | **结构化prompt——一种面向LLM的编程语言** |
 
 ### 数据
-|序号|名称|Github|Hugging Face|语种|备注|
-|-|-|-|-|-|-|
-| 1 | chatgpt-corpus | <a href="https://github.com/PlexPt/chatgpt-corpus">Link</a> |  | 中文 | GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说、古书资源 |
-| 2 | FinChina-SA | <a href="https://github.com/YerayL/FinChina-SA">Link</a> |  | 中文 | 金融情感分析 |
-| 3 | FinanceIQ | <a href="https://github.com/Duxiaoman-DI/XuanYuan/tree/main/FinanceIQ">Link</a> |  | 中文 | 金融知识评测（10个大类36个小类，总计7173个单选题） |
-| 4 | FinCorpus |  | <a href="https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus">Link</a> | 中文 | 上市公司公告、金融新闻、金融试题 |
-| 5 | BBT-FinCorpus & CFLEB | <a href="https://github.com/ssymmetry/BBT-FinCUGE-Applications">Link</a> |  | 中文 | 金融领域语料库 & 中文金融自然语言处理评测基准 |
-| 6 | ChineseNlpCorpus | <a href="https://github.com/InsaneLife/ChineseNLPCorpus">Link</a> |  | 中文 | 中文NLP数据集整合 |
-| 7 | FinNLP | <a href="https://github.com/AI4Finance-Foundation/FinNLP">Link</a> |  |
+|序号|名称|作者|Github|Hugging Face|语种|备注|
+|-|-|-|-|-|-|-|
+| 1 | chatgpt-corpus | PlexPt (民间) | <a href="https://github.com/PlexPt/chatgpt-corpus">Link</a> |  | 中文 | GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说、古书资源 |
+| 2 | FinChina-SA | FinChina AI Research (华安基金) | <a href="https://github.com/YerayL/FinChina-SA">Link</a> |  | 中文 | 金融情感分析 |
+| 3 | FinanceIQ | 度小满 | <a href="https://github.com/Duxiaoman-DI/XuanYuan/tree/main/FinanceIQ">Link</a> |  | 中文 | 金融知识评测（10个大类36个小类，总计7173个单选题） |
+| 4 | FinCorpus | 度小满 | <a href="https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus">Link</a> |  | 中文 | 上市公司公告、金融新闻、金融试题 |
+| 5 | BBT-FinCorpus & CFLEB |  | <a href="https://github.com/ssymmetry/BBT-FinCUGE-Applications">Link</a> |  | 中文 | 金融领域语料库 & 中文金融自然语言处理评测基准 |
+| 6 | ChineseNlpCorpus |  | <a href="https://github.com/InsaneLife/ChineseNLPCorpus">Link</a> |  | 中文 | 中文NLP数据集整合 |
+| 7 | FinNLP |  | <a href="https://github.com/AI4Finance-Foundation/FinNLP">Link</a> |  |  |  |
 
 ### Other
 |序号|名称|链接|备注|
