@@ -41,7 +41,8 @@
 | 13 | **DISC-FinLLM** | 复旦 | <a href="https://github.com/FudanDISC/DISC-FinLLM">Link</a> |  |
 | 14 | **2023 ChatGLM金融大模型挑战赛** | 阿里 | <a href="https://github.com/MetaGLM/FinGLM?tab=readme-ov-file">Link</a> | **<a href="https://mp.weixin.qq.com/s/FML3mx7McW735Qt0pgy6TQ">中文推文</a>** |
 | 15 | **CFGPT** | 同济 | <a href="https://github.com/TongjiFinLab/CFGPT">Link</a> |  |
-| 16 | **ChatGLM微调** | 刘聪NLP | <a href="https://github.com/liucongg/ChatGLM-Finetuning">Link</a> |  |
+| 16 | ChatGLM微调 | 刘聪NLP | <a href="https://github.com/liucongg/ChatGLM-Finetuning">Link</a> |  |
+| 17 | **LLaMA-Factory** | 郑耀威，北航博士 | <a href="https://github.com/hiyouga/LLaMA-Factory">Link</a> | **大模型微调工具**，<a href="https://mp.weixin.qq.com/s/VS-MFKL5kUxYbdrnkytO7A">最下方有讲解视频</a> |
 
 ### 练手小大模型
 |序号|名称|Github|备注|
@@ -53,6 +54,7 @@
 | 5 | MiniGPT-4 | <a href="https://github.com/Vision-CAIR/MiniGPT-4">Link</a> |  |
 | 6 | TinyLLaMA | <a href="https://github.com/jzhang38/TinyLlama">Link</a> |  |
 | 7 | **minbpe** | <a href="https://github.com/karpathy/minbpe">Link</a> | By Karpathy，<a href="https://www.youtube.com/watch?v=zduSFxRajkE">配套视频</a>, <a href="https://mp.weixin.qq.com/s/IFlSPdoQk5HqWTfvfgoG2Q">中文介绍</a> |
+| 8 | **miniLLM** | <a href="https://github.com/jiahe7ay/MINI_LLM">Link</a> | <a href="https://zhuanlan.zhihu.com/p/684946331">中文介绍</a> |
 
 ### Prompt Engineering
 |序号|名称|Github or Hugging Face|备注|
