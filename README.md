@@ -43,6 +43,7 @@
 | 15 | **CFGPT** | 同济 | <a href="https://github.com/TongjiFinLab/CFGPT">Link</a> |  |
 | 16 | ChatGLM微调 | 刘聪NLP | <a href="https://github.com/liucongg/ChatGLM-Finetuning">Link</a> |  |
 | 17 | **LLaMA-Factory** | 郑耀威，北航博士 | <a href="https://github.com/hiyouga/LLaMA-Factory">Link</a> | **大模型微调工具**，<a href="https://mp.weixin.qq.com/s/VS-MFKL5kUxYbdrnkytO7A">最下方有讲解视频</a> |
+| 18 | **Stanford Alpaca** | Stanford | <a href="https://github.com/tatsu-lab/stanford_alpaca">Link</a> |  |
 
 ### 练手小大模型
 |序号|名称|Github|备注|
