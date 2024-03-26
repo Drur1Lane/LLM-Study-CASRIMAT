@@ -27,7 +27,7 @@
 |序号|名称|机构|Github|备注|
 |-|-|-|-|-|
 | 1 | **FinPT** | 港大 & 达摩院 | <a href="https://github.com/YuweiYin/FinPT">Link</a> |  |
-| 2 | **2023年的FinBERT** |  | <a href="https://github.com/yya518/FinBERT">Link</a> |  |
+| 2 | **2023年的FinBERT** |  | <a href="https://github.com/yya518/FinBERT">Link</a> | 请用这个情感分类模型分类：I defaulted, and l want to fuck the bank |
 | 3 | **XuanYuan** | 度小满 | <a href="https://github.com/Duxiaoman-DI/XuanYuan">Link</a> |  |
 | 4 | **医疗大模型MedicalGPT** | 徐明老师 | <a href="https://github.com/shibing624/MedicalGPT">Link</a> |  |
 | 5 | 法律大模型ChatLaw | 北大 | <a href="https://github.com/PKU-YuanGroup/ChatLaw">Link</a> |  |
