@@ -75,6 +75,7 @@
 | 5 | BBT-FinCorpus & CFLEB |  | <a href="https://github.com/ssymmetry/BBT-FinCUGE-Applications">Link</a> |  | 中 | 金融领域语料库 & 中文金融自然语言处理评测基准 |
 | 6 | ChineseNlpCorpus | InsaneLife (民间) | <a href="https://github.com/InsaneLife/ChineseNLPCorpus">Link</a> |  | 中 | 中文NLP数据集整合 |
 | 7 | FinNLP | 哥大刘小洋等 | <a href="https://github.com/AI4Finance-Foundation/FinNLP">Link</a> |  | 中英 |  |
+| 8 | FinBench | 港大、达摩院 |  | <a href="https://huggingface.co/datasets/yuweiyin/FinBench">Link</a> | 表格 | 10个人工整理的Kaggle金融风险数据集（信用、贷款、流失） |
 
 ### Other
 |序号|名称|链接|备注|
