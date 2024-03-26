@@ -76,6 +76,15 @@
 | 6 | ChineseNlpCorpus | InsaneLife (民间) | <a href="https://github.com/InsaneLife/ChineseNLPCorpus">Link</a> |  | 中 | 中文NLP数据集整合 |
 | 7 | FinNLP | 哥大刘小洋等 | <a href="https://github.com/AI4Finance-Foundation/FinNLP">Link</a> |  | 中英 |  |
 | 8 | FinBench | 港大、达摩院 |  | <a href="https://huggingface.co/datasets/yuweiyin/FinBench">Link</a> | 表格 | 10个人工整理的Kaggle金融风险数据集（信用、贷款、流失） |
+| 9 | MMLU | 伯克利 | <a href="https://github.com/hendrycks/test">Link</a> |  | 英 | 综合英文评测，57个主题，难度初级->高级专业，<a href="https://arxiv.org/abs/2009.03300">arXiv文章</a> |
+| 10 | CMMLU | 上交等 | <a href="https://github.com/haonan-li/CMMLU">Link</a> |  | 中 | 综合中文评测，67个主题，难度基础->高级专业，<a href="https://arxiv.org/abs/2306.09212">arXiv文章</a> |
+| 11 | C-Eval | 上交、清华等 | <a href="https://github.com/hkust-nlp/ceval#data">link</a> | <a href="https://huggingface.co/datasets/ceval/ceval-exam">link</a> | 中 | 综合中文评测，13948多选题，52个学科，4个难度级别，<a href="https://cevalbenchmark.com/index.html#home">官网</a>，<a href="https://arxiv.org/abs/2305.08322">arXiv文章</a> |
+| 12 | CFBenchmark | 同济 | <a href="https://github.com/TongjiFinLab/CFBenchmark/blob/main/README-CN.md">Link</a> |  | 中 | 3917金融文本，3方面8任务 |
+| 13 | OpenFinData | 东方财富、上海AI Lab | <a href="https://github.com/open-compass/OpenFinData?tab=readme-ov-file">Link</a> |  | 中 | 真实业务金融测评，6模块19任务 |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
 
 ### Other
 |序号|名称|链接|备注|
