@@ -66,21 +66,21 @@
 | 4 | **LangGPT** | <a href="https://github.com/EmbraceAGI/LangGPT?tab=readme-ov-file">Link</a> | **结构化prompt——一种面向LLM的编程语言** |
 
 ### 数据
-|序号|名称|作者|Github|Hugging Face|语种|备注|
+|序号|名称|语种|Github|Hugging Face|作者|备注|
 |-|-|-|-|-|-|-|
-| 1 | chatgpt-corpus | PlexPt (民间) | <a href="https://github.com/PlexPt/chatgpt-corpus">Link</a> |  | 中 | GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说、古书资源 |
-| 2 | FinChina-SA | FinChina AI Research (华安基金) | <a href="https://github.com/YerayL/FinChina-SA">Link</a> |  | 中 | 金融情感分析 |
-| 3 | FinanceIQ | 度小满 | <a href="https://github.com/Duxiaoman-DI/XuanYuan/tree/main/FinanceIQ">Link</a> |  | 中 | 金融知识评测（10个大类36个小类，总计7173个单选题） |
-| 4 | FinCorpus | 度小满 | <a href="https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus">Link</a> |  | 中 | 上市公司公告、金融新闻、金融试题 |
-| 5 | BBT-FinCorpus & CFLEB |  | <a href="https://github.com/ssymmetry/BBT-FinCUGE-Applications">Link</a> |  | 中 | 金融领域语料库 & 中文金融自然语言处理评测基准 |
-| 6 | ChineseNlpCorpus | InsaneLife (民间) | <a href="https://github.com/InsaneLife/ChineseNLPCorpus">Link</a> |  | 中 | 中文NLP数据集整合 |
-| 7 | FinNLP | 哥大刘小洋等 | <a href="https://github.com/AI4Finance-Foundation/FinNLP">Link</a> |  | 中英 |  |
-| 8 | FinBench | 港大、达摩院 |  | <a href="https://huggingface.co/datasets/yuweiyin/FinBench">Link</a> | 表格 | 10个人工整理的Kaggle金融风险数据集（信用、贷款、流失） |
-| 9 | MMLU | 伯克利 | <a href="https://github.com/hendrycks/test">Link</a> |  | 英 | 综合英文评测，57个主题，难度初级->高级专业，<a href="https://arxiv.org/abs/2009.03300">arXiv文章</a> |
-| 10 | CMMLU | 上交等 | <a href="https://github.com/haonan-li/CMMLU">Link</a> |  | 中 | 综合中文评测，67个主题，难度基础->高级专业，<a href="https://arxiv.org/abs/2306.09212">arXiv文章</a> |
-| 11 | C-Eval | 上交、清华等 | <a href="https://github.com/hkust-nlp/ceval#data">link</a> | <a href="https://huggingface.co/datasets/ceval/ceval-exam">link</a> | 中 | 综合中文评测，13948多选题，52个学科，4个难度级别，<a href="https://cevalbenchmark.com/index.html#home">官网</a>，<a href="https://arxiv.org/abs/2305.08322">arXiv文章</a> |
-| 12 | CFBenchmark | 同济 | <a href="https://github.com/TongjiFinLab/CFBenchmark/blob/main/README-CN.md">Link</a> |  | 中 | 3917金融文本，3方面8任务 |
-| 13 | OpenFinData | 东方财富、上海AI Lab | <a href="https://github.com/open-compass/OpenFinData?tab=readme-ov-file">Link</a> |  | 中 | 真实业务金融测评，6模块19任务 |
+| 1 | chatgpt-corpus | 中 | <a href="https://github.com/PlexPt/chatgpt-corpus">Link</a> |  | PlexPt (民间) | GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说、古书资源 |
+| 2 | FinChina-SA | 中 | <a href="https://github.com/YerayL/FinChina-SA">Link</a> |  | FinChina AI Research (华安基金) | 金融情感分析 |
+| 3 | FinanceIQ | 中 | <a href="https://github.com/Duxiaoman-DI/XuanYuan/tree/main/FinanceIQ">Link</a> |  | 度小满 | 金融知识评测（10个大类36个小类，总计7173个单选题） |
+| 4 | FinCorpus | 中 | <a href="https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus">Link</a> |  | 度小满 | 上市公司公告、金融新闻、金融试题 |
+| 5 | BBT-FinCorpus & CFLEB | 中 | <a href="https://github.com/ssymmetry/BBT-FinCUGE-Applications">Link</a> |  |  | 金融领域语料库 & 中文金融自然语言处理评测基准 |
+| 6 | ChineseNlpCorpus | 中 | <a href="https://github.com/InsaneLife/ChineseNLPCorpus">Link</a> |  | InsaneLife (民间) | 中文NLP数据集整合 |
+| 7 | FinNLP | 中英 | <a href="https://github.com/AI4Finance-Foundation/FinNLP">Link</a> |  | 哥大刘小洋等 |  |
+| 8 | FinBench | 表格 |  | <a href="https://huggingface.co/datasets/yuweiyin/FinBench">Link</a> | 港大、达摩院 | 10个人工整理的Kaggle金融风险数据集（信用、贷款、流失） |
+| 9 | MMLU | 英 | <a href="https://github.com/hendrycks/test">Link</a> |  | 伯克利 | 综合英文评测，57个主题，难度初级->高级专业，<a href="https://arxiv.org/abs/2009.03300">arXiv文章</a> |
+| 10 | CMMLU | 中 | <a href="https://github.com/haonan-li/CMMLU">Link</a> |  | 上交等 | 综合中文评测，67个主题，难度基础->高级专业，<a href="https://arxiv.org/abs/2306.09212">arXiv文章</a> |
+| 11 | C-Eval | 中 | <a href="https://github.com/hkust-nlp/ceval#data">link</a> | <a href="https://huggingface.co/datasets/ceval/ceval-exam">link</a> | 上交、清华等 | 综合中文评测，13948多选题，52个学科，4个难度级别，<a href="https://cevalbenchmark.com/index.html#home">官网</a>，<a href="https://arxiv.org/abs/2305.08322">arXiv文章</a> |
+| 12 | CFBenchmark | 中 | <a href="https://github.com/TongjiFinLab/CFBenchmark/blob/main/README-CN.md">Link</a> |  | 同济 | 3917金融文本，3方面8任务 |
+| 13 | OpenFinData | 中 | <a href="https://github.com/open-compass/OpenFinData?tab=readme-ov-file">Link</a> |  | 东方财富、上海AI Lab | 真实业务金融测评，6模块19任务 |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
