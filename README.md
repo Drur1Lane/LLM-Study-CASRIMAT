@@ -70,7 +70,7 @@
 |-|-|-|-|-|-|-|
 | 1 | chatgpt-corpus | 中 | <a href="https://github.com/PlexPt/chatgpt-corpus">Link</a> |  | PlexPt (民间) | GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说、古书资源 |
 | 2 | FinChina-SA | 中 | <a href="https://github.com/YerayL/FinChina-SA">Link</a> |  | FinChina AI Research (华安基金) | 金融情感分析 |
-| 3 | FinanceIQ | 中 | <a href="https://github.com/Duxiaoman-DI/XuanYuan/tree/main/FinanceIQ">Link</a> |  | 度小满 | 金融知识评测（10个大类36个小类，总计7173个单选题） |
+| 3 | FinanceIQ | 中 | <a href="https://github.com/Duxiaoman-DI/XuanYuan/tree/main/FinanceIQ">Link</a> | <a href="https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ">Link</a> | 度小满 | 金融知识评测（10个大类36个小类，总计7173个单选题） |
 | 4 | FinCorpus | 中 | <a href="https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus">Link</a> |  | 度小满 | 上市公司公告、金融新闻、金融试题 |
 | 5 | BBT-FinCorpus & CFLEB | 中 | <a href="https://github.com/ssymmetry/BBT-FinCUGE-Applications">Link</a> |  |  | 金融领域语料库 & 中文金融自然语言处理评测基准 |
 | 6 | ChineseNlpCorpus | 中 | <a href="https://github.com/InsaneLife/ChineseNLPCorpus">Link</a> |  | InsaneLife (民间) | 中文NLP数据集整合 |
