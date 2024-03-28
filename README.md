@@ -81,7 +81,7 @@
 | 11 | C-Eval | 中 | <a href="https://github.com/hkust-nlp/ceval#data">link</a> | <a href="https://huggingface.co/datasets/ceval/ceval-exam">link</a> |  | 上交、清华等 | 综合中文评测，13948多选题，52个学科，4个难度级别，<a href="https://cevalbenchmark.com/index.html#home">官网</a>，<a href="https://arxiv.org/abs/2305.08322">arXiv文章</a> |
 | 12 | CFBenchmark | 中 | <a href="https://github.com/TongjiFinLab/CFBenchmark/blob/main/README-CN.md">Link</a> |  |  | 同济 | 3917金融文本，3方面8任务 |
 | 13 | OpenFinData | 中 | <a href="https://github.com/open-compass/OpenFinData?tab=readme-ov-file">Link</a> |  |  | 东方财富、上海AI Lab | 真实业务金融测评，6模块19任务 |
-| 14 |  |  |  |  |  |  |  |
+| 14 | InsuranceQA | 中英 | <a href="https://github.com/chatopera/insuranceqa-corpus-zh">中文版</a>，<a href="https://github.com/shuzi/insuranceQA">英文版</a> |  | <a href="https://arxiv.org/abs/1508.01585">Link</a> | IBM | 有关保险的问答数据(中文需购买，英文开源) |
 | 15 |  |  |  |  |  |  |  |
 | 16 |  |  |  |  |  |  |  |
 | 17 |  |  |  |  |  |  |  |
