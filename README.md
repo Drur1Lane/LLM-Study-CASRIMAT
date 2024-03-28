@@ -73,7 +73,7 @@
 | 3 | FinanceIQ | 中 | <a href="https://github.com/Duxiaoman-DI/XuanYuan/tree/main/FinanceIQ">Link</a> | <a href="https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ">Link</a> |  | 度小满 | 金融知识评测(10个大类36个小类，总计7173个单选题) |
 | 4 | FinCorpus | 中 |  | <a href="https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus">Link</a> |  | 度小满 | **上市公司公告**、金融新闻、金融试题 |
 | 5 | BBT-FinCorpus & CFLEB | 中 | <a href="https://github.com/ssymmetry/BBT-FinCUGE-Applications">Link</a> |  | <a href="https://arxiv.org/abs/2302.09432">Link</a> | 复旦等 | 金融领域语料库(财报、研报、新闻、帖子，需申请，但是申请不了全部的) & 中文金融评测基准(摘要、问答、分类等6个任务) |
-| 6 | ChineseNlpCorpus | 中 | <a href="https://github.com/InsaneLife/ChineseNLPCorpus">Link</a> |  |  | InsaneLife(民间) | 中文NLP数据集整合 |
+| 6 | ChineseNlpCorpus | 整合 | <a href="https://github.com/InsaneLife/ChineseNLPCorpus">Link</a> |  |  | InsaneLife(民间) | 中文NLP数据集整合，包括分类、问答、实体识别等 |
 | 7 | FinNLP | 中英 | <a href="https://github.com/AI4Finance-Foundation/FinNLP">Link</a> |  |  | 哥大刘小洋等 |  |
 | 8 | FinBench | 表格 |  | <a href="https://huggingface.co/datasets/yuweiyin/FinBench">Link</a> |  | 港大、达摩院 | 10个人工整理的Kaggle金融风险数据集（信用、贷款、流失） |
 | 9 | MMLU | 英 | <a href="https://github.com/hendrycks/test">Link</a> |  |  | 伯克利 | 综合英文评测，57个主题，难度初级->高级专业，<a href="https://arxiv.org/abs/2009.03300">arXiv文章</a> |
