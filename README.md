@@ -82,43 +82,41 @@
 | 6 | MMLU | 英 | <a href="https://github.com/hendrycks/test">Link</a> |  | <a href="https://arxiv.org/abs/2009.03300">Link</a> | 伯克利 | **综合评测**，57个主题，难度初级->高级专业 |
 | 7 | CMMLU | 中 | <a href="https://github.com/haonan-li/CMMLU">Link</a> |  | <a href="https://arxiv.org/abs/2306.09212">Link</a> | 上交等 | **综合评测**，67个主题，难度基础->高级专业 |
 | 8 | C-Eval | 中 | <a href="https://github.com/hkust-nlp/ceval#data">Link</a> | <a href="https://huggingface.co/datasets/ceval/ceval-exam">Link</a> | <a href="https://arxiv.org/abs/2305.08322">Link</a> | 上交、清华等 | **综合评测**，13948多选题，52个学科，4个难度级别，<a href="https://cevalbenchmark.com/index.html#home">官网</a> |
-| 9 |  |  |  |  |  |  |  |
-| 10 |  |  |  |  |  |  |  |
 
 #### 金融数据集
 | 序号 | 名称 | 语种 | Github | Hugging Face | 文章 | 作者 | 备注 |
 | - | - | - | - | - | - | - | - |
-| 1 | FinNLP | 中英 | <a href="https://github.com/AI4Finance-Foundation/FinNLP">Link</a> |  |  | 哥大刘小洋等 |  |
-| 2 | FinChina-SA | 中 | <a href="https://github.com/YerayL/FinChina-SA">Link</a> |  | <a href="https://arxiv.org/abs/2306.14096">Link</a> | FinChina AI Research (华安基金) | 企业**新闻金融情感分析**，输出包括企业名称、新闻情感、新闻类型 |
-| 3 | FinanceIQ | 中 | <a href="https://github.com/Duxiaoman-DI/XuanYuan/tree/main/FinanceIQ">Link</a> | <a href="https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ">Link</a> |  | 度小满 | **综合金融知识评测**(10个大类36个小类，总计7173个单选题) |
-| 4 | FinCorpus | 中 |  | <a href="https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus">Link</a> |  | 度小满 | **上市公司公告**、金融新闻、金融试题 |
-| 5 | BBT-FinCorpus & CFLEB | 中 | <a href="https://github.com/ssymmetry/BBT-FinCUGE-Applications">Link</a> |  | <a href="https://arxiv.org/abs/2302.09432">Link</a> | 复旦等 | 金融领域语料库(财报、研报、新闻、帖子，需申请，但是申请不了全部的) & **金融评测基准**(摘要、问答、分类等6个任务) |
-| 6 | sFIOG | 英 | [Link](https://github.com/guijinSON/FIOG/tree/main) | [Link](https://huggingface.co/datasets/amphora/sFIOG) |  | 延世大学等 | 针对部分美国上市公司年报，ChatGPT自动生成的问答数据(构建的不好) |
-| 7 | InsuranceQA | 中英 | <a href="https://github.com/chatopera/insuranceqa-corpus-zh">中</a>，<a href="https://github.com/shuzi/insuranceQA">英</a> |  | <a href="https://arxiv.org/abs/1508.01585">Link</a> | IBM | 有关**保险的问答数据**(中文需购买，英文开源) |
-| 8 | FinBench | 表格 |  | <a href="https://huggingface.co/datasets/yuweiyin/FinBench">Link</a> |  | 港大、达摩院 | 10个人工整理的Kaggle金融风险数据集(信用、贷款、流失) |
-| 9 | CFBenchmark | 中 | <a href="https://github.com/TongjiFinLab/CFBenchmark/blob/main/README-CN.md">Link</a> |  |  | 同济 | 3917金融文本，**3方面8任务**：公司名称等识别任务，事件检测等分类任务，风险提示等生成任务 |
-| 10 | OpenFinData | 中 | <a href="https://github.com/open-compass/OpenFinData?tab=readme-ov-file">Link</a> |  |  | 东方财富、上海AI Lab | 针对真实业务的**综合金融测评**，6模块19任务，包括知识、判别、计算、分析、解读、合规 |
-| 11 | StockNet | 英 | [Link](https://github.com/yumoxu/stocknet-dataset) |  | [Link](https://aclanthology.org/P18-1183/) |  | **FinMA用的SMP数据集**：2014-2016的88个标普股票Twitter数据和历史价格数据，>0.55%上涨/<-0.5%下跌 |
-| 12 | CIKM18 | 英 | [Link](https://github.com/wuhuizhe/CHRNN) |  | [Link](https://dl.acm.org/doi/10.1145/3269206.3269290) |  | **FinMA用的SMP数据集**：2017的47个标普股票Twitter数据和历史价格数据 |
-| 13 | BigData22 | 英   | [Link](https://github.com/deeptrade-public/slot) |  | [Link](https://ieeexplore.ieee.org/abstract/document/10020720) |  | **FinMA用的SMP数据集**：2019-2020的50个美国股票数据，也是二分类 |
-| 14 | Financial PhraseBank(FPB) | 英 |  | [Link](https://huggingface.co/datasets/financial_phrasebank) | [Link](https://arxiv.org/abs/1307.5336)  | 芬兰 | **常用的SA数据集**：4845篇财经新闻，积极/中立/消极 |
-| 15 | FiQA-SA | 英 |  | [Link](https://huggingface.co/datasets/ChanceFocus/flare-fiqasa) | [Link](https://dl.acm.org/doi/fullHtml/10.1145/3184558.3192301) | 德英 | **常用的SA数据集**：1173篇标题、微博，评分[-1,1] |
-| 16 | SemEval-2017 | 英 | [Bitbucket](https://bitbucket.org/ssix-project/semeval-2017-task-5-subtask-1/src/master/) |                                                              | [Link](https://aclanthology.org/S17-2089/) | 德英 | **综述中提到的的SA数据集**：4157个标题、微博中的句子，评分[-1,1] |
-| 17 | StockEmotions | 英 | [Link](https://github.com/adlnlp/StockEmotions) |  | [Link](https://arxiv.org/abs/2301.09279) |  | **综述中提到的的SA数据集**：10000个微博中的句子，积极/消极，还有12类细粒度情感类别 |
-| 18 | Headline | 英   | [Kaggle](https://www.kaggle.com/datasets/daittan/gold-commodity-news-and-dimensions) |  | [Link](https://arxiv.org/abs/2009.04202) |  | **常用的TC数据集**：11412句子，9种2分类问题 |
-| 19 | FedNLP | 英 | [Link](https://github.com/usydnlp/FedNLP) |  | [Link](https://arxiv.org/abs/2106.06247) |  | **综述中提到的的TC数据集**：来自Federal Open Market Committee (FOMC，联邦公开市场委员会)的材料 |
-| 20 | FOMC | 英 | [Link](https://github.com/gtfintechlab/fomc-hawkish-dovish)  |  | [Link](https://aclanthology.org/2023.acl-long.368/) |  | **综述中提到的的TC数据集**：来自Federal Open Market Committee (FOMC，联邦公开市场委员会)的材料，鸽派/鹰派/中立 |
-| 21 | Baking77 | 英 |  | [Link](https://huggingface.co/datasets/PolyAI/banking77) | [Link](https://aclanthology.org/2020.nlp4convai-1.5/) |  | **综述中提到的的TC数据集**：13083句子，77种银行服务类别 |
-| 22 | FIN | 英 |  | [Link](https://huggingface.co/datasets/ChanceFocus/flare-ner) | [Link](https://aclanthology.org/U15-1010/) |  | **常用的NER数据集**：来自SEC的8个用于信用评估的贷款协议 |
-| 23 | FiNER | 英 | [Link](https://github.com/nlpaueb/finer) |  | [Link](https://aclanthology.org/2022.acl-long.303/) |  | **综述中提到的的NER (NR?) 数据集**：110万句子，139个实体(使用可扩展商业报告语言XBRL标注) |
-| 24 | FiQA-QA | 英 |  | [Link](https://huggingface.co/datasets/FinGPT/fingpt-fiqa_qa) | [Link](https://dl.acm.org/doi/fullHtml/10.1145/3184558.3192301) |  | **常用的QA数据集**：17100金融问答对 |
-| 25 | FinQA | 英 |  | [Link](https://github.com/czyssrs/FinQA) | [Link](https://arxiv.org/abs/2109.00122) |  | **常用的QA (NR) 数据集**：8281问答对，专家根据标普500企业年报构建 |
-| 26 | ConvFinQA | 英 |  | [Link](https://github.com/czyssrs/ConvFinQA) | [Link](https://arxiv.org/abs/2210.03849) |  | **常用的QA (NR) 数据集**：3892个多轮对话，共14115个问题 |
-| 27 | ECTSum | 英 | [Link](https://github.com/rajdeep345/ECTSum) |  | [Link](https://aclanthology.org/2022.emnlp-main.748/) |  | **InvestLM用的摘要数据集**：2425文档摘要对，对路透社的盈利电话会议记录的要点摘要 |
-| 28 | MultiLing 2019 | 英 | [Website](http://multiling.iit.demokritos.gr/pages/view/1648/task-financial-narrative-summarization) |  | [Link](https://aclanthology.org/W19-8902/) |  | **综述中提到的的摘要数据集**：3863文档摘要对，来自英国股票交易所的年报 |
-| 29 | TAT-QA | 英 | [Link](https://github.com/NExTplusplus/TAT-QA) |  | [Link](https://aclanthology.org/2021.acl-long.254/) |  | **综述Github中提到的的QA (NR) 数据集**： |
-| 30 | PACIFIC | 英 | [Link](https://github.com/dengyang17/PACIFIC) |  | [Link](https://aclanthology.org/2022.emnlp-main.469/) |  | **综述Github中提到的的QA (NR) 数据集**： |
-| 31 | FinRED | 英 | [Link](https://github.com/soummyaah/FinRED/) |  | [Link](https://arxiv.org/abs/2306.03736) |  | **综述中提到的的RE数据集**：基于金融新闻和盈利电话记录构建，包含29个金融领域的关系标签 |
+|  | FinBench | 表格 |  | <a href="https://huggingface.co/datasets/yuweiyin/FinBench">Link</a> |  | 港大、达摩院 | 10个人工整理的Kaggle金融风险数据集(信用、贷款、流失) |
+|  | FinNLP | 中英 | <a href="https://github.com/AI4Finance-Foundation/FinNLP">Link</a> |  |  | 哥大刘小洋等 |  |
+|  | InsuranceQA | 中英 | <a href="https://github.com/chatopera/insuranceqa-corpus-zh">中</a>，<a href="https://github.com/shuzi/insuranceQA">英</a> |  | <a href="https://arxiv.org/abs/1508.01585">Link</a> | IBM | 有关**保险的问答数据**(中文需购买，英文开源) |
+|  | FinChina-SA | 中 | <a href="https://github.com/YerayL/FinChina-SA">Link</a> |  | <a href="https://arxiv.org/abs/2306.14096">Link</a> | FinChina AI Research (华安基金) | 企业**新闻金融情感分析**，输出包括企业名称、新闻情感、新闻类型 |
+|  | FinanceIQ | 中 | <a href="https://github.com/Duxiaoman-DI/XuanYuan/tree/main/FinanceIQ">Link</a> | <a href="https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ">Link</a> |  | 度小满 | **综合金融知识评测**(10个大类36个小类，总计7173个单选题) |
+|  | FinCorpus | 中 |  | <a href="https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus">Link</a> |  | 度小满 | **上市公司公告**、金融新闻、金融试题 |
+|  | BBT-FinCorpus & CFLEB | 中 | <a href="https://github.com/ssymmetry/BBT-FinCUGE-Applications">Link</a> |  | <a href="https://arxiv.org/abs/2302.09432">Link</a> | 复旦等 | 金融领域语料库(财报、研报、新闻、帖子，需申请，但是申请不了全部的) & **金融评测基准**(摘要、问答、分类等6个任务) |
+|  | CFBenchmark | 中 | <a href="https://github.com/TongjiFinLab/CFBenchmark/blob/main/README-CN.md">Link</a> |  |  | 同济 | 3917金融文本，**3方面8任务**：公司名称等识别任务，事件检测等分类任务，风险提示等生成任务 |
+|  | OpenFinData | 中 | <a href="https://github.com/open-compass/OpenFinData?tab=readme-ov-file">Link</a> |  |  | 东方财富、上海AI Lab | 针对真实业务的**综合金融测评**，6模块19任务，包括知识、判别、计算、分析、解读、合规 |
+|  | sFIOG | 英 | [Link](https://github.com/guijinSON/FIOG/tree/main) | [Link](https://huggingface.co/datasets/amphora/sFIOG) |  | 延世大学等 | 针对部分美国上市公司年报，ChatGPT自动生成的问答数据(构建的不好) |
+|  | StockNet | 英 | [Link](https://github.com/yumoxu/stocknet-dataset) |  | [Link](https://aclanthology.org/P18-1183/) |  | **FinMA用的SMP数据集**：2014-2016的88个标普股票Twitter数据和历史价格数据，>0.55%上涨/<-0.5%下跌 |
+|  | CIKM18 | 英 | [Link](https://github.com/wuhuizhe/CHRNN) |  | [Link](https://dl.acm.org/doi/10.1145/3269206.3269290) |  | **FinMA用的SMP数据集**：2017的47个标普股票Twitter数据和历史价格数据 |
+|  | BigData22 | 英 | [Link](https://github.com/deeptrade-public/slot) |  | [Link](https://ieeexplore.ieee.org/abstract/document/10020720) |  | **FinMA用的SMP数据集**：2019-2020的50个美国股票数据，也是二分类 |
+|  | Financial PhraseBank(FPB) | 英 |  | [Link](https://huggingface.co/datasets/financial_phrasebank) | [Link](https://arxiv.org/abs/1307.5336)  | 芬兰 | **常用的SA数据集**：4845篇财经新闻，积极/中立/消极 |
+|  | FiQA-SA | 英 |  | [Link](https://huggingface.co/datasets/ChanceFocus/flare-fiqasa) | [Link](https://dl.acm.org/doi/fullHtml/10.1145/3184558.3192301) | 德英 | **常用的SA数据集**：1173篇标题、微博，评分[-1,1] |
+|  | SemEval-2017 | 英 | [Bitbucket](https://bitbucket.org/ssix-project/semeval-2017-task-5-subtask-1/src/master/) |  | [Link](https://aclanthology.org/S17-2089/) | 德英 | **综述中提到的的SA数据集**：4157个标题、微博中的句子，评分[-1,1] |
+|  | StockEmotions | 英 | [Link](https://github.com/adlnlp/StockEmotions) |  | [Link](https://arxiv.org/abs/2301.09279) |  | **综述中提到的的SA数据集**：10000个微博中的句子，积极/消极，还有12类细粒度情感类别 |
+|  | Headline | 英   | [Kaggle](https://www.kaggle.com/datasets/daittan/gold-commodity-news-and-dimensions) |  | [Link](https://arxiv.org/abs/2009.04202) |  | **常用的TC数据集**：11412句子，9种2分类问题 |
+|  | FedNLP | 英 | [Link](https://github.com/usydnlp/FedNLP) |  | [Link](https://arxiv.org/abs/2106.06247) |  | **综述中提到的的TC数据集**：来自Federal Open Market Committee (FOMC，联邦公开市场委员会)的材料 |
+|  | FOMC | 英 | [Link](https://github.com/gtfintechlab/fomc-hawkish-dovish)  |  | [Link](https://aclanthology.org/2023.acl-long.368/) |  | **综述中提到的的TC数据集**：来自Federal Open Market Committee (FOMC，联邦公开市场委员会)的材料，鸽派/鹰派/中立 |
+|  | Baking77 | 英 |  | [Link](https://huggingface.co/datasets/PolyAI/banking77) | [Link](https://aclanthology.org/2020.nlp4convai-1.5/) |  | **综述中提到的的TC数据集**：13083句子，77种银行服务类别 |
+|  | FIN | 英 |  | [Link](https://huggingface.co/datasets/ChanceFocus/flare-ner) | [Link](https://aclanthology.org/U15-1010/) |  | **常用的NER数据集**：来自SEC的8个用于信用评估的贷款协议 |
+|  | FiNER | 英 | [Link](https://github.com/nlpaueb/finer) |  | [Link](https://aclanthology.org/2022.acl-long.303/) |  | **综述中提到的的NER (NR?) 数据集**：110万句子，139个实体(使用可扩展商业报告语言XBRL标注) |
+|  | FiQA-QA | 英 |  | [Link](https://huggingface.co/datasets/FinGPT/fingpt-fiqa_qa) | [Link](https://dl.acm.org/doi/fullHtml/10.1145/3184558.3192301) |  | **常用的QA数据集**：17100金融问答对 |
+|  | FinQA | 英 |  | [Link](https://github.com/czyssrs/FinQA) | [Link](https://arxiv.org/abs/2109.00122) |  | **常用的QA (NR) 数据集**：8281问答对，专家根据标普500企业年报构建 |
+|  | ConvFinQA | 英 |  | [Link](https://github.com/czyssrs/ConvFinQA) | [Link](https://arxiv.org/abs/2210.03849) |  | **常用的QA (NR) 数据集**：3892个多轮对话，共14115个问题 |
+|  | ECTSum | 英 | [Link](https://github.com/rajdeep345/ECTSum) |  | [Link](https://aclanthology.org/2022.emnlp-main.748/) |  | **InvestLM用的摘要数据集**：2425文档摘要对，对路透社的盈利电话会议记录的要点摘要 |
+|  | MultiLing 2019 | 英 | [Website](http://multiling.iit.demokritos.gr/pages/view/1648/task-financial-narrative-summarization) |  | [Link](https://aclanthology.org/W19-8902/) |  | **综述中提到的的摘要数据集**：3863文档摘要对，来自英国股票交易所的年报 |
+|  | TAT-QA | 英 | [Link](https://github.com/NExTplusplus/TAT-QA) |  | [Link](https://aclanthology.org/2021.acl-long.254/) |  | **综述Github中提到的的QA (NR) 数据集**： |
+|  | PACIFIC | 英 | [Link](https://github.com/dengyang17/PACIFIC) |  | [Link](https://aclanthology.org/2022.emnlp-main.469/) |  | **综述Github中提到的的QA (NR) 数据集**： |
+|  | FinRED | 英 | [Link](https://github.com/soummyaah/FinRED/) |  | [Link](https://arxiv.org/abs/2306.03736) |  | **综述中提到的的RE数据集**：基于金融新闻和盈利电话记录构建，包含29个金融领域的关系标签 |
 |  |  |  |  |  |  |  | FinBERT |
 
 ### Other
