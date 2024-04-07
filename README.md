@@ -66,9 +66,10 @@
 | 4 | **LangGPT** | <a href="https://github.com/EmbraceAGI/LangGPT?tab=readme-ov-file">Link</a> | **结构化prompt——一种面向LLM的编程语言** |
 
 ### 数据
-介绍数据集的文章：
+包含对数据集的整理的文章：
 1. <a href="https://github.com/adlnlp/FinLLMs?tab=readme-ov-file#advanced-tasks-and-datasets">A Survey of Large Language Models in Finance (FinLLMs)</a>
-2. 
+2. <a href="https://aclanthology.org/2023.findings-eacl.66">MultiFin: A Dataset for Multilingual Financial NLP</a>
+3. 
 
 |序号|名称|语种|Github|Hugging Face|文章|作者|备注|
 |-|-|-|-|-|-|-|-|
