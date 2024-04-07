@@ -76,7 +76,7 @@
 | 1 | chatgpt-corpus | 中 | <a href="https://github.com/PlexPt/chatgpt-corpus">Link</a> |  |  | PlexPt(民间) | GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说(需申请)、古书资源 |
 | 2 | ChineseNlpCorpus | 整合 | <a href="https://github.com/InsaneLife/ChineseNLPCorpus">Link</a> |  |  | InsaneLife(民间) | 中文NLP数据集整合，包括分类、问答、实体识别等 |
 | 3 | EnWiki | 英 | <a href="https://github.com/InsaneLife/ChineseNLPCorpus">Link</a> |  |  | Wiki官方 | 英文维基百科自行打包的数据 |
-| 4 | RedPajama | 英、法等 | [Link](https://github.com/togethercomputer/RedPajama-Data) |                                                              |                                                     | togethercomputer | 来自84个CommonCrawl快照，并使用CCNet进行数据处理，[CommonCrawl和CCNet介绍](https://zhuanlan.zhihu.com/p/610659484?utm_id=0) |
+| 4 | RedPajama | 英等 | [Link](https://github.com/togethercomputer/RedPajama-Data) |                                                              |                                                     | togethercomputer | 来自84个CommonCrawl快照，并使用CCNet进行数据处理，[CommonCrawl和CCNet介绍](https://zhuanlan.zhihu.com/p/610659484?utm_id=0) |
 | 5 | MedicalGPT | 中、英 | [Link](https://github.com/shibing624/MedicalGPT/blob/main/docs/datasets.md) |  |  | 徐明老师 | MedicalGPT训练中可能用到的中英通用&医疗数据集 |
 | 6 | MMLU | 英 | <a href="https://github.com/hendrycks/test">Link</a> |  | <a href="https://arxiv.org/abs/2009.03300">Link</a> | 伯克利 | **综合评测**，57个主题，难度初级->高级专业 |
 | 7 | CMMLU | 中 | <a href="https://github.com/haonan-li/CMMLU">Link</a> |  | <a href="https://arxiv.org/abs/2306.09212">Link</a> | 上交等 | **综合评测**，67个主题，难度基础->高级专业 |
