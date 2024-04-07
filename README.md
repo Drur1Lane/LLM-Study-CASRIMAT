@@ -66,6 +66,10 @@
 | 4 | **LangGPT** | <a href="https://github.com/EmbraceAGI/LangGPT?tab=readme-ov-file">Link</a> | **结构化prompt——一种面向LLM的编程语言** |
 
 ### 数据
+介绍数据集的文章：
+1. <a href="https://github.com/adlnlp/FinLLMs?tab=readme-ov-file#advanced-tasks-and-datasets">A Survey of Large Language Models in Finance (FinLLMs)</a>
+2. 
+
 |序号|名称|语种|Github|Hugging Face|文章|作者|备注|
 |-|-|-|-|-|-|-|-|
 | 1 | chatgpt-corpus | 中 | <a href="https://github.com/PlexPt/chatgpt-corpus">Link</a> |  |  | PlexPt(民间) | GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说(需申请)、古书资源 |
