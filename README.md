@@ -11,7 +11,8 @@
 |序号|名称|机构|Github|Hugging Face|简介|
 |-|-|-|-|-|-|
 | 1 | Baichuan系列 | 百川智能 | <a href="https://github.com/baichuan-inc/Baichuan-7B">Baichuan-7B</a>，<a href="https://github.com/baichuan-inc/Baichuan-13B">Baichuan-13B</a>，<a href="https://github.com/baichuan-inc/Baichuan2">Baichuan2</a> | <a href="https://huggingface.co/baichuan-inc">Link</a> |  |
-| 2 | ChatGLM系列 | 智谱AI | <a href="https://github.com/THUDM/ChatGLM-6B">ChatGLM-6B</a>，<a href="https://github.com/THUDM/ChatGLM2-6B">ChatGLM2-6B</a>，<a href="https://github.com/THUDM/ChatGLM3">ChatGLM3-6B</a> | <a href="https://huggingface.co/THUDM/chatglm-6b">ChatGLM-6B</a>，<a href="https://huggingface.co/THUDM/chatglm2-6b">ChatGLM2-6B</a>，<a href="https://huggingface.co/THUDM/chatglm3-6b">ChatGLM3-6B</a> |  |
+| 2 | ChatGLM系列 | 智谱AI | <a href="https://github.com/THUDM/ChatGLM-6B">ChatGLM-6B</a>，<a href="https://github.com/THUDM/ChatGLM2-6B">ChatGLM2-6B</a>，<a href="https://github.com/THUDM/ChatGLM3">ChatGLM3-6B</a> | <a href="https://huggingface.co/THUDM/chatglm-6b">ChatGLM-6B</a>，<a href="https://huggingface.co/THUDM/chatglm2-6b">ChatGLM2-6B</a>，<a href="https://huggingface.co/THUDM/chatglm3-6b">ChatGLM3-6B</a> | 
+ |
 | 3 | LLaMA系列 | Meta | <a href="https://github.com/facebookresearch/llama">LLaMA</a> | <a href="https://huggingface.co/daryl149/llama-2-7b-chat-hf">LLaMA2-7B-Chat民间分享</a>，<a href="https://huggingface.co/meta-llama">LLaMA2官方</a> |  |
 | 4 | 中文LLaMA系列 | 科大讯飞 | <a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca">Chinese-LLaMA-Alpaca</a>，<a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca-2">Chinese-LLaMA-Alpaca-2</a> |  |  |
 | 5 | Mistral系列 | Mistral AI |  | <a href="https://huggingface.co/mistralai">Link</a> |  |
@@ -71,6 +72,7 @@
 2. <a href="https://aclanthology.org/2023.findings-eacl.66">MultiFin: A Dataset for Multilingual Financial NLP</a>
 3. 
 
+#### 通用数据集
 | 序号 | 名称 | 语种 | Github | Hugging Face | 文章 | 作者 | 备注 |
 | - | - | - | - | - | - | - | - |
 | 1 | chatgpt-corpus | 中 | <a href="https://github.com/PlexPt/chatgpt-corpus">Link</a> |  |  | PlexPt(民间) | GPT-3.5自问自答数据、客服对话、GPT-3.5生成的小说、网络小说(需申请)、古书资源 |
@@ -84,7 +86,7 @@
 | 9 |  |  |  |  |  |  |  |
 | 10 |  |  |  |  |  |  |  |
 
-
+#### 金融数据集
 | 序号 | 名称 | 语种 | Github | Hugging Face | 文章 | 作者 | 备注 |
 | - | - | - | - | - | - | - | - |
 | 1 | FinNLP | 中英 | <a href="https://github.com/AI4Finance-Foundation/FinNLP">Link</a> |  |  | 哥大刘小洋等 |  |
