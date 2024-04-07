@@ -103,7 +103,7 @@
 |  | FiQA-SA | 英 |  | [Link](https://huggingface.co/datasets/ChanceFocus/flare-fiqasa) | [Link](https://dl.acm.org/doi/fullHtml/10.1145/3184558.3192301) | 德英 | **常用的SA数据集**：1173篇标题、微博，评分[-1,1] |
 |  | SemEval-2017 | 英 | [Bitbucket](https://bitbucket.org/ssix-project/semeval-2017-task-5-subtask-1/src/master/) |  | [Link](https://aclanthology.org/S17-2089/) | 德英 | **综述中提到的的SA数据集**：4157个标题、微博中的句子，评分[-1,1] |
 |  | StockEmotions | 英 | [Link](https://github.com/adlnlp/StockEmotions) |  | [Link](https://arxiv.org/abs/2301.09279) |  | **综述中提到的的SA数据集**：10000个微博中的句子，积极/消极，还有12类细粒度情感类别 |
-|  | Headline | 英   | [Kaggle](https://www.kaggle.com/datasets/daittan/gold-commodity-news-and-dimensions) |  | [Link](https://arxiv.org/abs/2009.04202) |  | **常用的TC数据集**：11412句子，9种2分类问题 |
+|  | Headline | 英 | [Kaggle](https://www.kaggle.com/datasets/daittan/gold-commodity-news-and-dimensions) |  | [Link](https://arxiv.org/abs/2009.04202) |  | **常用的TC数据集**：11412句子，9种2分类问题 |
 |  | FedNLP | 英 | [Link](https://github.com/usydnlp/FedNLP) |  | [Link](https://arxiv.org/abs/2106.06247) |  | **综述中提到的的TC数据集**：来自Federal Open Market Committee (FOMC，联邦公开市场委员会)的材料 |
 |  | FOMC | 英 | [Link](https://github.com/gtfintechlab/fomc-hawkish-dovish)  |  | [Link](https://aclanthology.org/2023.acl-long.368/) |  | **综述中提到的的TC数据集**：来自Federal Open Market Committee (FOMC，联邦公开市场委员会)的材料，鸽派/鹰派/中立 |
 |  | Baking77 | 英 |  | [Link](https://huggingface.co/datasets/PolyAI/banking77) | [Link](https://aclanthology.org/2020.nlp4convai-1.5/) |  | **综述中提到的的TC数据集**：13083句子，77种银行服务类别 |
