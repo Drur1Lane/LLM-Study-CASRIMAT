@@ -218,6 +218,7 @@
 | 20 | NLP工作站 | 1-2B参数规模大模型使用心得及模型汇总 | <a href="https://mp.weixin.qq.com/s/Jnc3fhd-jf0XK4b9PrbZzg">Link</a> |  |
 | 21 | NLP工作站 | 回望做大模型一年后的感悟 | <a href="https://mp.weixin.qq.com/s/CfAY8FCrQKKIrQx3U10EcQ">Link</a> |  |
 | 22 | NewBeeNLP | **LLM 盛行，如何优雅地训练大模型？** | <a href="https://mp.weixin.qq.com/s/hpdGB-2oNH4R8j0zuPj7hA">Link</a> |  |
+| 23 | 中国信通院 | **乘上大语言模型的东风：探究国内金融大模型的发展与生态运营策略** | <a href="https://mp.weixin.qq.com/s/ToVQ-KFwJCv5xzkBZ_3-Dw">Link</a> | 总结了截至2023-12-26的业界金融大模型 |
 
 
 ## 个人博客/团队账号
