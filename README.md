@@ -122,7 +122,7 @@
 ### Other
 |序号|名称|链接|备注|
 |-|-|-|-|
-| 1 | **Chatbot Arena Leaderboard** | <a href="https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard">Link</a> | **FastChat给出的LLM排名** |
+| 1 | **Chatbot Arena Leaderboard** | <a href="https://chat.lmsys.org/?leaderboard">Link</a> | **FastChat给出的LLM排名** |
 | 2 | FastChat | <a href="https://github.com/lm-sys/FastChat">Link</a> | 训练、部署和评估大模型的开源平台 |
 | 3 | GPT Academic | <a href="https://github.com/binary-husky/gpt_academic">Link</a> | 学术ChatGPT |
 | 4 | **Awesome-LLM** | <a href="https://github.com/Hannibal046/Awesome-LLM">Link</a> | **资源集合** |
