@@ -240,14 +240,14 @@
 | 1 | 复旦张奇 | 大规模语言模型：从理论到实践 | <a href="https://intro-llm.github.io/">Link</a> |  |
 | 2 | 刘聪NLP | ChatGPT原理与实战：大型语言模型的算法、技术和私有化 | <a href="https://github.com/liucongg/ChatGPTBook">Link</a> |  |
 | 3 | 中国人工智能学会 | 中国人工智能系列白皮书——大模型技术（2023版） | <a href="https://caai.cn/index.php?s=/home/article/detail/id/3172.html">Link</a> |  |
-| 4 | 人大赵鑫 | **大语言模型** | <a href="https://github.com/LLMBook-zh/LLMBook-zh.github.io">Link</a> |  |
+| 4 | 人大赵鑫 | **大语言模型** | <a href="https://github.com/LLMBook-zh/LLMBook-zh.github.io">Link</a> | <a href="https://github.com/RUCAIBox/LLMBox">配套代码</a>，<a href="https://github.com/RUC-GSAI/YuLan-Chat">配套大模型Yulan</a> |
 
 
 ## Kaggle
 |序号|名称|链接|备注|
 |-|-|-|-|
 | 1 | LLM Science Exam | <a href="https://www.kaggle.com/competitions/kaggle-llm-science-exam/leaderboard">Link</a> | <a href="https://mp.weixin.qq.com/s/tYIBHJ5zuiw-o1-DF0_Jow">中文复盘</a> |
-| 2 | LLM Prompt Recovery | <a href="https://www.kaggle.com/competitions/llm-prompt-recovery/leaderboard">Link</a> | <a href="https://github.com/RUCAIBox/LLMBox">配套代码</a>，<a href="https://github.com/RUC-GSAI/YuLan-Chat">配套大模型Yulan</a> |
+| 2 | LLM Prompt Recovery | <a href="https://www.kaggle.com/competitions/llm-prompt-recovery/leaderboard">Link</a> |  |
 
 
 ## 其余来源
