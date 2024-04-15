@@ -215,10 +215,11 @@
 | 17 | 包包算法笔记 | 大模型微调数据选择和构造技巧 | <a href="https://mp.weixin.qq.com/s/Sf2erEthOZQ3IFMfHMdHKQ">Link</a> | **数据的多样性、不确定性** |
 | 18 | 新智元 | **AI智能体卷爆大模型！AutoGPT等4大Agent打擂，「西部世界」谁将成为软件2.0？** | <a href="https://mp.weixin.qq.com/s/b04F8oQfRaY2z-FjzA4pMw">Link</a> | **对于Agent的全面介绍** |
 | 19 | InfoQ | **金融业采用大模型，是“用大炮轰蚊子”吗** | <a href="https://mp.weixin.qq.com/s/g0e3qVqNzPVnUovGdYBPew">Link</a> |  |
-| 20 | NLP工作站 | 1-2B参数规模大模型使用心得及模型汇总 | <a href="https://mp.weixin.qq.com/s/Jnc3fhd-jf0XK4b9PrbZzg">Link</a> |  |
-| 21 | NLP工作站 | 回望做大模型一年后的感悟 | <a href="https://mp.weixin.qq.com/s/CfAY8FCrQKKIrQx3U10EcQ">Link</a> |  |
-| 22 | NewBeeNLP | **LLM 盛行，如何优雅地训练大模型？** | <a href="https://mp.weixin.qq.com/s/hpdGB-2oNH4R8j0zuPj7hA">Link</a> |  |
-| 23 | 中国信通院 | **乘上大语言模型的东风：探究国内金融大模型的发展与生态运营策略** | <a href="https://mp.weixin.qq.com/s/ToVQ-KFwJCv5xzkBZ_3-Dw">Link</a> | 总结了截至2023-12-26的业界金融大模型 |
+| 20 | InfoQ | **开源金融业大模型，终结“专业打工人”？** | <a href="https://mp.weixin.qq.com/s/rL73Cz72fWYtUb7uBNAIqg">Link</a> | **对目前Github上开源的金融LLM总结** |
+| 21 | NLP工作站 | 1-2B参数规模大模型使用心得及模型汇总 | <a href="https://mp.weixin.qq.com/s/Jnc3fhd-jf0XK4b9PrbZzg">Link</a> |  |
+| 22 | NLP工作站 | 回望做大模型一年后的感悟 | <a href="https://mp.weixin.qq.com/s/CfAY8FCrQKKIrQx3U10EcQ">Link</a> |  |
+| 23 | NewBeeNLP | **LLM 盛行，如何优雅地训练大模型？** | <a href="https://mp.weixin.qq.com/s/hpdGB-2oNH4R8j0zuPj7hA">Link</a> |  |
+| 24 | 中国信通院 | **乘上大语言模型的东风：探究国内金融大模型的发展与生态运营策略** | <a href="https://mp.weixin.qq.com/s/ToVQ-KFwJCv5xzkBZ_3-Dw">Link</a> | 总结了截至2023-12-26的业界金融大模型 |
 
 
 ## 个人博客/团队账号
