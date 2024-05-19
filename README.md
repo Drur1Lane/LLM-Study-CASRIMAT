@@ -20,8 +20,9 @@
 | 8 | Qwen系列 | 阿里 | <a href="https://github.com/QwenLM/Qwen">Link</a> | <a href="https://huggingface.co/Qwen">Link</a> |  |
 | 9 | OLMo | 艾伦AI研究所等 | <a href="https://github.com/allenai/OLMo">Link</a> | <a href="https://huggingface.co/allenai/OLMo-7B/tree/main">Link</a> | 第一个代码、数据、权重、评估、适配全开源LLM，<a href="https://mp.weixin.qq.com/s/v-xCzo6j7sfVK5SF9iLg_A">中文推荐</a> |
 | 10 | MiniCPM | 面壁智能、清华NLP实验室 | <a href="https://github.com/OpenBMB/MiniCPM?tab=readme-ov-file">Link</a> |  | 参数量2.4B |
-| 11 | Vary-toy |  | <a href="https://github.com/Ucas-HaoranWei/Vary-toy">Link</a> | | 多模态大模型，<a href="https://zhuanlan.zhihu.com/p/679447793">中文推荐</a> ，参数量1.8B |
+| 11 | Vary-toy |  | <a href="https://github.com/Ucas-HaoranWei/Vary-toy">Link</a> | | 多模态，<a href="https://zhuanlan.zhihu.com/p/679447793">中文推荐</a> ，参数量1.8B |
 | 12 | Phi-2 | 微软 |  | <a href="https://huggingface.co/microsoft/phi-2">Link</a> |  |
+| 13 | DeepSeek-V2 | DeepSeek | <a href="https://github.com/deepseek-ai/DeepSeek-V2">Link</a> |  | MoE |
 
 ### 微调大模型（金融为主）
 |序号|名称|机构|Github|备注|
