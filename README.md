@@ -229,6 +229,7 @@
 | 22 | NLP工作站 | 回望做大模型一年后的感悟 | <a href="https://mp.weixin.qq.com/s/CfAY8FCrQKKIrQx3U10EcQ">Link</a> |  |
 | 23 | NewBeeNLP | **LLM 盛行，如何优雅地训练大模型？** | <a href="https://mp.weixin.qq.com/s/hpdGB-2oNH4R8j0zuPj7hA">Link</a> |  |
 | 24 | 中国信通院 | **乘上大语言模型的东风：探究国内金融大模型的发展与生态运营策略** | <a href="https://mp.weixin.qq.com/s/ToVQ-KFwJCv5xzkBZ_3-Dw">Link</a> | 总结了截至2023-12-26的业界金融大模型 |
+| 25 | 新智元 | 美国空军高调展示首个AI战斗机！部长亲自试驾全程未干预，10万行代码试飞21次 | <a href="https://mp.weixin.qq.com/s/u1cKkSZa5m9QzuchBkWieQ>Link</a> |  |
 
 
 ## 个人博客/团队账号
