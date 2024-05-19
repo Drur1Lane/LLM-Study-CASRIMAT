@@ -91,6 +91,7 @@
 | 6 | MMLU | 英 | <a href="https://github.com/hendrycks/test">Link</a> |  | <a href="https://arxiv.org/abs/2009.03300">Link</a> | 伯克利 | **综合评测**，57个主题，难度初级->高级专业 |
 | 7 | CMMLU | 中 | <a href="https://github.com/haonan-li/CMMLU">Link</a> |  | <a href="https://arxiv.org/abs/2306.09212">Link</a> | 上交等 | **综合评测**，67个主题，难度基础->高级专业 |
 | 8 | C-Eval | 中 | <a href="https://github.com/hkust-nlp/ceval#data">Link</a> | <a href="https://huggingface.co/datasets/ceval/ceval-exam">Link</a> | <a href="https://arxiv.org/abs/2305.08322">Link</a> | 上交、清华等 | **综合评测**，13948多选题，52个学科，4个难度级别，<a href="https://cevalbenchmark.com/index.html#home">官网</a> |
+| 9 | FineWeb | 英 |  | <a href="https://huggingface.co/datasets/HuggingFaceFW/fineweb">Link</a> |  | HuggingFaceFW | 45T大小，15T tokens的英文网络数据集，来源于CommonCrawl |
 
 #### 金融数据集
 | 序号 | 名称 | 语种 | Github | Hugging Face | 文章 | 作者 | 备注 |
