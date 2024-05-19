@@ -271,6 +271,7 @@
 | 2 | Medium | 12 Prompt Engineering Techniques | <a href="https://cobusgreyling.medium.com/12-prompt-engineering-techniques-644481c857aa">Link</a> | 12种提示方式的介绍（<a href="https://mp.weixin.qq.com/s/1qVhcCRmlYvGZcOe3W3r1Q">中文版</a>） |
 | 3 | **OpenAI** | **Prompt Engineering官方文档** | <a href="https://platform.openai.com/docs/guides/prompt-engineering">Link</a> | <a href="https://mp.weixin.qq.com/s/jOU2qT5o88tuZC1p6vLkJw">中文简介</a> |
 | 4 | **微软** | **Prompt Engineering官方文档** | <a href="https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions#specifying-the-output-structure">Link</a> | <a href="https://mp.weixin.qq.com/s/luovRT3AJJd93LhjpxeYRA">中文简介</a> |
+| 5 | **Ilya Sutskever** | <a href="https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE">Link</a> | OpenAI 联合创始人兼首席科学家 Ilya Sutskever 整理的机器学习研究文章清单 |
 
 ### Other
 |序号|来源|名称|链接|备注|
