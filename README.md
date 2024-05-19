@@ -15,7 +15,7 @@
 | 3 | LLaMA系列 | Meta | <a href="https://github.com/facebookresearch/llama">LLaMA</a> | <a href="https://huggingface.co/daryl149/llama-2-7b-chat-hf">LLaMA2-7B-Chat民间分享</a>，<a href="https://huggingface.co/meta-llama">LLaMA2官方</a>，<a href="https://huggingface.co/collections/meta-llama/meta-llama-3-66214712577ca38149ebb2b6">LLaMA3官方</a> | <a href="https://llama.meta.com/llama3/">Meta LLaMA官网</a> |
 | 4 | 中文LLaMA系列 | 科大讯飞 | <a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca">Chinese-LLaMA-Alpaca</a>，<a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca-2">Chinese-LLaMA-Alpaca-2</a> |  |  |
 | 5 | Mistral系列 | Mistral AI |  | <a href="https://huggingface.co/mistralai">Link</a> |  |
-| 6 | Yi | 01-AI（李开复零一万物） | <a href="https://github.com/01-ai/Yi">Link</a> | <a href="https://huggingface.co/01-ai">Link</a> |  |
+| 6 | Yi系列 | 01-AI（李开复零一万物） | <a href="https://github.com/01-ai/Yi">Link</a> | <a href="https://huggingface.co/01-ai">Link</a> |  |
 | 7 | Bloomz系列 | BigScience（许多志愿科学家自己搞的） |  | <a href="https://huggingface.co/bigscience/bloomz-560m">Link</a> |  |
 | 8 | Qwen系列 | 阿里 | <a href="https://github.com/QwenLM/Qwen">Link</a> | <a href="https://huggingface.co/Qwen">Link</a> |  |
 | 9 | OLMo | 艾伦AI研究所等 | <a href="https://github.com/allenai/OLMo">Link</a> | <a href="https://huggingface.co/allenai/OLMo-7B/tree/main">Link</a> | 第一个代码、数据、权重、评估、适配全开源LLM，<a href="https://mp.weixin.qq.com/s/v-xCzo6j7sfVK5SF9iLg_A">中文推荐</a> |
