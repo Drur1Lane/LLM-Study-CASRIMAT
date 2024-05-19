@@ -235,6 +235,7 @@
 | 24 | 中国信通院 | **乘上大语言模型的东风：探究国内金融大模型的发展与生态运营策略** | <a href="https://mp.weixin.qq.com/s/ToVQ-KFwJCv5xzkBZ_3-Dw">Link</a> | 总结了截至2023-12-26的业界金融大模型 |
 | 25 | 新智元 | 美国空军高调展示首个AI战斗机！部长亲自试驾全程未干预，10万行代码试飞21次 | <a href="https://mp.weixin.qq.com/s/u1cKkSZa5m9QzuchBkWieQ">Link</a> | **有趣的新闻** |
 | 26 | AIGverse | OpenAI使用《金融时报》内容训练模型 | <a href="https://mp.weixin.qq.com/s/QB_QuI4n9OTnLt12ZBPC6w">Link</a> | **有趣的新闻**，<a href="https://aboutus.ft.com/press_release/openai">FT英文官网</a> |
+| 27 | AIGC开放社区 | 摩根大通正式发布IndexGPT，用ChatGPT方式进行投资 | <a href="https://mp.weixin.qq.com/s/B0JYvrCP6E3w9qmqnUvURg">Link</a> | **有趣的新闻**，<a href="https://aboutus.ft.com/press_release/openai">彭博社新闻</a> |
 
 
 ## 个人博客/团队账号
