@@ -12,7 +12,7 @@
 |-|-|-|-|-|-|
 | 1 | Baichuan系列 | 百川智能 | <a href="https://github.com/baichuan-inc/Baichuan-7B">Baichuan-7B</a>，<a href="https://github.com/baichuan-inc/Baichuan-13B">Baichuan-13B</a>，<a href="https://github.com/baichuan-inc/Baichuan2">Baichuan2</a> | <a href="https://huggingface.co/baichuan-inc">Link</a> |  |
 | 2 | ChatGLM系列 | 智谱AI | <a href="https://github.com/THUDM/ChatGLM-6B">ChatGLM-6B</a>，<a href="https://github.com/THUDM/ChatGLM2-6B">ChatGLM2-6B</a>，<a href="https://github.com/THUDM/ChatGLM3">ChatGLM3-6B</a> | <a href="https://huggingface.co/THUDM/chatglm-6b">ChatGLM-6B</a>，<a href="https://huggingface.co/THUDM/chatglm2-6b">ChatGLM2-6B</a>，<a href="https://huggingface.co/THUDM/chatglm3-6b">ChatGLM3-6B</a> | |
-| 3 | LLaMA系列 | Meta | <a href="https://github.com/facebookresearch/llama">LLaMA</a> | <a href="https://huggingface.co/daryl149/llama-2-7b-chat-hf">LLaMA2-7B-Chat民间分享</a>，<a href="https://huggingface.co/meta-llama">LLaMA2官方</a> |  |
+| 3 | LLaMA系列 | Meta | <a href="https://github.com/facebookresearch/llama">LLaMA</a> | <a href="https://huggingface.co/daryl149/llama-2-7b-chat-hf">LLaMA2-7B-Chat民间分享</a>，<a href="https://huggingface.co/meta-llama">LLaMA2官方</a>，<a href="https://huggingface.co/collections/meta-llama/meta-llama-3-66214712577ca38149ebb2b6">LLaMA3官方<a//a> |  |
 | 4 | 中文LLaMA系列 | 科大讯飞 | <a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca">Chinese-LLaMA-Alpaca</a>，<a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca-2">Chinese-LLaMA-Alpaca-2</a> |  |  |
 | 5 | Mistral系列 | Mistral AI |  | <a href="https://huggingface.co/mistralai">Link</a> |  |
 | 6 | Yi | 01-AI（李开复零一万物） | <a href="https://github.com/01-ai/Yi">Link</a> | <a href="https://huggingface.co/01-ai">Link</a> |  |
