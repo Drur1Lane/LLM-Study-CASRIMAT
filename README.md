@@ -1,4 +1,4 @@
-![image](https://github.com/Drur1Lane/LLM-Study-CASRIMAT/assets/129378310/45e0cc7d-f2fd-4128-912d-aa2424206033)# LLM-Study-CASRIMAT
+# LLM-Study-CASRIMAT
 中国科学院大学-经济与管理学院-大数据与金融风险研究团队，大模型学习资料整理。
 
 
@@ -42,8 +42,7 @@
 | 14 | **2023 ChatGLM金融大模型挑战赛** | 阿里 | <a href="https://github.com/MetaGLM/FinGLM?tab=readme-ov-file">Link</a> | **<a href="https://mp.weixin.qq.com/s/FML3mx7McW735Qt0pgy6TQ">中文推文</a>** |
 | 15 | **CFGPT** | 同济 | <a href="https://github.com/TongjiFinLab/CFGPT">Link</a> |  |
 | 16 | ChatGLM微调 | 刘聪NLP | <a href="https://github.com/liucongg/ChatGLM-Finetuning">Link</a> |  |
-| 17 | **LLaMA-Factory** | 郑耀威，北航博士 | <a href="https://github.com/hiyouga/LLaMA-Factory">Link</a> | **大模型微调工具**，<a href="https://mp.weixin.qq.com/s/VS-MFKL5kUxYbdrnkytO7A">最下方有讲解视频</a> |
-| 18 | **Stanford Alpaca** | Stanford | <a href="https://github.com/tatsu-lab/stanford_alpaca">Link</a> |  |
+| 17 | **Stanford Alpaca** | Stanford | <a href="https://github.com/tatsu-lab/stanford_alpaca">Link</a> |  |
 
 ### 练手小大模型
 |序号|名称|Github|备注|
@@ -149,6 +148,8 @@
 | 16 | **OpenCompass** | <a href="https://github.com/open-compass/OpenCompass/">Link</a> | **上海AI实验室LLM排名** |
 | 17 | **Open LLM LeaderBoard** | <a href="https://huggingface.co/open-llm-leaderboard">Link</a> | **开源大模型榜单** |
 | 18 | **LangChain** | <a href="https://github.com/langchain-ai/langchain">Link</a> | <a href="https://www.langchain.com/">官网</a> |
+| 19 | LLMBox | <a href="https://github.com/RUCAIBox/LLMBox">Link</a> | 人大赵鑫AI Box团队代码工具库 |
+| 20 | **LLaMA-Factory** | 郑耀威，北航博士 | <a href="https://github.com/hiyouga/LLaMA-Factory">Link</a> | **大模型微调工具**，<a href="https://mp.weixin.qq.com/s/VS-MFKL5kUxYbdrnkytO7A">最下方有讲解视频</a> |
 
 
 ## B站
