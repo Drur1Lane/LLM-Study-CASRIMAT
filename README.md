@@ -65,6 +65,15 @@
 | 3 | PromptSource | <a href="https://github.com/bigscience-workshop/promptsource">Link</a> | 自动生成prompt |
 | 4 | **LangGPT** | <a href="https://github.com/EmbraceAGI/LangGPT?tab=readme-ov-file">Link</a> | **结构化prompt——一种面向LLM的编程语言** |
 
+### 资源限制下的大模型技术方法
+|序号|名称|Github|备注|
+|-|-|-|-|
+| 1 | unsloth | <a href="https://github.com/unslothai/unsloth?tab=readme-ov-file">Link</a> |  |
+| 2 | BAdam | <a href="https://github.com/Ledzy/BAdam">Link</a> | 24GB单卡高效训练Llama 3-8B，仅需添加一行代码 |
+| 3 |  |  |  |
+| 4 |  |  |  |
+| 5 |  |  |  |
+
 ### 数据
 包含对数据集的整理的文章：
 1. <a href="https://github.com/adlnlp/FinLLMs?tab=readme-ov-file#advanced-tasks-and-datasets">A Survey of Large Language Models in Finance (FinLLMs)</a>
