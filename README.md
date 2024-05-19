@@ -1,4 +1,4 @@
-# LLM-Study-CASRIMAT
+![image](https://github.com/Drur1Lane/LLM-Study-CASRIMAT/assets/129378310/45e0cc7d-f2fd-4128-912d-aa2424206033)# LLM-Study-CASRIMAT
 中国科学院大学-经济与管理学院-大数据与金融风险研究团队，大模型学习资料整理。
 
 
@@ -148,6 +148,7 @@
 | 15 | **面向开发者的LLM入门课程** | <a href="https://github.com/datawhalechina/prompt-engineering-for-developers?tab=readme-ov-file">Link</a> | **吴恩达LLM课程中文版** |
 | 16 | **OpenCompass** | <a href="https://github.com/open-compass/OpenCompass/">Link</a> | **上海AI实验室LLM排名** |
 | 17 | **Open LLM LeaderBoard** | <a href="https://huggingface.co/open-llm-leaderboard">Link</a> | **开源大模型榜单** |
+| 18 | **LangChain** | <a href="https://github.com/langchain-ai/langchain">Link</a> | <a href="https://www.langchain.com/">官网</a> |
 
 
 ## B站
