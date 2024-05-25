@@ -44,6 +44,7 @@
 | 15 | **CFGPT** | 同济 | <a href="https://github.com/TongjiFinLab/CFGPT">Link</a> |  |
 | 16 | ChatGLM微调 | 刘聪NLP | <a href="https://github.com/liucongg/ChatGLM-Finetuning">Link</a> |  |
 | 17 | **Stanford Alpaca** | Stanford | <a href="https://github.com/tatsu-lab/stanford_alpaca">Link</a> |  |
+| 18 | **YAYI** | 中科闻歌（中科院自动化所） | <a href="https://github.com/wenge-research/YAYI">Link</a> |  |
 
 ### 练手小大模型
 |序号|名称|Github|备注|
