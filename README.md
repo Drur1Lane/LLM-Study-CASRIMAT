@@ -4,7 +4,7 @@
 
 ## 重要网站
 1. <a href="https://blog.waytoagi.com/">通往AGI之路</a>
-2. 
+2. <a href="https://github.com/LlamaFamily/Llama-Chinese">LLaMA中文网站</a>
 
 ## GitHub / Hugging Face
 ### 常用的开源大模型
