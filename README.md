@@ -22,7 +22,7 @@
 | 10 | MiniCPM | 面壁智能、清华NLP实验室 | <a href="https://github.com/OpenBMB/MiniCPM?tab=readme-ov-file">Link</a> |  | 参数量2.4B |
 | 11 | Vary-toy |  | <a href="https://github.com/Ucas-HaoranWei/Vary-toy">Link</a> | | 多模态，<a href="https://zhuanlan.zhihu.com/p/679447793">中文推荐</a> ，参数量1.8B |
 | 12 | Phi系列 | 微软 |  | <a href="https://huggingface.co/collections/microsoft/phi-1-6626e29134744e94e222d572">Phi-1</a>，<a href="https://huggingface.co/microsoft/phi-2">Phi-2</a>，<a href="https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3">Phi-3</a> | 小模型 |
-| 13 | DeepSeek-V2 | DeepSeek | <a href="https://github.com/deepseek-ai/DeepSeek-V2">Link</a> |  | MoE |
+| 13 | DeepSeek-V2 | DeepSeek | <a href="https://github.com/deepseek-ai/DeepSeek-V2">Link</a> |  | <a href"https://www.deepseek.com/">DeepSeek官网</a> |
 
 ### 微调大模型（金融为主）
 |序号|名称|机构|Github|备注|
