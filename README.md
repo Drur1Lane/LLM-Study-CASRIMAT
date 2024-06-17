@@ -5,6 +5,7 @@
 ## 重要网站
 1. <a href="https://blog.waytoagi.com/">通往AGI之路</a>
 2. <a href="https://github.com/LlamaFamily/Llama-Chinese">LLaMA中文网站</a>
+3. <a href="https://github.com/Lordog/dive-into-llms">《动手学大模型》系列编程实践教程</a>
 
 ## GitHub / Hugging Face
 ### 常用的开源大模型
