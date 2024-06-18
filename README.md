@@ -247,6 +247,7 @@
 | 27 | AIGC开放社区 | 摩根大通正式发布IndexGPT，用ChatGPT方式进行投资 | <a href="https://mp.weixin.qq.com/s/B0JYvrCP6E3w9qmqnUvURg">Link</a> | **有趣的新闻**，<a href="https://aboutus.ft.com/press_release/openai">彭博社新闻</a> |
 | 28 | AIGC开放社区 | ChatGPT Edu版本来啦：支持GPT-4o、自定义GPT、数据分析等 | <a href="https://mp.weixin.qq.com/s/_zljXwvak2EYt4P6rq5P8Q">Link</a> | **有趣的新闻** |
 | 29 | AIGC开放社区 | OpenAI与普华永道合作，为10万员工提供ChatGPT | <a href="https://mp.weixin.qq.com/s/nIg1QFTvXc92sFsgxzIe2w">Link</a> | **有趣的新闻** |
+| 30 | AIGC开放社区 | 美国空军发布类ChatGPT产品—NIPRGPT | <a href="https://mp.weixin.qq.com/s/BANX0u71ysqzsRLcODFxKg">Link</a> | **有趣的新闻** |
 
 
 ## 个人博客/团队账号
