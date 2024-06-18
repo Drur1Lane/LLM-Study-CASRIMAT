@@ -67,6 +67,12 @@
 | 3 | PromptSource | <a href="https://github.com/bigscience-workshop/promptsource">Link</a> | 自动生成prompt |
 | 4 | **LangGPT** | <a href="https://github.com/EmbraceAGI/LangGPT?tab=readme-ov-file">Link</a> | **结构化prompt——一种面向LLM的编程语言** |
 
+### Agent
+|序号|名称|Github or Hugging Face|备注|
+|-|-|-|-|
+| 1 | **AutoGPT** | <a href="https://github.com/Significant-Gravitas/AutoGPT">Link</a> | **单智能体** |
+| 2 |  | <a href="">Link</a> |  |
+
 ### 资源限制下的大模型技术方法
 |序号|名称|Github|备注|
 |-|-|-|-|
@@ -144,7 +150,7 @@
 | 8 | tiktoken | <a href="https://github.com/openai/tiktoken">Link</a> | OpenAI的tokenize方式 |
 | 9 | sentencepiece | <a href="https://github.com/google/sentencepiece">Link</a> | Google的tokenizer |
 | 10 | KeepChatGPT | <a href="https://github.com/xcanwin/KeepChatGPT">Link</a> | 提高ChatGPT的数据安全能力和效率的插件 |
-| 11 | LoRA | <a href="https://github.com/microsoft/LoRA">Link</a> |  |
+| 11 | LoRA | <a href="https://github.com/mficrosoft/LoRA">Link</a> |  |
 | 12 | QLoRA | <a href="https://github.com/artidoro/qlora">Link</a> |  |
 | 13 | **Awesome Chinese LLMs** | <a href="https://github.com/HqWu-HITCS/Awesome-Chinese-LLM?tab=readme-ov-file#%E9%87%91%E8%9E%8D">Link</a> | **各行业中文开源金融大模型整理** |
 | 14 | PowerInfer | <a href="https://github.com/SJTU-IPADS/PowerInfer">Link</a> |  |
