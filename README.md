@@ -245,6 +245,8 @@
 | 25 | 新智元 | 美国空军高调展示首个AI战斗机！部长亲自试驾全程未干预，10万行代码试飞21次 | <a href="https://mp.weixin.qq.com/s/u1cKkSZa5m9QzuchBkWieQ">Link</a> | **有趣的新闻** |
 | 26 | AIGverse | OpenAI使用《金融时报》内容训练模型 | <a href="https://mp.weixin.qq.com/s/QB_QuI4n9OTnLt12ZBPC6w">Link</a> | **有趣的新闻**，<a href="https://aboutus.ft.com/press_release/openai">FT英文官网</a> |
 | 27 | AIGC开放社区 | 摩根大通正式发布IndexGPT，用ChatGPT方式进行投资 | <a href="https://mp.weixin.qq.com/s/B0JYvrCP6E3w9qmqnUvURg">Link</a> | **有趣的新闻**，<a href="https://aboutus.ft.com/press_release/openai">彭博社新闻</a> |
+| 28 | AIGC开放社区 | ChatGPT Edu版本来啦：支持GPT-4o、自定义GPT、数据分析等 | <a href="https://mp.weixin.qq.com/s/_zljXwvak2EYt4P6rq5P8Q">Link</a> | **有趣的新闻** |
+| 29 | AIGC开放社区 | OpenAI与普华永道合作，为10万员工提供ChatGPT | <a href="https://mp.weixin.qq.com/s/nIg1QFTvXc92sFsgxzIe2w">Link</a> | **有趣的新闻** |
 
 
 ## 个人博客/团队账号
