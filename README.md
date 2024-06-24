@@ -73,6 +73,7 @@
 |-|-|-|-|
 | 1 | **AutoGPT** | <a href="https://github.com/Significant-Gravitas/AutoGPT">Link</a> | **单智能体** |
 | 2 | **AgentScope** | <a href="https://github.com/modelscope/agentscope?tab=readme-ov-file">Link</a> | **魔搭社区的Multi-Agent平台** |
+| 3 | **Translation-Agent** | <a href="https://github.com/andrewyng/translation-agent">Link</a> | **吴恩达开源的翻译Agent** |
 
 ### 资源限制下的大模型技术方法
 |序号|名称|Github|备注|
