@@ -7,6 +7,7 @@
 2. <a href="https://github.com/LlamaFamily/Llama-Chinese">LLaMA中文网站</a>
 3. <a href="https://github.com/Lordog/dive-into-llms">《动手学大模型》系列编程实践教程</a>
 4. <a href="https://github.com/karpathy/LLM101n">Karpathy的LLM教程</a>
+5. <a href="https://github.com/datawhalechina">Datawhale Github主页</a>
 
 ## GitHub / Hugging Face
 ### 常用的开源大模型
